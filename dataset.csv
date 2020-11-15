@@ -1,784 +1,784 @@
-ID;Nom;Types;Espèce;Taille;Poids;Étymologie
-001;Bulbizarre;plante poison;Pokémon Graine;0.7 mètre(s) (2.3667 pied(s));6.9 kilo(s) (15.2145 livre(s));Bulbe + Bizarre
-002;Herbizarre;plante poison;Pokémon Graine;1 mètre(s) (3.381 pied(s));13 kilo(s) (28.665 livre(s));Bulbe + Bizarre
-003;Florizarre;plante poison;Pokémon Graine;2 mètre(s) (6.762 pied(s));100 kilo(s) (220.5 livre(s));Flore + Bizarre
-004;Salameche;feu ;Pokémon Lézard;0.6 mètre(s) (2.0286 pied(s));8.5 kilo(s) (18.7425 livre(s));Salamandre + Mèche
-005;Reptincel;feu ;Pokémon Flamme;1.1 mètre(s) (3.7191 pied(s));19 kilo(s) (41.895 livre(s));Reptile + Étincelle
-006;Dracaufeu;feu vol;Pokémon Flamme;1.7 mètre(s) (5.7477 pied(s));90.5 kilo(s) (199.5525 livre(s));Draco + Feu
-007;Carapuce;eau ;Pokémon Minitortue;0.5 mètre(s) (1.6905 pied(s));9 kilo(s) (19.845 livre(s));Carapace + Puce
-008;Carabaffe;eau ;Pokémon Tortue;1 mètre(s) (3.381 pied(s));22.5 kilo(s) (49.6125 livre(s));Carapace + Baffe
-009;Tortank;eau ;Pokémon Carapace;1.6 mètre(s) (5.4096 pied(s));85.5 kilo(s) (188.5275 livre(s));Tortue + Tank
-010;Chenipan;insecte ;Pokémon Ver;0.3 mètre(s) (1.0143 pied(s));2.9 kilo(s) (6.3945 livre(s));Chenille + Chenapan
-011;Chrysacier;insecte ;Pokémon Cocon;0.7 mètre(s) (2.3667 pied(s));9.9 kilo(s) (21.8295 livre(s));Chrysalide + Acier
-012;Papilusion;insecte vol;Pokémon Papillon;1.1 mètre(s) (3.7191 pied(s));32 kilo(s) (70.56 livre(s));Papillon + Illusion
-013;Aspicot;insecte poison;Pokémon Insectopic;0.3 mètre(s) (1.0143 pied(s));3.2 kilo(s) (7.056 livre(s));Asticot + Picot
-014;Coconfort;insecte poison;Pokémon Cocon;0.6 mètre(s) (2.0286 pied(s));10 kilo(s) (22.05 livre(s));Cocon + Fort
-015;Dardargnan;insecte poison;Pokémon Guêpoison;1 mètre(s) (3.381 pied(s));29.5 kilo(s) (65.0475 livre(s));Dard + D’Artagnan + « dare-dare »
-016;Roucool;normal vol;Pokémon Minoiseau;0.3 mètre(s) (1.0143 pied(s));1.8 kilo(s) (3.969 livre(s));Roucouler + Cool
-017;Roucoups;normal vol;Pokémon Oiseau;1.1 mètre(s) (3.7191 pied(s));30 kilo(s) (66.15 livre(s));Roucouler + Coups
-018;Roucarnage;normal vol;Pokémon Oiseau;1.5 mètre(s) (5.0715 pied(s));39.5 kilo(s) (87.0975 livre(s));Roucouler + Carnage
-019;Rattata;normal ;Pokémon Souris;0.3 mètre(s) (1.0143 pied(s));3.5 kilo(s) (7.7175 livre(s));Rat + Attaque
-020;Rattatac;normal ;Pokémon Souris;0.7 mètre(s) (2.3667 pied(s));18.5 kilo(s) (40.7925 livre(s));Rat + Attaque
-021;Piafabec;normal vol;Pokémon Minoiseau;0.3 mètre(s) (1.0143 pied(s));2 kilo(s) (4.41 livre(s));« Piaf à bec »
-022;Rapasdepic;normal vol;Pokémon Bec-Oiseau;1.2 mètre(s) (4.0572 pied(s));38 kilo(s) (83.79 livre(s));Rapace + As de Pique
-023;Abo;poison ;Pokémon Serpent;2 mètre(s) (6.762 pied(s));6.9 kilo(s) (15.2145 livre(s));Anagramme de Boa
-024;Arbok;poison ;Pokémon Cobra;3.5 mètre(s) (11.8335 pied(s));65 kilo(s) (143.325 livre(s));Cobra écrit à l’envers + « k »
-025;Pikachu;electrik ;Pokémon Souris;0.4 mètre(s) (1.3524 pied(s));6 kilo(s) (13.23 livre(s));Pika + « Chūchū »
-026;Raichu;electrik ;Pokémon Souris;0.8 mètre(s) (2.7048 pied(s));30 kilo(s) (66.15 livre(s));« Rai » (Tonnerre) + « Chūchū »
-027;Sabelette;sol ;Pokémon Pokémon Souris;0.6 mètre(s) (2.0286 pied(s));12 kilo(s) (26.46 livre(s));Sable + Belette
-028;Sablaireau;sol ;Pokémon Souris;1 mètre(s) (3.381 pied(s));29.5 kilo(s) (65.0475 livre(s));« Sable » + « Blaireau »
-029;Nidoran;poison ;Pokémon Venepic;0.4 mètre(s) (1.3524 pied(s));7 kilo(s) (15.435 livre(s));"""Needle"" + « ラン » [ran] (orchidée)"
-030;Nidorina;poison ;Pokémon Venepic;0.8 mètre(s) (2.7048 pied(s));20 kilo(s) (44.1 livre(s));"""Needle"" + ""Rina"""
-031;Nidoqueen;poison sol;Pokémon Perceur;1.3 mètre(s) (4.3953 pied(s));60 kilo(s) (132.3 livre(s));"""Needle"" + ""Queen"""
-032;Nidoran;poison ;Pokémon Venepic;0.5 mètre(s) (1.6905 pied(s));9 kilo(s) (19.845 livre(s));"""Needle"" + « ラン » [ran] (orchidée)"
-033;Nidorino;poison ;Pokémon Venepic;0.9 mètre(s) (3.0429 pied(s));19.5 kilo(s) (42.9975 livre(s));"""Needle"" + ""Rhino"""
-034;Nidoking;poison sol;Pokémon Perceur;1.4 mètre(s) (4.7334 pied(s));62 kilo(s) (136.71 livre(s));"""Needle"" + ""King"""
-035;Melofee;fee ;Pokémon Fée;0.6 mètre(s) (2.0286 pied(s));7.5 kilo(s) (16.5375 livre(s));« Mélopée » + « Fée »
-036;Melodelfe;fee ;Pokémon Fée;1.3 mètre(s) (4.3953 pied(s));40 kilo(s) (88.2 livre(s));« Mélodie » + « Elfe »
-037;Goupix;feu ;Pokémon Renard;0.6 mètre(s) (2.0286 pied(s));9.9 kilo(s) (21.8295 livre(s));Goupil + Six
-038;Feunard;feu ;Pokémon Renard;1.1 mètre(s) (3.7191 pied(s));19.9 kilo(s) (43.8795 livre(s));Feun + Renard
-039;Rondoudou;normal fee;Pokémon Bouboule;0.5 mètre(s) (1.6905 pied(s));5.5 kilo(s) (12.1275 livre(s));« Rond » + Roudoudou
-040;Grodoudou;normal fee;Pokémon Bouboule;1 mètre(s) (3.381 pied(s));12 kilo(s) (26.46 livre(s));Gros + Doudou
-041;Nosferapti;poison vol;Pokémon Chovsouris;0.8 mètre(s) (2.7048 pied(s));7.5 kilo(s) (16.5375 livre(s));Nosferatu + Petit
-042;Nosferalto;poison vol;Pokémon Chovsouris;1.6 mètre(s) (5.4096 pied(s));55 kilo(s) (121.275 livre(s));Nosferatu + Alto
-043;Mystherbe;plante poison;Pokémon Racine;0.5 mètre(s) (1.6905 pied(s));5.4 kilo(s) (11.907 livre(s));Mystère + Herbe
-044;Ortide;plante poison;Pokémon Racine;0.8 mètre(s) (2.7048 pied(s));8.6 kilo(s) (18.963 livre(s));Ortie + Fétide
-045;Rafflesia;plante poison;Pokémon Fleur;1.2 mètre(s) (4.0572 pied(s));18.6 kilo(s) (41.013 livre(s));Rafflesia
-046;Paras;insecte plante;Pokémon Champignon;0.3 mètre(s) (1.0143 pied(s));5.4 kilo(s) (11.907 livre(s));Diminutif de « Parasites »
-047;Parasect;insecte plante;Pokémon Champignon;1 mètre(s) (3.381 pied(s));29.5 kilo(s) (65.0475 livre(s));Parasite + Insecte
-048;Mimitoss;insecte poison;Pokémon Vermine;1 mètre(s) (3.381 pied(s));30 kilo(s) (66.15 livre(s));Mimi + Mite + Toss
-049;Aeromite;insecte poison;Pokémon Papipoison;1.5 mètre(s) (5.0715 pied(s));12.5 kilo(s) (27.5625 livre(s));Aéro- + Mite
-050;Taupiqueur;sol ;Pokémon Taupe;0.2 mètre(s) (0.6762 pied(s));0.8 kilo(s) (1.764 livre(s));Taupe + Marteau-piqueur
-051;Triopikeur;sol ;Pokémon Taupe;0.7 mètre(s) (2.3667 pied(s));33.3 kilo(s) (73.4265 livre(s));Trio + Marteau-piqueur
-052;Miaouss;normal ;Pokémon Chadégout;0.4 mètre(s) (1.3524 pied(s));4.2 kilo(s) (9.261 livre(s));Dérivé de Miaou
-053;Persian;normal ;Pokémon Chadeville;1 mètre(s) (3.381 pied(s));32 kilo(s) (70.56 livre(s));Dérivé de Persan
-054;Psykokwak;eau ;Pokémon Canard;0.8 mètre(s) (2.7048 pied(s));19.6 kilo(s) (43.218 livre(s));Psycho + Dérivé de Couac
-055;Akwakwak;eau ;Pokémon Canard;1.7 mètre(s) (5.7477 pied(s));76.6 kilo(s) (168.903 livre(s));Dérivé de Aqua + Dérivé de Couac
-056;Ferosinge;combat ;Pokémon Porsinge;0.5 mètre(s) (1.6905 pied(s));28 kilo(s) (61.74 livre(s));Féroce + Singe
-057;Colossinge;combat ;Pokémon Porsinge;1 mètre(s) (3.381 pied(s));32 kilo(s) (70.56 livre(s));Colosse + Singe
-058;Caninos;feu ;Pokémon Chiot;0.7 mètre(s) (2.3667 pied(s));19 kilo(s) (41.895 livre(s));"Canin + ""-os"""
-059;Arcanin;feu ;Pokémon Légendaire;1.9 mètre(s) (6.4239 pied(s));155 kilo(s) (341.775 livre(s));Arcane + Canin
-060;Ptitard;eau ;Pokémon Têtard;0.6 mètre(s) (2.0286 pied(s));12.4 kilo(s) (27.342 livre(s));Petit + Têtard
-061;Tetarte;eau ;Pokémon Têtard;1 mètre(s) (3.381 pied(s));20 kilo(s) (44.1 livre(s));Têtard + Tarte
-062;Tartard;eau combat;Pokémon Têtard;1.3 mètre(s) (4.3953 pied(s));54 kilo(s) (119.07 livre(s));Tarte + Têtard
-063;Abra;psy ;Pokémon Psy;0.9 mètre(s) (3.0429 pied(s));19.5 kilo(s) (42.9975 livre(s));"""Abracadabra"""
-064;Kadabra;psy ;Pokémon Psy;1.3 mètre(s) (4.3953 pied(s));56.5 kilo(s) (124.5825 livre(s));"""Abracadabra"""
-065;Alakazam;psy ;Pokémon Psy;1.5 mètre(s) (5.0715 pied(s));48 kilo(s) (105.84 livre(s));« Alakazam »
-066;Machoc;combat ;Pokémon Colosse;0.8 mètre(s) (2.7048 pied(s));19.5 kilo(s) (42.9975 livre(s));Macho + Choc
-067;Machopeur;combat ;Pokémon Colosse;1.5 mètre(s) (5.0715 pied(s));70.5 kilo(s) (155.4525 livre(s));Macho + Chopeur
-068;Mackogneur;combat ;Pokémon Colosse;1.6 mètre(s) (5.4096 pied(s));130 kilo(s) (286.65 livre(s));Macho + Cogneur
-069;Chetiflor;plante poison;Pokémon Fleur;0.7 mètre(s) (2.3667 pied(s));4 kilo(s) (8.82 livre(s));Chétif + Fleur
-070;Boustiflor;plante poison;Pokémon Carnivore;1 mètre(s) (3.381 pied(s));6.4 kilo(s) (14.112 livre(s));Boustifaille + Fleur
-071;Empiflor;plante poison;Pokémon Carnivore;1.7 mètre(s) (5.7477 pied(s));15.5 kilo(s) (34.1775 livre(s));Empiffrer + Fleur
-072;Tentacool;eau poison;Pokémon Mollusque;0.9 mètre(s) (3.0429 pied(s));45.5 kilo(s) (100.3275 livre(s));Tentacule + Cool
-073;Tentacruel;eau poison;Pokémon Mollusque;1.6 mètre(s) (5.4096 pied(s));55 kilo(s) (121.275 livre(s));Tentacule + Cruel
-074;Racaillou;roche sol;Pokémon Roche;0.4 mètre(s) (1.3524 pied(s));20 kilo(s) (44.1 livre(s));Racaille + Caillou
-075;Gravalanch;roche sol;Pokémon Roche;1 mètre(s) (3.381 pied(s));15 kilo(s) (33.075 livre(s));Gravats + Avalanche
-076;Grolem;roche sol;Pokémon Titanesque;1.4 mètre(s) (4.7334 pied(s));300 kilo(s) (661.5 livre(s));Gros + Golem
-077;Ponyta;feu ;Pokémon Cheval Feu;1 mètre(s) (3.381 pied(s));30 kilo(s) (66.15 livre(s));Poney + Bonita
-078;Galopa;feu ;Pokémon Cheval Feu;1 mètre(s) (3.381 pied(s));95 kilo(s) (209.475 livre(s));Diminutif de Galopade
-079;Ramoloss;eau psy;Pokémon Crétin;1.2 mètre(s) (4.0572 pied(s));36 kilo(s) (79.38 livre(s));Ramollo + Molosse
-080;Flagadoss;eau psy;Pokémon Symbiose;1.6 mètre(s) (5.4096 pied(s));78.5 kilo(s) (173.0925 livre(s));Flagada + Molosse
-081;Magneti;electrik acier;Pokémon Magnétique;0.3 mètre(s) (1.0143 pied(s));6 kilo(s) (13.23 livre(s));Diminitif de Magnétique
-082;Magneton;electrik acier;Pokémon Magnétique;1 mètre(s) (3.381 pied(s));66 kilo(s) (145.53 livre(s));"Magnétique + ""-On"""
-083;Canarticho;normal vol;Pokémon Canard Fou;0.8 mètre(s) (2.7048 pied(s));15 kilo(s) (33.075 livre(s));Canard + Artichaut
-084;Doduo;normal vol;Pokémon Duoiseau;1.4 mètre(s) (4.7334 pied(s));39.2 kilo(s) (86.436 livre(s));Dodo + Duo
-085;Dodrio;normal vol;Pokémon Trioiseau;1.8 mètre(s) (6.0858 pied(s));85.2 kilo(s) (187.866 livre(s));Dodo + Trio
-086;Otaria;eau ;Pokémon Otarie;1.1 mètre(s) (3.7191 pied(s));90 kilo(s) (198.45 livre(s));"Dérivé de ""Otarie"""
-087;Lamantine;eau glace;Pokémon Otarie;1.7 mètre(s) (5.7477 pied(s));120 kilo(s) (264.6 livre(s));Lamantin + Comptine
-088;Tadmorv;poison ;Pokémon Dégueu;0.9 mètre(s) (3.0429 pied(s));30 kilo(s) (66.15 livre(s));"Dérivé de ""Tas de morve"""
-089;Grotadmorv;poison ;Pokémon Dégueu;1.2 mètre(s) (4.0572 pied(s));30 kilo(s) (66.15 livre(s));"Dérivé de ""Gros tas de morve"""
-090;Kokiyas;eau ;Pokémon Bivalve;0.3 mètre(s) (1.0143 pied(s));4 kilo(s) (8.82 livre(s));"Dérivé de ""Coquillage"""
-091;Crustabri;eau glace;Pokémon Bivalve;1.5 mètre(s) (5.0715 pied(s));132.5 kilo(s) (292.1625 livre(s));Crustacé + Abri
-092;Fantominus;spectre poison;Pokémon Gaz;1.3 mètre(s) (4.3953 pied(s));0.1 kilo(s) (0.2205 livre(s));Fantôme + Minuscule
-093;Spectrum;spectre poison;Pokémon Gaz;1.6 mètre(s) (5.4096 pied(s));0.1 kilo(s) (0.2205 livre(s));"Dérivé de ""Spectre"
-094;Ectoplasma;spectre poison;Pokémon Ombre;1.5 mètre(s) (5.0715 pied(s));40.5 kilo(s) (89.3025 livre(s));"Dérivé de ""Ectoplasme"""
-095;Onix;roche sol;Pokémon Serpenroc;8.8 mètre(s) (29.7528 pied(s));210 kilo(s) (463.05 livre(s));Dérivé de Onyx
-096;Soporifik;psy ;Pokémon Hypnose;1 mètre(s) (3.381 pied(s));32.4 kilo(s) (71.442 livre(s));Dérivé de Soporifique
-097;Hypnomade;psy ;Pokémon Hypnose;1.6 mètre(s) (5.4096 pied(s));75.6 kilo(s) (166.698 livre(s));Hypno + Nomade
-098;Krabby;eau ;Pokémon Doux Crabe;0.4 mètre(s) (1.3524 pied(s));6.5 kilo(s) (14.3325 livre(s));Crabe + -y
-099;Krabboss;eau ;Pokémon Pince;1.3 mètre(s) (4.3953 pied(s));60 kilo(s) (132.3 livre(s));Crabe + Boss
-100;Voltorbe;electrik ;Pokémon Balle;0.5 mètre(s) (1.6905 pied(s));10.4 kilo(s) (22.932 livre(s));Volt + Orbe
-101;Electrode;electrik ;Pokémon Balle;1.2 mètre(s) (4.0572 pied(s));66.6 kilo(s) (146.853 livre(s));Électrode
-102;Noeunoeuf;plante psy;Pokémon Oeuf;0.4 mètre(s) (1.3524 pied(s));2.5 kilo(s) (5.5125 livre(s));"""Œuf"" répété deux fois"
-103;Noadkoko;plante psy;Pokémon Fruitpalme;2 mètre(s) (6.762 pied(s));120 kilo(s) (264.6 livre(s));"Dérivé de ""Noix de coco"""
-104;Osselait;sol ;Pokémon Solitaire;0.4 mètre(s) (1.3524 pied(s));6.5 kilo(s) (14.3325 livre(s));Osselet + Lait
-105;Ossatueur;sol ;Pokémon Gard'Os;1 mètre(s) (3.381 pied(s));45 kilo(s) (99.225 livre(s));Osselet + Tueur
-106;Kicklee;combat ;Pokémon Latteur;1.5 mètre(s) (5.0715 pied(s));49.8 kilo(s) (109.809 livre(s));Kick + Bruce Lee
-107;Tygnon;combat ;Pokémon Puncheur;1.4 mètre(s) (4.7334 pied(s));50.2 kilo(s) (110.691 livre(s));Mike Tyson + Gnon
-108;Excelangue;normal ;Pokémon Lécheur;1.2 mètre(s) (4.0572 pied(s));65.5 kilo(s) (144.4275 livre(s));Excès + Langue
-109;Smogo;poison ;Pokémon Gaz Mortel;0.6 mètre(s) (2.0286 pied(s));1 kilo(s) (2.205 livre(s));Vient de « Smog »
-110;Smogogo;poison ;Pokémon Gaz Mortel;1.2 mètre(s) (4.0572 pied(s));9.5 kilo(s) (20.9475 livre(s));Smog + « A gogo »
-111;Rhinocorne;sol roche;Pokémon Piquant;1 mètre(s) (3.381 pied(s));115 kilo(s) (253.575 livre(s));Rhinocéros + Corne
-112;Rhinoferos;sol roche;Pokémon Perceur;1.9 mètre(s) (6.4239 pied(s));120 kilo(s) (264.6 livre(s));Rhinocéros + Féroce
-113;Leveinard;normal ;Pokémon Œuf;1.1 mètre(s) (3.7191 pied(s));34.6 kilo(s) (76.293 livre(s));"""Le veinard !"""
-114;Saquedeneu;plante ;Pokémon Vigne;1 mètre(s) (3.381 pied(s));35 kilo(s) (77.175 livre(s));"Dérivé de ""Sac de nœuds"""
-115;Kangourex;normal ;Pokémon Maternel;2.2 mètre(s) (7.4382 pied(s));80 kilo(s) (176.4 livre(s));Kangourou + Rex
-116;Hypotrempe;eau ;Pokémon Dragon;0.4 mètre(s) (1.3524 pied(s));8 kilo(s) (17.64 livre(s));Hippocampe + Tremper
-117;Hypocean;eau ;Pokémon Dragon;1.2 mètre(s) (4.0572 pied(s));25 kilo(s) (55.125 livre(s));Hippocampe + Océan
-118;Poissirene;eau ;Pokémon Poisson;0.6 mètre(s) (2.0286 pied(s));15 kilo(s) (33.075 livre(s));Poisson + Sirène
-119;Poissoroy;eau ;Pokémon Poisson;1.3 mètre(s) (4.3953 pied(s));39 kilo(s) (85.995 livre(s));Poisson + Roy
-120;Stari;eau ;Pokémon Étoile;0.8 mètre(s) (2.7048 pied(s));34.5 kilo(s) (76.0725 livre(s));"Stari : Star + ""-i"""
-121;Staross;eau psy;Pokémon Mystérieux;1.1 mètre(s) (3.7191 pied(s));80 kilo(s) (176.4 livre(s));Star + Boss
-122;M;psy fee;Pokémon Bloqueur;1.3 mètre(s) (4.3953 pied(s));54.5 kilo(s) (120.1725 livre(s));M. Mime : Monsieur + Mime
-123;Insecateur;insecte vol;Pokémon Mante;1.5 mètre(s) (5.0715 pied(s));56 kilo(s) (123.48 livre(s));Insécateur : Insecte + Sécateur
-124;Lippoutou;glace psy;Pokémon Humanoïde;1.4 mètre(s) (4.7334 pied(s));40.6 kilo(s) (89.523 livre(s));Lip + Poutou
-125;Elektek;electrik ;Pokémon Électrique;1.1 mètre(s) (3.7191 pied(s));30 kilo(s) (66.15 livre(s));"Dérivé de ""Électrotechnique"""
-126;Magmar;feu ;Pokémon Crache-feu;1.3 mètre(s) (4.3953 pied(s));44.5 kilo(s) (98.1225 livre(s));"Magma + ""-ar"""
-127;Scarabrute;insecte ;Pokémon Scarabée;1.5 mètre(s) (5.0715 pied(s));55 kilo(s) (121.275 livre(s));Scarabrute : Scarabée + Brute
-128;Tauros;normal ;Pokémon Buffle;1.4 mètre(s) (4.7334 pied(s));88.4 kilo(s) (194.922 livre(s));"Dérivé de ""Taureau"" + ""-os"""
-129;Magicarpe;eau ;Pokémon Poisson;0.9 mètre(s) (3.0429 pied(s));10 kilo(s) (22.05 livre(s));« Magoi » + Carpe
-130;Leviator;eau vol;Pokémon Terrifiant;6.5 mètre(s) (21.9765 pied(s));235 kilo(s) (518.175 livre(s));"Léviathan + ""-or"""
-131;Lokhlass;eau glace;Pokémon Transport;2.5 mètre(s) (8.4525 pied(s));220 kilo(s) (485.1 livre(s));"Loch Ness + ""La classe"""
-132;Metamorph;normal ;Pokémon Morphing;0.3 mètre(s) (1.0143 pied(s));4 kilo(s) (8.82 livre(s));"Dérivé de ""Métamorphe"""
-133;Evoli;normal ;Pokémon Evolutif;0.3 mètre(s) (1.0143 pied(s));6.5 kilo(s) (14.3325 livre(s));Évolution + « -li »
-134;Aquali;eau ;Pokémon Bulleur;1 mètre(s) (3.381 pied(s));29 kilo(s) (63.945 livre(s));« Aqua » + « -li »
-135;Voltali;electrik ;Pokémon Orage;0.8 mètre(s) (2.7048 pied(s));24.5 kilo(s) (54.0225 livre(s));Volt + « -li »
-136;Pyroli;feu ;Pokémon Flamme;0.9 mètre(s) (3.0429 pied(s));25 kilo(s) (55.125 livre(s));« Pyros » + « -li »
-137;Porygon;normal ;Pokémon Virtuel;0.8 mètre(s) (2.7048 pied(s));36.5 kilo(s) (80.4825 livre(s));"Dérivé de ""Polygone"""
-138;Amonita;roche eau;Pokémon Spirale;0.4 mètre(s) (1.3524 pied(s));7.5 kilo(s) (16.5375 livre(s));Vient du mot Ammonite
-139;Amonistar;roche eau;Pokémon Spirale;1 mètre(s) (3.381 pied(s));35 kilo(s) (77.175 livre(s));Ammonite + « Star »
-140;Kabuto;roche eau;Pokémon Carapace;0.5 mètre(s) (1.6905 pied(s));11.5 kilo(s) (25.3575 livre(s));Kabuto
-141;Kabutops;roche eau;Pokémon Carapace;1.3 mètre(s) (4.3953 pied(s));40.5 kilo(s) (89.3025 livre(s));Kabuto + Top
-142;Ptera;roche vol;Pokémon Fossile;1.8 mètre(s) (6.0858 pied(s));59 kilo(s) (130.095 livre(s));Diminutif de Ptéranodon
-143;Ronflex;normal ;Pokémon Pionceur;2.1 mètre(s) (7.1001 pied(s));460 kilo(s) (1014.3 livre(s));Ronflement + Flexible
-144;Artikodin;glace vol;Pokémon Glaciaire;1.7 mètre(s) (5.7477 pied(s));55.4 kilo(s) (122.157 livre(s));Arctique + Odin
-145;Electhor;electrik vol;Pokémon Électrique;1.6 mètre(s) (5.4096 pied(s));52.6 kilo(s) (115.983 livre(s));Électrique + Thor
-146;Sulfura;feu vol;Pokémon Flamme;2 mètre(s) (6.762 pied(s));60 kilo(s) (132.3 livre(s));Sulfure + Râ
-147;Minidraco;dragon ;Pokémon Dragon;1.8 mètre(s) (6.0858 pied(s));3.3 kilo(s) (7.2765 livre(s));Mini + Draco
-148;Draco;dragon ;Pokémon Dragon;4 mètre(s) (13.524 pied(s));16.5 kilo(s) (36.3825 livre(s));Draco
-149;Dracolosse;dragon vol;Pokémon Dragon;2.2 mètre(s) (7.4382 pied(s));210 kilo(s) (463.05 livre(s));Draco + Colosse
-151;Mewtwo;psy ;Pokémon Nouveau;0.4 mètre(s) (1.3524 pied(s));4 kilo(s) (8.82 livre(s));du mot japonais « myūtanto » (signifiant « mutant »)
-152;Mew;plante ;Pokémon Feuille;0.9 mètre(s) (3.0429 pied(s));6.4 kilo(s) (14.112 livre(s));« Germe » + « Mignon »
-153;Germignon;plante ;Pokémon Feuille;1.2 mètre(s) (4.0572 pied(s));15.8 kilo(s) (34.839 livre(s));« Macro » + « Géranium »
-154;Macronium;plante ;Pokémon Herbe;1.8 mètre(s) (6.0858 pied(s));100.5 kilo(s) (221.6025 livre(s));« Méga » + « Géranium »
-155;Meganium;feu ;Pokémon Souris Feu;0.5 mètre(s) (1.6905 pied(s));7.9 kilo(s) (17.4195 livre(s));« Hérisson » + « Cendre »
-156;Hericendre;feu ;Pokémon Volcan;0.9 mètre(s) (3.0429 pied(s));19 kilo(s) (41.895 livre(s));« Feu » + « Hérisson »
-157;Feurisson;feu ;Pokémon Volcan;1.7 mètre(s) (5.7477 pied(s));79.5 kilo(s) (175.2975 livre(s));« Typhon » + « Explosion »
-158;Typhlosion;eau ;Pokémon Mâchoire;0.6 mètre(s) (2.0286 pied(s));9.5 kilo(s) (20.9475 livre(s));« Caïman » + « Minus »
-159;Kaiminus;eau ;Pokémon Mâchoire;1.1 mètre(s) (3.7191 pied(s));25 kilo(s) (55.125 livre(s));« Croc » + « Crocodile »
-160;Crocrodil;eau ;Pokémon Mâchoire;2.3 mètre(s) (7.7763 pied(s));88.8 kilo(s) (195.804 livre(s));« Alligator » + « Tueur »
-161;Aligatueur;normal ;Pokémon Espion;0.8 mètre(s) (2.7048 pied(s));6 kilo(s) (13.23 livre(s));« Fouine » + « Belette »
-162;Fouinette;normal ;Pokémon Allongé;1.8 mètre(s) (6.0858 pied(s));32.5 kilo(s) (71.6625 livre(s));« Fouine » + « Renard »
-163;Fouinar;normal vol;Pokémon Hibou;0.7 mètre(s) (2.3667 pied(s));21.2 kilo(s) (46.746 livre(s));Dérivé de « hou hou »
-164;Hoothoot;normal vol;Pokémon Hibou;1.6 mètre(s) (5.4096 pied(s));40.8 kilo(s) (89.964 livre(s));« Nocturne » + « Harfang »
-165;Noarfang;insecte vol;Pokémon 5 étoiles;1 mètre(s) (3.381 pied(s));10.8 kilo(s) (23.814 livre(s));Dérivé de « coccinelle »
-166;Coxy;insecte vol;Pokémon 5 étoiles;1.4 mètre(s) (4.7334 pied(s));35.6 kilo(s) (78.498 livre(s));« Coccinelle » + « Claque »
-167;Coxyclaque;insecte poison;Pokémon Crache Fil;0.5 mètre(s) (1.6905 pied(s));8.5 kilo(s) (18.7425 livre(s));« Mignon » + « Mygale »
-168;Mimigal;insecte poison;Pokémon Long-Patte;1.1 mètre(s) (3.7191 pied(s));33.5 kilo(s) (73.8675 livre(s));« Mygale » + « dos »
-169;Migalos;poison vol;Pokémon Chovsouris;1.8 mètre(s) (6.0858 pied(s));75 kilo(s) (165.375 livre(s));« Nosferatu » + « Enfer »
-170;Nostenfer;eau electrik;Pokémon Poisson;0.5 mètre(s) (1.6905 pied(s));12 kilo(s) (26.46 livre(s));Dérivé de « loupiote »
-171;Loupio;eau electrik;Pokémon Lumière;1.2 mètre(s) (4.0572 pied(s));22.5 kilo(s) (49.6125 livre(s));Dérivé de « lanterne »
-172;Lanturn;electrik ;Pokémon Minisouris;0.3 mètre(s) (1.0143 pied(s));2 kilo(s) (4.41 livre(s));Abrégé de « Pikachu » ou anagramme de « puchi »
-173;Pichu;fee ;Pokémon Étoile;0.3 mètre(s) (1.0143 pied(s));3 kilo(s) (6.615 livre(s));Diminutif de Mélofée
-174;Melo;normal fee;Pokémon Bouboule;0.3 mètre(s) (1.0143 pied(s));1 kilo(s) (2.205 livre(s));« Tout » + « Doux » + « Doux »
-175;Toudoudou;fee ;Pokémon Balle Pic;0.3 mètre(s) (1.0143 pied(s));1.5 kilo(s) (3.3075 livre(s));« Toge » + « piyopiyo »
-176;Togepi;fee vol;Pokémon Bonheur;0.6 mètre(s) (2.0286 pied(s));3.2 kilo(s) (7.056 livre(s));Dérivé de « Toge » + « chick »
-177;Togetic;psy vol;Pokémon Minoiseau;0.2 mètre(s) (0.6762 pied(s));2 kilo(s) (4.41 livre(s));Raccourci de « Nature » ou bien « Native » + anagramme de « Tau »
-178;Natu;psy vol;Pokémon Mystique;1.5 mètre(s) (5.0715 pied(s));15 kilo(s) (33.075 livre(s));« X » + « Nature » ou anagramme de « Tau »
-179;Xatu;electrik ;Pokémon Laine;0.6 mètre(s) (2.0286 pied(s));7.8 kilo(s) (17.199 livre(s));« Watt » + « ouate »
-180;Wattouat;electrik ;Pokémon Laine;0.8 mètre(s) (2.7048 pied(s));13.3 kilo(s) (29.3265 livre(s));« Laine » + « Énergie »
-181;Lainergie;electrik ;Pokémon Lumière;1.4 mètre(s) (4.7334 pied(s));61.5 kilo(s) (135.6075 livre(s));« Phare » + « Ampère »
-182;Pharamp;plante ;Pokémon Fleur;0.4 mètre(s) (1.3524 pied(s));5.8 kilo(s) (12.789 livre(s));« Jolie » + « Fleur »
-183;Joliflor;eau fee;Pokémon Aquasouris;0.4 mètre(s) (1.3524 pied(s));8.5 kilo(s) (18.7425 livre(s));« Marine » + « Rill »
-184;Marill;eau fee;Pokémon Aqualapin;0.8 mètre(s) (2.7048 pied(s));28.5 kilo(s) (62.8425 livre(s));« Azur » + « Marill »
-185;Azumarill;roche ;Pokémon Imitation;1.2 mètre(s) (4.0572 pied(s));38 kilo(s) (83.79 livre(s));« Simuler » + « Arbre »
-186;Simularbre;eau ;Pokémon Grenouille;1.1 mètre(s) (3.7191 pied(s));33.9 kilo(s) (74.7495 livre(s));« Têtard » + « Crapaud »
-187;Tarpaud;plante vol;Pokémon Pissenlit;0.4 mètre(s) (1.3524 pied(s));0.5 kilo(s) (1.1025 livre(s));« Graine » + « Vol »
-188;Granivol;plante vol;Pokémon Pissenlit;0.6 mètre(s) (2.0286 pied(s));1 kilo(s) (2.205 livre(s));« Floral » + « Vol »
-189;Floravol;plante vol;Pokémon Pissenlit;0.8 mètre(s) (2.7048 pied(s));3 kilo(s) (6.615 livre(s));« Coton » + « Vol »
-190;Cotovol;normal ;Pokémon Longqueue;0.8 mètre(s) (2.7048 pied(s));11.5 kilo(s) (25.3575 livre(s));« Capucin » + « Main »
-191;Capumain;plante ;Pokémon Graine;0.3 mètre(s) (1.0143 pied(s));1.8 kilo(s) (3.969 livre(s));« Tournesol » + « Graine »
-192;Tournegrin;plante ;Pokémon Soleil;0.8 mètre(s) (2.7048 pied(s));8.5 kilo(s) (18.7425 livre(s));« Hélia » + « Tronc »
-193;Heliatronc;insecte vol;Pokémon Translaile;1.2 mètre(s) (4.0572 pied(s));38 kilo(s) (83.79 livre(s));« Libellule » en japonais
-194;Yanma;eau sol;Pokémon Poisson;0.4 mètre(s) (1.3524 pied(s));8.5 kilo(s) (18.7425 livre(s));Dérivé de « Axolotl »
-195;Axoloto;eau sol;Pokémon Poisson;1.4 mètre(s) (4.7334 pied(s));75 kilo(s) (165.375 livre(s));« Marais » + « Fürst »
-196;Maraiste;psy ;Pokémon Soleil;0.9 mètre(s) (3.0429 pied(s));26.5 kilo(s) (58.4325 livre(s));« Mental » + « -li »
-197;Mentali;tenebres ;Pokémon Lune;1 mètre(s) (3.381 pied(s));27 kilo(s) (59.535 livre(s));« Noctis » + « -li »
-198;Noctali;tenebres vol;Pokémon Obscurité;0.5 mètre(s) (1.6905 pied(s));2.1 kilo(s) (4.6305 livre(s));« Corneille » + « Funèbre »
-199;Cornebre;eau psy;Pokémon Royal;2 mètre(s) (6.762 pied(s));79.5 kilo(s) (175.2975 livre(s));« Roi » + « Flagada »
-200;Roigada;spectre ;Pokémon Strident;0.7 mètre(s) (2.3667 pied(s));1 kilo(s) (2.205 livre(s));Feu follet + Rêve
-201;Feuforeve;psy ;Pokémon Symbolique;0.5 mètre(s) (1.6905 pied(s));5 kilo(s) (11.025 livre(s));Verlan de « Bizarre »
-202;Zarbi;psy ;Pokémon Patient;1.3 mètre(s) (4.3953 pied(s));28.5 kilo(s) (62.8425 livre(s));« Culbuto » + « Toqué »
-203;Qulbutoke;normal psy;Pokémon Long-Cou;1.5 mètre(s) (5.0715 pied(s));41.5 kilo(s) (91.5075 livre(s));Palindrome formé autour de « girafe »
-204;Girafarig;insecte ;Pokémon Ver Caché;0.6 mètre(s) (2.0286 pied(s));7.2 kilo(s) (15.876 livre(s));« Pomme de pin » + « pic »
-205;Pomdepik;insecte acier;Pokémon Ver Caché;1.2 mètre(s) (4.0572 pied(s));125.8 kilo(s) (277.389 livre(s));Dérivé de « forteresse »
-206;Foretress;normal ;Pokémon Serpent;1.5 mètre(s) (5.0715 pied(s));14 kilo(s) (30.87 livre(s));« Insolite » + « Lourdaud »
-207;Insolourdo;sol vol;Pokémon Scorpivol;1.1 mètre(s) (3.7191 pied(s));64.8 kilo(s) (142.884 livre(s));« Scorpion » + « Planer »
-208;Scorplane;acier sol;Pokémon Serpenfer;9.2 mètre(s) (31.1052 pied(s));400 kilo(s) (882 livre(s));« Steel » + « Onyx »
-209;Steelix;fee ;Pokémon Fée;0.6 mètre(s) (2.0286 pied(s));7.8 kilo(s) (17.199 livre(s));« Snuggle » + « Bulldog »
-210;Snubbull;fee ;Pokémon Fée;1.4 mètre(s) (4.7334 pied(s));48.7 kilo(s) (107.3835 livre(s));« Grand » + « Bulldog »
-211;Granbull;eau poison;Pokémon Bouboule;0.5 mètre(s) (1.6905 pied(s));3.9 kilo(s) (8.5995 livre(s));« Quill » + « Fish »
-212;Qwilfish;insecte acier;Pokémon Pince;1.8 mètre(s) (6.0858 pied(s));118 kilo(s) (260.19 livre(s));« cisaille » + « oxydation »
-213;Cizayox;insecte roche;Pokémon Pourri;0.6 mètre(s) (2.0286 pied(s));20.5 kilo(s) (45.2025 livre(s));« Carapace » + « Troc »
-214;Caratroc;insecte combat;Pokémon Unicorne;1.5 mètre(s) (5.0715 pied(s));54 kilo(s) (119.07 livre(s));« Scarabée » + « Rhinos »
-215;Scarhino;tenebres glace;Pokémon Grifacérée;0.9 mètre(s) (3.0429 pied(s));28 kilo(s) (61.74 livre(s));« Farfouiller » + « Furet »
-216;Farfuret;normal ;Pokémon Mini Ours;0.6 mètre(s) (2.0286 pied(s));8.8 kilo(s) (19.404 livre(s));« Teddy bear » + « ursa »
-217;Teddiursa;normal ;Pokémon Hibernant;1.8 mètre(s) (6.0858 pied(s));125.8 kilo(s) (277.389 livre(s));« Ursa » + « Ring »
-218;Ursaring;feu ;Pokémon Lave;0.7 mètre(s) (2.3667 pied(s));35 kilo(s) (77.175 livre(s));« Limace » + « Magma »
-219;Limagma;feu roche;Pokémon Lave;0.8 mètre(s) (2.7048 pied(s));55 kilo(s) (121.275 livre(s));« Volcan » + « Gastéropode »
-220;Volcaropod;glace sol;Pokémon Cochon;0.4 mètre(s) (1.3524 pied(s));6.5 kilo(s) (14.3325 livre(s));« Marcassin » + « Crin »
-221;Marcacrin;glace sol;Pokémon Porc;1.1 mètre(s) (3.7191 pied(s));55.8 kilo(s) (123.039 livre(s));« Cochon » + « Chignon »
-222;Cochignon;eau roche;Pokémon Corail;0.6 mètre(s) (2.0286 pied(s));5 kilo(s) (11.025 livre(s));« Corail » + « Rayon »
-223;Corayon;eau ;Pokémon Jet;0.6 mètre(s) (2.0286 pied(s));12 kilo(s) (26.46 livre(s));« Rémora » + « Raid »
-224;Remoraid;eau ;Pokémon Jet;0.9 mètre(s) (3.0429 pied(s));28.5 kilo(s) (62.8425 livre(s));« Octopus » + « Artillery »
-225;Octillery;glace vol;Pokémon Livraison;0.9 mètre(s) (3.0429 pied(s));16 kilo(s) (35.28 livre(s));« Cadeau » + « Oizo »
-226;Cadoizo;eau vol;Pokémon Cervolant;2.1 mètre(s) (7.1001 pied(s));220 kilo(s) (485.1 livre(s));« Démon » + « Manta »
-227;Demanta;acier vol;Pokémon Armoiseau;1.7 mètre(s) (5.7477 pied(s));50.5 kilo(s) (111.3525 livre(s));« Air » + « Armure »
-228;Airmure;tenebres feu;Pokémon Sombre;0.6 mètre(s) (2.0286 pied(s));10.8 kilo(s) (23.814 livre(s));« Mal » + « Molosse »
-230;Malosse;eau dragon;Pokémon Dragon;1.8 mètre(s) (6.0858 pied(s));152 kilo(s) (335.16 livre(s));« Hippocampe » + « Roi »
-231;Demolosse;sol ;Pokémon Long-Nez;0.5 mètre(s) (1.6905 pied(s));33.5 kilo(s) (73.8675 livre(s));Éléphant + Baby
-232;Hyporoi;sol ;Pokémon Armure;1.1 mètre(s) (3.7191 pied(s));120 kilo(s) (264.6 livre(s));Don + Éléphant
-233;Phanpy;normal ;Pokémon Virtuel;0.6 mètre(s) (2.0286 pied(s));32.5 kilo(s) (71.6625 livre(s));"Dérivé de ""Polygone"" + 2"
-234;Donphan;normal ;Pokémon Maxi Corne;1.4 mètre(s) (4.7334 pied(s));71.2 kilo(s) (156.996 livre(s));« Cerf » + « Frousse »
-235;Porygon2;normal ;Pokémon Peintre;1.2 mètre(s) (4.0572 pied(s));58 kilo(s) (127.89 livre(s));Queue + anagramme de Coloris
-237;Cerfrousse;combat ;Pokémon Poirier;1.4 mètre(s) (4.7334 pied(s));48 kilo(s) (105.84 livre(s));Dérivé de « Capoeira »
-238;Queulorior;glace psy;Pokémon Bisou;0.6 mètre(s) (2.0286 pied(s));6 kilo(s) (13.23 livre(s));« Lip » + « Poutou » + « Petit »
-239;Debugant;electrik ;Pokémon Électrique;0.6 mètre(s) (2.0286 pied(s));23.5 kilo(s) (51.8175 livre(s));« Électrique » + « Kid »
-240;Kapoera;feu ;Pokémon Charbon;0.7 mètre(s) (2.3667 pied(s));21.4 kilo(s) (47.187 livre(s));« Magma » + « Baby »
-241;Lippouti;normal ;Pokémon Vachalait;1.2 mètre(s) (4.0572 pied(s));75.5 kilo(s) (166.4775 livre(s));« Écrémer » + « Meuh »
-242;Elekid;normal ;Pokémon Bonheur;1.5 mètre(s) (5.0715 pied(s));46.8 kilo(s) (103.194 livre(s));Dérivé de « l'euphorie »
-243;Magby;electrik ;Pokémon Foudre;1.9 mètre(s) (6.4239 pied(s));178 kilo(s) (392.49 livre(s));« Rai » + « Ko »
-244;Ecremeuh;feu ;Pokémon Volcan;2.1 mètre(s) (7.1001 pied(s));198 kilo(s) (436.59 livre(s));« En » + « Kotei »
-245;Leuphorie;eau ;Pokémon Aurore;2 mètre(s) (6.762 pied(s));187 kilo(s) (412.335 livre(s));« Sui » + « Kun »
-246;Raikou;roche sol;Pokémon Peaupierre;0.6 mètre(s) (2.0286 pied(s));72 kilo(s) (158.76 livre(s));« Embryon » + « Silex »
-247;Entei;roche sol;Pokémon Carapadure;1.2 mètre(s) (4.0572 pied(s));152 kilo(s) (335.16 livre(s));« Nymphe » + « Infect »
-248;Suicune;roche tenebres;Pokémon Armure;2 mètre(s) (6.762 pied(s));202 kilo(s) (445.41 livre(s));« Tyrannos » + « Nocif »
-249;Embrylex;psy vol;Pokémon Plongeon;5.2 mètre(s) (17.5812 pied(s));216 kilo(s) (476.28 livre(s));« Lutécium » + « Lugeo » + « Luna »
-250;Ymphect;feu vol;Pokémon Arc-en-ciel;3.8 mètre(s) (12.8478 pied(s));199 kilo(s) (438.795 livre(s));"Dérivé de ""Hoo"""
-251;Tyranocif;psy plante;Pokémon Temporel;0.6 mètre(s) (2.0286 pied(s));5 kilo(s) (11.025 livre(s));Celestial + Being
-252;Lugia;plante ;Pokémon Bois Gecko;0.5 mètre(s) (1.6905 pied(s));5 kilo(s) (11.025 livre(s));Arbre + Gecko
-253;Ho;plante ;Pokémon Bois Gecko;0.9 mètre(s) (3.0429 pied(s));21.6 kilo(s) (47.628 livre(s));Massif + Gecko
-254;Celebi;plante ;Pokémon Forêt;1.3 mètre(s) (4.3953 pied(s));52.5 kilo(s) (115.7625 livre(s));Jungle + Gecko
-255;Arcko;feu ;Pokémon Poussin;0.4 mètre(s) (1.3524 pied(s));2.5 kilo(s) (5.5125 livre(s));Poussin + Feu
-256;Massko;feu combat;Pokémon Poulet;0.9 mètre(s) (3.0429 pied(s));19.5 kilo(s) (42.9975 livre(s));Gallinacé + Feu
-257;Jungko;feu combat;Pokémon Ardent;1.9 mètre(s) (6.4239 pied(s));52 kilo(s) (114.66 livre(s));Brasier + Gallinacé
-258;Poussifeu;eau ;Pokémon Poissonboue;0.4 mètre(s) (1.3524 pied(s));7.6 kilo(s) (16.758 livre(s));Gobie + Boue
-259;Galifeu;eau sol;Pokémon Poissonboue;0.7 mètre(s) (2.3667 pied(s));28 kilo(s) (61.74 livre(s));Flot + suffixe « -bios »
-260;Brasegali;eau sol;Pokémon Poissonboue;1.6 mètre(s) (5.4096 pied(s));81.9 kilo(s) (180.5895 livre(s));Lagon + « Ground »
-261;Gobou;tenebres ;Pokémon Morsure;0.5 mètre(s) (1.6905 pied(s));13.6 kilo(s) (29.988 livre(s));Medium + Hyèna
-262;Flobio;tenebres ;Pokémon Morsure;1 mètre(s) (3.381 pied(s));37 kilo(s) (81.585 livre(s));Grand + Hyèna
-263;Laggron;normal ;Pokémon Petit Raton;0.4 mètre(s) (1.3524 pied(s));17.5 kilo(s) (38.5875 livre(s));Zigzag + Raton
-264;Medhyena;normal ;Pokémon Fonceur;0.5 mètre(s) (1.6905 pied(s));32.5 kilo(s) (71.6625 livre(s));Linéaire + Raton
-265;Grahyena;insecte ;Pokémon Ver;0.3 mètre(s) (1.0143 pied(s));3.6 kilo(s) (7.938 livre(s));Chenille + Patte
-266;Zigzaton;insecte ;Pokémon Cocon;0.6 mètre(s) (2.0286 pied(s));10 kilo(s) (22.05 livre(s));Armure + Chrysalide
-267;Lineon;insecte vol;Pokémon Papillon;1 mètre(s) (3.381 pied(s));28.4 kilo(s) (62.622 livre(s));Charme + Papillon
-268;Chenipotte;insecte ;Pokémon Cocon;0.7 mètre(s) (2.3667 pied(s));11.5 kilo(s) (25.3575 livre(s));Blindage + Chrysalide
-269;Armulys;insecte poison;Pokémon Papipoison;1.2 mètre(s) (4.0572 pied(s));31.6 kilo(s) (69.678 livre(s));Papillon + Nox
-270;Charmillon;eau plante;Pokémon Aquaplante;0.5 mètre(s) (1.6905 pied(s));2.6 kilo(s) (5.733 livre(s));Nénuphar + Petiot
-271;Blindalys;eau plante;Pokémon Jovial;1.2 mètre(s) (4.0572 pied(s));32.5 kilo(s) (71.6625 livre(s));Lotus + Sombrero
-272;Papinox;eau plante;Pokémon Insouciant;1.5 mètre(s) (5.0715 pied(s));55 kilo(s) (121.275 livre(s));Ludi, Ludique ou Ludicrous + Coloquinte
-273;Nenupiot;plante ;Pokémon Gland;0.5 mètre(s) (1.6905 pied(s));4 kilo(s) (8.82 livre(s));Graine + Petiot
-274;Lombre;plante tenebres;Pokémon Malin;1 mètre(s) (3.381 pied(s));28 kilo(s) (61.74 livre(s));Pif + Feuille
-275;Ludicolo;plante tenebres;Pokémon Malveillant;1.3 mètre(s) (4.3953 pied(s));59.6 kilo(s) (131.418 livre(s));Tengu + Malice
-276;Grainipiot;normal vol;Pokémon Minirondel;0.3 mètre(s) (1.0143 pied(s));2.3 kilo(s) (5.0715 livre(s));Mini + Hirondelle
-277;Pifeuil;normal vol;Pokémon Hirondelle;0.7 mètre(s) (2.3667 pied(s));19.7 kilo(s) (43.4385 livre(s));Aile + Hirondelle
-278;Tengalice;eau vol;Pokémon Mouette;0.6 mètre(s) (2.0286 pied(s));9.5 kilo(s) (20.9475 livre(s));Goéland + Alizé
-279;Nirondelle;eau vol;Pokémon Oiseaudo;1.2 mètre(s) (4.0572 pied(s));28 kilo(s) (61.74 livre(s));Pélican + « Bec qui pend »
-280;Heledelle;psy fee;Pokémon Sentiment;0.4 mètre(s) (1.3524 pied(s));6.6 kilo(s) (14.553 livre(s));Anagramme de « Astral »
-281;Goelise;psy fee;Pokémon Emotion;0.8 mètre(s) (2.7048 pied(s));20.2 kilo(s) (44.541 livre(s));dérivé de « Kirlian »
-282;Bekipan;psy fee;Pokémon Étreinte;1.6 mètre(s) (5.4096 pied(s));48.4 kilo(s) (106.722 livre(s));Garde + Voir
-283;Tarsal;insecte eau;Pokémon Maresurfeur;0.5 mètre(s) (1.6905 pied(s));1.7 kilo(s) (3.7485 livre(s));Arachnide + Eau
-284;Kirlia;insecte vol;Pokémon Boule Oeil;0.8 mètre(s) (2.7048 pied(s));3.6 kilo(s) (7.938 livre(s));Masque + Mascarade + Drache
-285;Gardevoir;plante ;Pokémon Champignon;0.4 mètre(s) (1.3524 pied(s));4.5 kilo(s) (9.9225 livre(s));Balle + Champignon
-286;Arakdo;plante combat;Pokémon Champignon;1.2 mètre(s) (4.0572 pied(s));39.2 kilo(s) (86.436 livre(s));Chapeau + Champignon
-287;Maskadra;normal ;Pokémon Flâneur;0.8 mètre(s) (2.7048 pied(s));24 kilo(s) (52.92 livre(s));Paresseux + Cool
-288;Balignon;normal ;Pokémon Turbusinge;1.4 mètre(s) (4.7334 pied(s));46.5 kilo(s) (102.5325 livre(s));Vigoureux + « Sloth »
-289;Chapignon;normal ;Pokémon Fainéant;2 mètre(s) (6.762 pied(s));130.5 kilo(s) (287.7525 livre(s));Monarque + Flemme
-290;Parecool;insecte sol;Pokémon Apprenti;0.5 mètre(s) (1.6905 pied(s));5.5 kilo(s) (12.1275 livre(s));Ninja + Cigale
-291;Vigoroth;insecte vol;Pokémon Ninja;0.8 mètre(s) (2.7048 pied(s));12 kilo(s) (26.46 livre(s));Ninja + « Mask »
-292;Monaflemit;insecte spectre;Pokémon Exuvie;0.8 mètre(s) (2.7048 pied(s));1.2 kilo(s) (2.646 livre(s));Mue + Ninja
-293;Ningale;normal ;Pokémon Chuchoteur;0.6 mètre(s) (2.0286 pied(s));16.3 kilo(s) (35.9415 livre(s));Chuchoter + Murmure
-294;Ninjask;normal ;Pokémon Grosse Voix;1 mètre(s) (3.381 pied(s));40.5 kilo(s) (89.3025 livre(s));Ramdam + Boum
-295;Munja;normal ;Pokémon Bruit Sourd;1.5 mètre(s) (5.0715 pied(s));84 kilo(s) (185.22 livre(s));Brouhaha + Bam
-296;Chuchmur;combat ;Pokémon Tenace;1 mètre(s) (3.381 pied(s));86.4 kilo(s) (190.512 livre(s));provient de « Makushita »
-297;Ramboum;combat ;Pokémon Cogneur;2.3 mètre(s) (7.7763 pied(s));253.8 kilo(s) (559.629 livre(s));provient de « Hariteyama »
-298;Brouhabam;normal fee;Pokémon Point Polka;0.2 mètre(s) (0.6762 pied(s));2 kilo(s) (4.41 livre(s));Azur + « Rill »
-299;Makuhita;roche ;Pokémon Boussole;1 mètre(s) (3.381 pied(s));97 kilo(s) (213.885 livre(s));Tarin + Nord
-300;Hariyama;normal ;Pokémon Chaton;0.6 mètre(s) (2.0286 pied(s));11 kilo(s) (24.255 livre(s));« Skittish » + « Kitty »
-301;Azurill;normal ;Pokémon Guindé;1.1 mètre(s) (3.7191 pied(s));32.6 kilo(s) (71.883 livre(s));« Delicate » + « Cat » + « Kitty »
-302;Tarinor;spectre tenebres;Pokémon Obscurité;0.5 mètre(s) (1.6905 pied(s));11 kilo(s) (24.255 livre(s));Ténèbres + Fixer
-303;Skitty;acier fee;Pokémon Trompeur;0.6 mètre(s) (2.0286 pied(s));11.5 kilo(s) (25.3575 livre(s));Mystifier + Mandibule
-304;Delcatty;acier roche;Pokémon Armufer;0.4 mètre(s) (1.3524 pied(s));60 kilo(s) (132.3 livre(s));Galet + « Kid »
-305;Tenefix;acier roche;Pokémon Armufer;0.9 mètre(s) (3.0429 pied(s));120 kilo(s) (264.6 livre(s));Galet + Dragon
-306;Mysdibule;acier roche;Pokémon Armurfer;2.1 mètre(s) (7.1001 pied(s));360 kilo(s) (793.8 livre(s));Galet + « King »
-307;Galekid;combat psy;Pokémon Méditation;0.6 mètre(s) (2.0286 pied(s));11.2 kilo(s) (24.696 livre(s));Méditation + Karatéka
-308;Galegon;combat psy;Pokémon Méditation;1.3 mètre(s) (4.3953 pied(s));31.5 kilo(s) (69.4575 livre(s));Charme + Minauder
-309;Galeking;electrik ;Pokémon Orage;0.6 mètre(s) (2.0286 pied(s));15.2 kilo(s) (33.516 livre(s));Dynamo + Volt
-310;Meditikka;electrik ;Pokémon Décharge;1.5 mètre(s) (5.0715 pied(s));40.2 kilo(s) (88.641 livre(s));Électricité + « Sprint »
-311;Charmina;electrik ;Pokémon Acclameur;0.4 mètre(s) (1.3524 pied(s));4.2 kilo(s) (9.261 livre(s));Positif + « Pi »
-312;Dynavolt;electrik ;Pokémon Acclameur;0.4 mètre(s) (1.3524 pied(s));4.2 kilo(s) (9.261 livre(s));Négatif + « Pi ».
-313;Elecsprint;insecte ;Pokémon Luciole;0.7 mètre(s) (2.3667 pied(s));17.7 kilo(s) (39.0285 livre(s));Mue + Luciole
-314;Posipi;insecte ;Pokémon Luciole;0.6 mètre(s) (2.0286 pied(s));17.7 kilo(s) (39.0285 livre(s));Lumière + Vol
-315;Negapi;plante poison;Pokémon Epine;0.3 mètre(s) (1.0143 pied(s));2 kilo(s) (4.41 livre(s));Rose
-316;Muciole;poison ;Pokémon Estomac;0.4 mètre(s) (1.3524 pied(s));10.3 kilo(s) (22.7115 livre(s));« Gloup » ou Glouton + Petit
-317;Lumivole;poison ;Pokémon Sac Poison;1.7 mètre(s) (5.7477 pied(s));80 kilo(s) (176.4 livre(s));Avale + Tout
-318;Roselia;eau tenebres;Pokémon Féroce;0.8 mètre(s) (2.7048 pied(s));20.8 kilo(s) (45.864 livre(s));Carnivore + Piranha
-319;Gloupti;eau tenebres;Pokémon Brutal;1.8 mètre(s) (6.0858 pied(s));88.8 kilo(s) (195.804 livre(s));« Shark » + « Torpedo »
-320;Avaltout;eau ;Pokémon Baleinboule;2 mètre(s) (6.762 pied(s));130 kilo(s) (286.65 livre(s));« Whale » + Mer
-321;Carvanha;eau ;Pokémon Cachabouée;14.5 mètre(s) (49.0245 pied(s));398 kilo(s) (877.59 livre(s));« Whale » + « Lord »
-322;Sharpedo;feu sol;Pokémon Engourdi;0.7 mètre(s) (2.3667 pied(s));24 kilo(s) (52.92 livre(s));Chameau + « Chamallow » (sonorité)
-323;Wailmer;feu sol;Pokémon Éruption;1.9 mètre(s) (6.4239 pied(s));220 kilo(s) (485.1 livre(s));« Camelus » + Éruption
-324;Wailord;feu ;Pokémon Charbon;0.5 mètre(s) (1.6905 pied(s));80.4 kilo(s) (177.282 livre(s));Charbon + Tortue
-325;Chamallot;psy ;Pokémon Rebond;0.8 mètre(s) (2.7048 pied(s));30.6 kilo(s) (67.473 livre(s));« Spring » + « Oink »
-326;Camerupt;psy ;Pokémon Magouilleur;0.9 mètre(s) (3.0429 pied(s));71.5 kilo(s) (157.6575 livre(s));Gros + Goret
-327;Chartor;normal ;Pokémon Panda taché;1.1 mètre(s) (3.7191 pied(s));5 kilo(s) (11.025 livre(s));« Spin » + Panda
-328;Spoink;sol ;Pokémon Piégeur;0.7 mètre(s) (2.3667 pied(s));15 kilo(s) (33.075 livre(s));« Craque-noix »
-329;Groret;sol dragon;Pokémon Vibration;1.1 mètre(s) (3.7191 pied(s));15.3 kilo(s) (33.7365 livre(s));Vibration + Nymphe
-330;Spinda;sol dragon;Pokémon Mystique;2 mètre(s) (6.762 pied(s));82 kilo(s) (180.81 livre(s));Libellule + Dragon
-331;Kraknoix;plante ;Pokémon Cactus;0.4 mètre(s) (1.3524 pied(s));51.3 kilo(s) (113.1165 livre(s));Cactus + « Sabonea »
-332;Vibraninf;plante tenebres;Pokémon Épouvantail;1.3 mètre(s) (4.3953 pied(s));77.4 kilo(s) (170.667 livre(s));Cactus + Taciturne
-333;Libegon;normal vol;Pokémon Oiseaucoton;0.4 mètre(s) (1.3524 pied(s));1.2 kilo(s) (2.646 livre(s));« Tyltyl » + Coton
-334;Cacnea;dragon vol;Pokémon Virevolteur;1.1 mètre(s) (3.7191 pied(s));20.6 kilo(s) (45.423 livre(s));« Alto » + « Aria »
-335;Cacturne;normal ;Pokémon Chat Furet;1.3 mètre(s) (4.3953 pied(s));40.3 kilo(s) (88.8615 livre(s));Mangouste + Griffe
-336;Tylton;poison ;Pokémon Serpacroc;2.7 mètre(s) (9.1287 pied(s));52.5 kilo(s) (115.7625 livre(s));Sévère + Vipère
-337;Altaria;roche psy;Pokémon Météorite;1 mètre(s) (3.381 pied(s));168 kilo(s) (370.44 livre(s));Séléné + Roc
-338;Mangriff;roche psy;Pokémon Météorite;1.2 mètre(s) (4.0572 pied(s));154 kilo(s) (339.57 livre(s));Solaire + Roc
-339;Seviper;eau sol;Pokémon Barbillon;0.4 mètre(s) (1.3524 pied(s));1.9 kilo(s) (4.1895 livre(s));Barbillon ou Barbiche + Loche
-340;Seleroc;eau sol;Pokémon Barbillon;0.9 mètre(s) (3.0429 pied(s));23.6 kilo(s) (52.038 livre(s));Barbillon ou Barbiche + Poisson-chat
-341;Solaroc;eau ;Pokémon Brute;0.6 mètre(s) (2.0286 pied(s));11.5 kilo(s) (25.3575 livre(s));Écrevisse + Crabe + Pince
-342;Barloche;eau tenebres;Pokémon Crapule;1.1 mètre(s) (3.7191 pied(s));32.8 kilo(s) (72.324 livre(s));Colosse + Homard
-343;Barbicha;sol psy;Pokémon Poupargile;0.5 mètre(s) (1.6905 pied(s));21.5 kilo(s) (47.4075 livre(s));Balancier + Culbuto
-344;Ecrapince;sol psy;Pokémon Poupargile;1.5 mètre(s) (5.0715 pied(s));108 kilo(s) (238.14 livre(s));Kaolinite + Figurine
-345;Colhomard;roche plante;Pokémon Lis d'Eau;1 mètre(s) (3.381 pied(s));23.8 kilo(s) (52.479 livre(s));« Lilium » + Lilas
-346;Balbuto;roche plante;Pokémon Bernacle;1.5 mètre(s) (5.0715 pied(s));60 kilo(s) (132.3 livre(s));Vaciller + Lys
-347;Kaorine;roche insecte;Pokémon Crustage;0.7 mètre(s) (2.3667 pied(s));12.5 kilo(s) (27.5625 livre(s));Anomalocaris + « Lith »
-348;Lilia;roche insecte;Pokémon Blindage;1.5 mètre(s) (5.0715 pied(s));68.2 kilo(s) (150.381 livre(s));« Armor » + « Armadillo »
-349;Vacilys;eau ;Pokémon Poisson;0.6 mètre(s) (2.0286 pied(s));7.4 kilo(s) (16.317 livre(s));Bar + Crapaud
-350;Anorith;eau ;Pokémon Tendre;6.2 mètre(s) (20.9622 pied(s));162 kilo(s) (357.21 livre(s));Vénus de Milo + Belle
-352;Armaldo;normal ;Pokémon Multicolor;1 mètre(s) (3.381 pied(s));22 kilo(s) (48.51 livre(s));« Kakureru » + Caméléon
-353;Barpau;spectre ;Pokémon Poupée;0.6 mètre(s) (2.0286 pied(s));2.3 kilo(s) (5.0715 livre(s));Polichinelle + Ombre
-354;Milobellus;spectre ;Pokémon Marionnette;1.1 mètre(s) (3.7191 pied(s));12.5 kilo(s) (27.5625 livre(s));Braguette + Marionnette
-355;Kecleon;spectre ;Pokémon Requiem;0.8 mètre(s) (2.7048 pied(s));15 kilo(s) (33.075 livre(s))
-356;Polichombr;spectre ;Pokémon Appel;1.6 mètre(s) (5.4096 pied(s));30.6 kilo(s) (67.473 livre(s))
-357;Branette;plante vol;Pokémon Fruit;2 mètre(s) (6.762 pied(s));100 kilo(s) (220.5 livre(s))
-358;Skelenox;psy ;Pokémon Carillon;0.6 mètre(s) (2.0286 pied(s));1 kilo(s) (2.205 livre(s));Éole + Écho
-359;Teraclope;tenebres ;Pokémon Désastre;1.2 mètre(s) (4.0572 pied(s));47 kilo(s) (103.635 livre(s));Préfixe « ab- » + « Sol »
-360;Tropius;psy ;Pokémon Ravi;0.6 mètre(s) (2.0286 pied(s));14 kilo(s) (30.87 livre(s));Okay + Okay
-361;Eoko;glace ;Pokémon Capuche;0.7 mètre(s) (2.3667 pied(s));16.8 kilo(s) (37.044 livre(s));Stalagmite + Gamin
-362;Absol;glace ;Pokémon Face;0.5 mètre(s) (1.6905 pied(s));256.5 kilo(s) (565.5825 livre(s));« Oni » + Glace + « Goalie »
-363;Okeoke;glace eau;Pokémon Clap Clap;0.8 mètre(s) (2.7048 pied(s));39.5 kilo(s) (87.0975 livre(s));Otarie + Ballon
-364;Stalgamin;glace eau;Pokémon Roule Boule;1.1 mètre(s) (3.7191 pied(s));87.6 kilo(s) (193.158 livre(s));Phoque + Jongleur
-365;Oniglali;glace eau;Pokémon Brise Glace;1.4 mètre(s) (4.7334 pied(s));150.6 kilo(s) (332.073 livre(s));« Kaiser » ou Cailler + Morse
-366;Obalie;eau ;Pokémon Bivalve;0.4 mètre(s) (1.3524 pied(s));52.5 kilo(s) (115.7625 livre(s));Coquille + Perle
-367;Phogleur;eau ;Pokémon Abysse;1.7 mètre(s) (5.7477 pied(s));27 kilo(s) (59.535 livre(s));Serpent + Anguille
-368;Kaimorse;eau ;Pokémon Mer du Sud;1.8 mètre(s) (6.0858 pied(s));22.6 kilo(s) (49.833 livre(s));Rose + Abysse
-369;Coquiperl;eau roche;Pokémon Longévité;1 mètre(s) (3.381 pied(s));23.4 kilo(s) (51.597 livre(s));Relique + Cœlacanthe
-370;Serpang;eau ;Pokémon Rendez-vous;0.6 mètre(s) (2.0286 pied(s));8.7 kilo(s) (19.1835 livre(s));« Love » + Discus
-371;Rosabyss;dragon ;Pokémon Tête de roc;0.6 mètre(s) (2.0286 pied(s));42.1 kilo(s) (92.8305 livre(s));Dragon + « Baby »
-372;Relicanth;dragon ;Pokémon Endurant;1.1 mètre(s) (3.7191 pied(s));110.5 kilo(s) (243.6525 livre(s));Dragon + Blockhaus
-373;Lovdisc;dragon vol;Pokémon Dragon;1.5 mètre(s) (5.0715 pied(s));102.6 kilo(s) (226.233 livre(s));Dragon + Attaque
-374;Draby;acier psy;Pokémon Boulefer;0.6 mètre(s) (2.0286 pied(s));95.2 kilo(s) (209.916 livre(s));Haltère
-375;Drackhaus;acier psy;Pokémon Pincefer;1.2 mètre(s) (4.0572 pied(s));202.5 kilo(s) (446.5125 livre(s));Magnet ou Métal + « Tengu »
-376;Drattak;acier psy;Pokémon Pattefer;1.6 mètre(s) (5.4096 pied(s));550 kilo(s) (1212.75 livre(s));Métal + Colosse
-377;Terhal;roche ;Pokémon Pic Rocheux;1.7 mètre(s) (5.7477 pied(s));230 kilo(s) (507.15 livre(s));« Regis » + « Rock »
-378;Metang;glace ;Pokémon Iceberg;1.8 mètre(s) (6.0858 pied(s));175 kilo(s) (385.875 livre(s));« Regis » + « Ice »
-379;Metalosse;acier ;Pokémon Fer;1.9 mètre(s) (6.4239 pied(s));205 kilo(s) (452.025 livre(s));« Regis » + « Steel »
-380;Regirock;dragon psy;Pokémon Éon;1.4 mètre(s) (4.7334 pied(s));40 kilo(s) (88.2 livre(s));« Lateo » + « -as »
-381;Regice;dragon psy;Pokémon Éon;2 mètre(s) (6.762 pied(s));60 kilo(s) (132.3 livre(s));« Lateo » + « -os »
-382;Registeel;eau ;Pokémon Bassinmarin;4.5 mètre(s) (15.2145 pied(s));352 kilo(s) (776.16 livre(s));Kaiyou + Ogre
-383;Latias;sol ;Pokémon Continent;3.5 mètre(s) (11.8335 pied(s));950 kilo(s) (2094.75 livre(s));Ground + Don
-384;Latios;dragon vol;Pokémon Cieux;7 mètre(s) (23.667 pied(s));206.5 kilo(s) (455.3325 livre(s));Rayon + Quasar
-385;Kyogre;acier psy;Pokémon Souhait;0.3 mètre(s) (1.0143 pied(s));1.1 kilo(s) (2.4255 livre(s));« желать zhelatʹ « ou « Jireh » + « Chi »
-387;Groudon;plante ;Pokémon Minifeuille;0.4 mètre(s) (1.3524 pied(s));10.2 kilo(s) (22.491 livre(s));Tortue + Petit + Pousse
-388;Rayquaza;plante ;Pokémon Bosquet;1.1 mètre(s) (3.7191 pied(s));97 kilo(s) (213.885 livre(s));Bosquet + Carapace
-389;Jirachi;plante sol;Pokémon Continent;2.2 mètre(s) (7.4382 pied(s));310 kilo(s) (683.55 livre(s));Tortue + « Terra »
-390;Tortipouss;feu ;Pokémon Chimpanzé;0.5 mètre(s) (1.6905 pied(s));6.2 kilo(s) (13.671 livre(s));Ouistiti + Cramer
-391;Boskara;feu combat;Pokémon Garnement;0.9 mètre(s) (3.0429 pied(s));22 kilo(s) (48.51 livre(s));Chimpanzé + « En feu »
-392;Torterra;feu combat;Pokémon Flamme;1.2 mètre(s) (4.0572 pied(s));55 kilo(s) (121.275 livre(s));Simiens + Brasier
-393;Ouisticram;eau ;Pokémon Pingouin;0.4 mètre(s) (1.3524 pied(s));5.2 kilo(s) (11.466 livre(s));Petit + « Plouf »
-394;Chimpenfeu;eau ;Pokémon Pingouin;0.8 mètre(s) (2.7048 pied(s));23 kilo(s) (50.715 livre(s));Prince + «Plouf»
-395;Simiabraz;eau acier;Pokémon Empereur;1.7 mètre(s) (5.7477 pied(s));84.5 kilo(s) (186.3225 livre(s));Pingouin + Napoléon
-396;Tiplouf;normal vol;Pokémon Étourneau;0.3 mètre(s) (1.0143 pied(s));2 kilo(s) (4.41 livre(s));Étourneau + Mignon
-397;Prinplouf;normal vol;Pokémon Étourneau;0.6 mètre(s) (2.0286 pied(s));15.5 kilo(s) (34.1775 livre(s));Étourneau + Vol
-398;Pingoleon;normal vol;Pokémon Rapace;1.2 mètre(s) (4.0572 pied(s));24.9 kilo(s) (54.9045 livre(s));Étourneau + « Raptor »
-399;Etourmi;normal ;Pokémon Souridodue;0.5 mètre(s) (1.6905 pied(s));20 kilo(s) (44.1 livre(s));Quenotte + Castor
-400;Etourvol;normal eau;Pokémon Castor;1 mètre(s) (3.381 pied(s));31.5 kilo(s) (69.4575 livre(s));Castor + Tonneau
-401;Etouraptor;insecte ;Pokémon Criquet;0.3 mètre(s) (1.0143 pied(s));2.2 kilo(s) (4.851 livre(s));Criquet + « Zik »
-402;Keunotor;insecte ;Pokémon Criquet;1 mètre(s) (3.381 pied(s));25.5 kilo(s) (56.2275 livre(s));Mélodie + Criquet
-403;Castorno;electrik ;Pokémon Flash;0.5 mètre(s) (1.6905 pied(s));9.5 kilo(s) (20.9475 livre(s));Lion + Lynx + « Lux »
-404;Crikzik;electrik ;Pokémon Étincelle;0.9 mètre(s) (3.0429 pied(s));30.5 kilo(s) (67.2525 livre(s));« Lux » + Lion
-405;Melokrik;electrik ;Pokémon Brilloeil;1.4 mètre(s) (4.7334 pied(s));42 kilo(s) (92.61 livre(s));« Lux » + Rayon (X)
-406;Lixy;plante poison;Pokémon Bourgeon;0.2 mètre(s) (0.6762 pied(s));1.2 kilo(s) (2.646 livre(s));Rose + Bouton
-407;Luxio;plante poison;Pokémon Bouquet;0.9 mètre(s) (3.0429 pied(s));14.5 kilo(s) (31.9725 livre(s));Rose + Mascarade
-408;Luxray;roche ;Pokémon Coud’Boule;0.9 mètre(s) (3.0429 pied(s));31.5 kilo(s) (69.4575 livre(s));Crâne / « Cranium » + Os
-409;Rozbouton;roche ;Pokémon Coud'Boule;1.6 mètre(s) (5.4096 pied(s));102.5 kilo(s) (226.0125 livre(s));Charger + Casser + Os
-410;Roserade;roche acier;Pokémon Bouclier;0.5 mètre(s) (1.6905 pied(s));57 kilo(s) (125.685 livre(s));Dinosaure + Bouclier
-411;Kranidos;roche acier;Pokémon Bouclier;1.3 mètre(s) (4.3953 pied(s));149.5 kilo(s) (329.6475 livre(s));Bastion + « -odon » / « -don »
-412;Charkos;insecte ;Pokémon Ver Caché;0.2 mètre(s) (0.6762 pied(s));3.4 kilo(s) (7.497 livre(s));Chenille + Petit
-414;Dinoclier;insecte vol;Pokémon Phalène;0.9 mètre(s) (3.0429 pied(s));23.3 kilo(s) (51.3765 livre(s));Papillon + « Lord »
-415;Bastiodon;insecte vol;Pokémon Miniabeille;0.3 mètre(s) (1.0143 pied(s));5.5 kilo(s) (12.1275 livre(s));« Apis » + « Tri » + Mini
-416;Cheniti;insecte vol;Pokémon Ruche;1.2 mètre(s) (4.0572 pied(s));38.5 kilo(s) (84.8925 livre(s));« Apis » + Reine
-417;Papilord;electrik ;Pokémon Ecurélec;0.4 mètre(s) (1.3524 pied(s));3.9 kilo(s) (8.5995 livre(s));« Pachipachi » + « Risu »
-418;Apitrini;eau ;Pokémon Aquabelette;0.7 mètre(s) (2.3667 pied(s));29.5 kilo(s) (65.0475 livre(s));Mustélidés + Bouée
-419;Apireine;eau ;Pokémon Aquabelette;1.1 mètre(s) (3.7191 pied(s));33.5 kilo(s) (73.8675 livre(s));Mustélidés + Flotter
-420;Pachirisu;plante ;Pokémon Cerise;0.4 mètre(s) (1.3524 pied(s));3.3 kilo(s) (7.2765 livre(s));Cerise + Bout ou Bourgeon
-421;Mustebouee;plante ;Pokémon Floraison;0.5 mètre(s) (1.6905 pied(s));9.3 kilo(s) (20.5065 livre(s));Ceriflor : Cerise + Flore
-422;Musteflott;eau ;Pokémon Aqualimace;0.3 mètre(s) (1.0143 pied(s));6.3 kilo(s) (13.8915 livre(s));Sans + Coquille
-423;Ceribou;eau sol;Pokémon Aqualimace;0.9 mètre(s) (3.0429 pied(s));29.9 kilo(s) (65.9295 livre(s));Tritoniidae + « -saure »
-424;Ceriflor;normal ;Pokémon Longqueue;1.2 mètre(s) (4.0572 pied(s));20.3 kilo(s) (44.7615 livre(s));Capucin + Ambidextre
-425;Sancoki;spectre vol;Pokémon Bouboule;0.4 mètre(s) (1.3524 pied(s));1.2 kilo(s) (2.646 livre(s));Baudruche + Dériver
-426;Tritosor;spectre vol;Pokémon Ballon;1.2 mètre(s) (4.0572 pied(s));15 kilo(s) (33.075 livre(s));Gros + Dériver
-427;Capidextre;normal ;Pokémon Lapin;0.4 mètre(s) (1.3524 pied(s));5.5 kilo(s) (12.1275 livre(s));Lapin + Oreille
-428;Baudrive;normal ;Pokémon Lapin;1.2 mètre(s) (4.0572 pied(s));33.3 kilo(s) (73.4265 livre(s));"""Lock"" + Lapin"
-429;Grodrive;spectre ;Pokémon Magique;0.9 mètre(s) (3.0429 pied(s));4.4 kilo(s) (9.702 livre(s));Magie + Rêve
-430;Laporeille;tenebres vol;Pokémon Big Boss;0.9 mètre(s) (3.0429 pied(s));27.3 kilo(s) (60.1965 livre(s));Corbeau + Boss
-431;Lockpin;normal ;Pokémon Chafouin;0.5 mètre(s) (1.6905 pied(s));3.9 kilo(s) (8.5995 livre(s));Chat + Glamour
-432;Magireve;normal ;Pokémon Chatigre;1 mètre(s) (3.381 pied(s));43.8 kilo(s) (96.579 livre(s));Chat + Affreux
-433;Corboss;psy ;Pokémon Clochette;0.2 mètre(s) (0.6762 pied(s));0.6 kilo(s) (1.323 livre(s));Écho + Carillon
-434;Chaglam;poison tenebres;Pokémon Moufette;0.4 mètre(s) (1.3524 pied(s));19.2 kilo(s) (42.336 livre(s));Moufouette : Moufette + Fouetter
-435;Chaffreux;poison tenebres;Pokémon Moufette;1 mètre(s) (3.381 pied(s));38 kilo(s) (83.79 livre(s));Moufette + Flair
-436;Korillon;acier psy;Pokémon Bronze;0.5 mètre(s) (1.6905 pied(s));60.5 kilo(s) (133.4025 livre(s));"""Archéo"" + Miroir"
-437;Moufouette;acier psy;Pokémon Clochebronze;1.3 mètre(s) (4.3953 pied(s));187 kilo(s) (412.335 livre(s));"""Archéo"" + ""Dong"""
-438;Moufflair;roche ;Pokémon Bonsaï;0.5 mètre(s) (1.6905 pied(s));15 kilo(s) (33.075 livre(s));Manipulation + Bonsaï
-439;Archeomire;psy fee;Pokémon Mime;0.6 mètre(s) (2.0286 pied(s));13 kilo(s) (28.665 livre(s));Mime + Junior
-440;Archeodong;normal ;Pokémon Maisonjouet;0.6 mètre(s) (2.0286 pied(s));24.4 kilo(s) (53.802 livre(s));"""Pti"" (Petit) + Ravi"
-441;Manzai;normal vol;Pokémon Note Musique;0.5 mètre(s) (1.6905 pied(s));1.9 kilo(s) (4.1895 livre(s));"Piano + ""Jaco"""
-442;Mime;spectre tenebres;Pokémon Interdit;1 mètre(s) (3.381 pied(s));108 kilo(s) (238.14 livre(s));"""Spirit"" + ""Tomb"""
-443;Ptiravi;dragon sol;Pokémon Terrequin;0.7 mètre(s) (2.3667 pied(s));20.5 kilo(s) (45.2025 livre(s));"Grignoter + ""Knot"" (Quenotte)"
-444;Pijako;dragon sol;Pokémon Caverne;1.4 mètre(s) (4.7334 pied(s));56 kilo(s) (123.48 livre(s));Carcharhiniforme + Mâche
-445;Spiritomb;dragon sol;Pokémon Supersonic;1.9 mètre(s) (6.4239 pied(s));95 kilo(s) (209.475 livre(s));Carcharhiniforme + croc
-446;Griknot;normal ;Pokémon Goinfre;0.6 mètre(s) (2.0286 pied(s));105 kilo(s) (231.525 livre(s));Goinfre + Relax
-447;Carmache;combat ;Pokémon Émanation;0.7 mètre(s) (2.3667 pied(s));20.2 kilo(s) (44.541 livre(s));«Orichalcum» + «Lupaster»
-448;Carchacrok;combat acier;Pokémon Aura;1.2 mètre(s) (4.0572 pied(s));54 kilo(s) (119.07 livre(s));« Lupaster » + « Orichalcum »
-449;Goinfrex;sol ;Pokémon Hippo;0.8 mètre(s) (2.7048 pied(s));49.5 kilo(s) (109.1475 livre(s));"vient de ""Hippopotamus"""
-450;Riolu;sol ;Pokémon Poids Lourd;2 mètre(s) (6.762 pied(s));300 kilo(s) (661.5 livre(s));Hippopotame + Diplodocus
-451;Lucario;poison insecte;Pokémon Scorpion;0.8 mètre(s) (2.7048 pied(s));12 kilo(s) (26.46 livre(s));Dérivé de Scorpion
-452;Hippopotas;poison tenebres;Pokémon Scorpogre;1.3 mètre(s) (4.3953 pied(s));61.5 kilo(s) (135.6075 livre(s));Dragon + Scorpion
-453;Hippodocus;poison combat;Pokémon Toxique;0.7 mètre(s) (2.3667 pied(s));23 kilo(s) (50.715 livre(s));Crado + Crapaud
-454;Rapion;poison combat;Pokémon Toxique;1.3 mètre(s) (4.3953 pied(s));44.4 kilo(s) (97.902 livre(s));Coasser + Toxique
-455;Drascore;plante ;Pokémon Chopinsecte;1.4 mètre(s) (4.7334 pied(s));27 kilo(s) (59.535 livre(s));Carnivore + Plante
-456;Cradopaud;eau ;Pokémon Poisson Ailé;0.4 mètre(s) (1.3524 pied(s));7 kilo(s) (15.435 livre(s));Écayon : Écaille + Néon
-457;Coatox;eau ;Pokémon Néon;1.2 mètre(s) (4.0572 pied(s));24 kilo(s) (52.92 livre(s));Lumineux + Néon
-458;Vortente;eau vol;Pokémon Cervolant;1 mètre(s) (3.381 pied(s));65 kilo(s) (143.325 livre(s));Baby + Manta
-459;Ecayon;plante glace;Pokémon Arbregelé;1 mètre(s) (3.381 pied(s));50.5 kilo(s) (111.3525 livre(s));Blizzard + Petit
-460;Lumineon;plante glace;Pokémon Arbregelé;2.2 mètre(s) (7.4382 pied(s));135.5 kilo(s) (298.7775 livre(s));Blizzard + Roi
-461;Babimanta;tenebres glace;Pokémon Grifacérée;1.1 mètre(s) (3.7191 pied(s));34 kilo(s) (74.97 livre(s));Démon + Furet
-462;Blizzi;electrik acier;Pokémon Aimant;1.2 mètre(s) (4.0572 pied(s));180 kilo(s) (396.9 livre(s));Magnétique + Zone
-463;Blizzaroi;normal ;Pokémon Lécheur;1.7 mètre(s) (5.7477 pied(s));140 kilo(s) (308.7 livre(s));"Dérivé de ""Coup de langue"""
-464;Dimoret;sol roche;Pokémon Perceur;2.4 mètre(s) (8.1144 pied(s));282.8 kilo(s) (623.574 livre(s));Rhinocéros + Mastoc
-465;Magnezone;plante ;Pokémon Vigne;2 mètre(s) (6.762 pied(s));128.6 kilo(s) (283.563 livre(s));"Dérivé de ""Boule de nœuds"""
-466;Coudlangue;electrik ;Pokémon Foudrélec;1.8 mètre(s) (6.0858 pied(s));140 kilo(s) (308.7 livre(s));Électrique + Câble
-467;Rhinastoc;feu ;Pokémon Explosion;1.6 mètre(s) (5.4096 pied(s));68 kilo(s) (149.94 livre(s));Magma + Canon
-468;Bouldeneu;fee vol;Pokémon Célébration;1.5 mètre(s) (5.0715 pied(s));38 kilo(s) (83.79 livre(s));Toge + Kiss
-469;Elekable;insecte vol;Pokémon Libellogre;1.9 mètre(s) (6.4239 pied(s));51.5 kilo(s) (113.5575 livre(s));Yanma + Méga
-470;Maganon;plante ;Pokémon Verdoyant;1 mètre(s) (3.381 pied(s));25.5 kilo(s) (56.2275 livre(s));"Phylle + ""-li"""
-471;Togekiss;glace ;Pokémon Poudreuse;0.8 mètre(s) (2.7048 pied(s));25.9 kilo(s) (57.1095 livre(s));"Givre + ""-li"""
-472;Yanmega;sol vol;Pokémon Scorpicroc;2 mètre(s) (6.762 pied(s));42.5 kilo(s) (93.7125 livre(s));Scorpion + Voler
-473;Phyllali;glace sol;Pokémon Deudéfenses;2.5 mètre(s) (8.4525 pied(s));291 kilo(s) (641.655 livre(s));Mammouth + Cochon
-474;Givrali;normal ;Pokémon Virtuel;9 mètre(s) (30.429 pied(s));34 kilo(s) (74.97 livre(s));"Dérivé de ""Polygone"" + Z"
-475;Scorvol;psy combat;Pokémon Lame;1.6 mètre(s) (5.4096 pied(s));52 kilo(s) (114.66 livre(s));Galant + Lame
-476;Mammochon;roche acier;Pokémon Boussole;1.4 mètre(s) (4.7334 pied(s));340 kilo(s) (749.7 livre(s));Tarin + Énorme
-477;Porygon;spectre ;Pokémon Mainpince;2.2 mètre(s) (7.4382 pied(s));106.6 kilo(s) (235.053 livre(s));Nocturne + Noir
-478;Gallame;glace spectre;Pokémon Enneigement;1.3 mètre(s) (4.3953 pied(s));26.6 kilo(s) (58.653 livre(s));Môme + Arctique
-479;Tarinorme;electrik spectre;Pokémon Plasma;0.3 mètre(s) (1.0143 pied(s));0.3 kilo(s) (0.6615 livre(s));Moteur + Dynamique + Ectoplasme
-480;Noctunoir;psy ;Pokémon Savoir;0.3 mètre(s) (1.0143 pied(s));0.3 kilo(s) (0.6615 livre(s));Création + Elfe
-481;Momartik;psy ;Pokémon Émotion;0.3 mètre(s) (1.0143 pied(s));0.3 kilo(s) (0.6615 livre(s));Création + Follet
-482;Motisma;psy ;Pokémon Volonté;0.3 mètre(s) (1.0143 pied(s));0.3 kilo(s) (0.6615 livre(s));Création + Farfadet
-483;Crehelf;acier dragon;Pokémon Temps;5.4 mètre(s) (18.2574 pied(s));683 kilo(s) (1506.015 livre(s));Diamond + Dragon
-484;Crefollet;eau dragon;Pokémon Espace;4.2 mètre(s) (14.2002 pied(s));336 kilo(s) (740.88 livre(s));Dérivé de pāru
-485;Crefadet;feu acier;Pokémon Caldeira;1.7 mètre(s) (5.7477 pied(s));430 kilo(s) (948.15 livre(s));Heat + Transfert
-486;Dialga;normal ;Pokémon Prodigieux;3.7 mètre(s) (12.5097 pied(s));420 kilo(s) (926.1 livre(s));Regis + Gigas
-488;Palkia;psy ;Pokémon Lunaire;1.5 mètre(s) (5.0715 pied(s));85.6 kilo(s) (188.748 livre(s));"Crescent + Séléné + ""-a"""
-489;Heatran;eau ;Pokémon Dérivenmer;0.4 mètre(s) (1.3524 pied(s));3.1 kilo(s) (6.8355 livre(s));Manaphy + Cilone
-490;Regigigas;eau ;Pokémon Voyagenmer;0.3 mètre(s) (1.0143 pied(s));1.4 kilo(s) (3.087 livre(s));Mana + Fairy
-491;Cresselia;tenebres ;Pokémon Noirtotal;1.5 mètre(s) (5.0715 pied(s));50.5 kilo(s) (111.3525 livre(s));Dark + Kurai
-493;Phione;normal ;Pokémon Alpha;3.2 mètre(s) (10.8192 pied(s));320 kilo(s) (705.6 livre(s));Arkhè + Zeus
-494;Manaphy;psy feu;Pokémon Victoire;0.4 mètre(s) (1.3524 pied(s));4 kilo(s) (8.82 livre(s));Victoire + « Tiny » + Mini
-495;Darkrai;plante ;Pokémon Serpentherbe;0.6 mètre(s) (2.0286 pied(s));8.1 kilo(s) (17.8605 livre(s));Vipère + Lierre
-496;Arceus;plante ;Pokémon Serpentherbe;0.8 mètre(s) (2.7048 pied(s));16 kilo(s) (35.28 livre(s));Lianaja : Liane + Naja
-497;Victini;plante ;Pokémon Majestueux;3.3 mètre(s) (11.1573 pied(s));63 kilo(s) (138.915 livre(s));Majestueux + Aspic
-498;Vipelierre;feu ;Pokémon Cochon Feu;0.5 mètre(s) (1.6905 pied(s));9.9 kilo(s) (21.8295 livre(s));Gruik + Cuit
-499;Lianaja;feu combat;Pokémon Cochon Feu;1 mètre(s) (3.381 pied(s));55.5 kilo(s) (122.3775 livre(s));Gros + Rôti + Cochon
-500;Majaspic;feu combat;Pokémon Grochon Feu;1.6 mètre(s) (5.4096 pied(s));150 kilo(s) (330.75 livre(s));Roit + Rôti + Flamme
-501;Gruikui;eau ;Pokémon Loutre;0.5 mètre(s) (1.6905 pied(s));5.9 kilo(s) (13.0095 livre(s));Moussaillon + Mustélidés
-502;Grotichon;eau ;Pokémon Entraînement;0.8 mètre(s) (2.7048 pied(s));24.5 kilo(s) (54.0225 livre(s));Matelot + Loutre
-503;Roitiflam;eau ;Pokémon Dignitaire;1.5 mètre(s) (5.0715 pied(s));94.6 kilo(s) (208.593 livre(s));Clam + Amiral
-504;Moustillon;normal ;Pokémon Espion;0.5 mètre(s) (1.6905 pied(s));111.6 kilo(s) (246.078 livre(s));Rat + Attentif
-505;Mateloutre;normal ;Pokémon Vigilant;1.1 mètre(s) (3.7191 pied(s));27 kilo(s) (59.535 livre(s));Mirador + Radar
-506;Clamiral;normal ;Pokémon Chiot;0.4 mètre(s) (1.3524 pied(s));4.1 kilo(s) (9.0405 livre(s));"Dérivé de ""bon chiot"""
-507;Ratentif;normal ;Pokémon Chien Fidèle;0.9 mètre(s) (3.0429 pied(s));14.7 kilo(s) (32.4135 livre(s));"Dérivé de ""bon chien"""
-508;Miradar;normal ;Pokémon Magnanime;1.2 mètre(s) (4.0572 pied(s));61 kilo(s) (134.505 livre(s));Mastiff + Touffe
-509;Ponchiot;tenebres ;Pokémon Scélérat;0.4 mètre(s) (1.3524 pied(s));10.1 kilo(s) (22.2705 livre(s));Chat + Sacripant
-510;Ponchien;tenebres ;Pokémon Implacable;1.1 mètre(s) (3.7191 pied(s));37.5 kilo(s) (82.6875 livre(s));Leopardus
-511;Mastouffe;plante ;Pokémon Singe Herbe;0.6 mètre(s) (2.0286 pied(s));10.5 kilo(s) (23.1525 livre(s));Feuille + Sapajou
-512;Chacripan;plante ;Pokémon Singépine;1.1 mètre(s) (3.7191 pied(s));30.5 kilo(s) (67.2525 livre(s));Feuille + Orang-Outan
-513;Leopardus;feu ;Pokémon Brûlant;0.6 mètre(s) (2.0286 pied(s));11 kilo(s) (24.255 livre(s));Flamme + Sapajou
-514;Feuillajou;feu ;Pokémon Braise;1 mètre(s) (3.381 pied(s));28 kilo(s) (61.74 livre(s));Flamme + Orang-Outan
-515;Feuiloutan;eau ;Pokémon Jet d'Eau;0.6 mètre(s) (2.0286 pied(s));13.5 kilo(s) (29.7675 livre(s));Flot + Sapajou
-516;Flamajou;eau ;Pokémon Drainage;1 mètre(s) (3.381 pied(s));29 kilo(s) (63.945 livre(s));Flot + Orang-Outan
-517;Flamoutan;psy ;Pokémon Mangerêve;0.6 mètre(s) (2.0286 pied(s));23.3 kilo(s) (51.3765 livre(s));Mu + Luna
-518;Flotajou;psy ;Pokémon Rêveur;1.1 mètre(s) (3.7191 pied(s));60.5 kilo(s) (133.4025 livre(s));Musha musha + Luna
-519;Flotoutan;normal vol;Pokémon Tipigeon;0.3 mètre(s) (1.0143 pied(s));2.1 kilo(s) (4.6305 livre(s));Pois chiche + Pigeon
-520;Munna;normal vol;Pokémon Sauvapigeon;0.6 mètre(s) (2.0286 pied(s));15 kilo(s) (33.075 livre(s));Colombe + Beau
-521;Mushana;normal vol;Pokémon Fier;1.2 mètre(s) (4.0572 pied(s));29 kilo(s) (63.945 livre(s));Déplaisant + Faisan
-522;Poichigeon;electrik ;Pokémon Étincélec;0.8 mètre(s) (2.7048 pied(s));29.8 kilo(s) (65.709 livre(s));Zèbre + Biberon
-523;Colombeau;electrik ;Pokémon Foudrélec;1.6 mètre(s) (5.4096 pied(s));79.5 kilo(s) (175.2975 livre(s));Zèbre + Blitz
-524;Deflaisan;roche ;Pokémon Manteau;0.4 mètre(s) (1.3524 pied(s));18 kilo(s) (39.69 livre(s));Nodule + Lithos
-526;Zebibron;roche ;Pokémon Surpression;1.7 mètre(s) (5.7477 pied(s));260 kilo(s) (573.3 livre(s));Gigas + Lithos
-527;Zeblitz;psy vol;Pokémon Chovsouris;0.4 mètre(s) (1.3524 pied(s));2.1 kilo(s) (4.6305 livre(s));Chauve-souris + Sourire
-528;Nodulithe;psy vol;Pokémon Cupidon;0.9 mètre(s) (3.0429 pied(s));10.5 kilo(s) (23.1525 livre(s));Rhinolophe + Love
-529;Geolithe;sol ;Pokémon Taupe;0.3 mètre(s) (1.0143 pied(s));8.5 kilo(s) (18.7425 livre(s));Rotor + Taupe
-530;Gigalithe;sol acier;Pokémon Souterrain;0.7 mètre(s) (2.3667 pied(s));40.4 kilo(s) (89.082 livre(s));Mineur + Taupe
-531;Chovsourir;normal ;Pokémon Audition;1.1 mètre(s) (3.7191 pied(s));31 kilo(s) (68.355 livre(s));"""Nan mais oui"" + Ouïe"
-532;Rhinolove;combat ;Pokémon Costaud;0.6 mètre(s) (2.0286 pied(s));12.5 kilo(s) (27.5625 livre(s));Charpente + Apprenti
-533;Rototaupe;combat ;Pokémon Costaud;1.2 mètre(s) (4.0572 pied(s));40 kilo(s) (88.2 livre(s));Ouvrier + Fier
-534;Minotaupe;combat ;Pokémon Costaud;1.4 mètre(s) (4.7334 pied(s));87 kilo(s) (191.835 livre(s));Béton + Chef
-535;Nanmeouie;eau ;Pokémon Têtard;0.5 mètre(s) (1.6905 pied(s));4.5 kilo(s) (9.9225 livre(s));Triton + Onde
-536;Charpenti;eau sol;Pokémon Vibration;0.8 mètre(s) (2.7048 pied(s));17 kilo(s) (37.485 livre(s));Batracien + Acné
-537;Ouvrifier;eau sol;Pokémon Vibration;1.5 mètre(s) (5.0715 pied(s));62 kilo(s) (136.71 livre(s));Crapaud + Pustule
-538;Betochef;combat ;Pokémon Judo;1.3 mètre(s) (4.3953 pied(s));55.5 kilo(s) (122.3775 livre(s));Judo + Crack
-539;Tritonde;combat ;Pokémon Karaté;1.4 mètre(s) (4.7334 pied(s));51 kilo(s) (112.455 livre(s));Karaté + Raclée
-540;Batracne;insecte plante;Pokémon Couture;0.3 mètre(s) (1.0143 pied(s));2.5 kilo(s) (5.5125 livre(s));Larve + Layette
-541;Crapustule;insecte plante;Pokémon Capefeuille;0.5 mètre(s) (1.6905 pied(s));7.3 kilo(s) (16.0965 livre(s));Couverture + Verdure
-542;Judokrak;insecte plante;Pokémon Précepteur;1.2 mètre(s) (4.0572 pied(s));20.5 kilo(s) (45.2025 livre(s));Mante + Maternel
-543;Karaclee;insecte poison;Pokémon Chilopode;0.4 mètre(s) (1.3524 pied(s));5.3 kilo(s) (11.6865 livre(s));Venimeux + Mille-pattes
-544;Larveyette;insecte poison;Pokémon Coconplopode;1.2 mètre(s) (4.0572 pied(s));58.5 kilo(s) (128.9925 livre(s));Scolopendre + Bolide
-545;Couverdure;insecte poison;Pokémon Mégaplopode;2.5 mètre(s) (8.4525 pied(s));200.5 kilo(s) (442.1025 livre(s));Brutal + Chilopode
-546;Manternel;plante fee;Pokémon Boule Coton;0.3 mètre(s) (1.0143 pied(s));0.6 kilo(s) (1.323 livre(s));"Répétition de ""doux"" + Duvet"
-547;Venipatte;plante fee;Pokémon Vole Vent;0.7 mètre(s) (2.3667 pied(s));6.6 kilo(s) (14.553 livre(s));Farfadet + Duvet
-548;Scobolide;plante ;Pokémon Racine;0.5 mètre(s) (1.6905 pied(s));6.6 kilo(s) (14.553 livre(s));Chlorophylle + Bulbe
-549;Brutapode;plante ;Pokémon Chef-Fleur;1.1 mètre(s) (3.7191 pied(s));16.3 kilo(s) (35.9415 livre(s));Fragile + Lady
-551;Doudouvet;sol tenebres;Pokémon Croco Sable;0.7 mètre(s) (2.3667 pied(s));15.2 kilo(s) (33.516 livre(s));Masque + Caïman
-552;Farfaduvet;sol tenebres;Pokémon Croco Sable;1 mètre(s) (3.381 pied(s));33.4 kilo(s) (73.647 livre(s));Escroquer + Crocodile
-553;Chlorobule;sol tenebres;Pokémon Intimidation;1.5 mètre(s) (5.0715 pied(s));96.3 kilo(s) (212.3415 livre(s));Crocodile + Horrible
-554;Fragilady;feu ;Pokémon Daruma;0.6 mètre(s) (2.0286 pied(s));37.5 kilo(s) (82.6875 livre(s));Daruma + Rond
-556;Mascaiman;plante ;Pokémon Cactus;1 mètre(s) (3.381 pied(s));28 kilo(s) (61.74 livre(s));Maracas + Cactus + Mariachi
-557;Escroco;insecte roche;Pokémon Lithicole;0.3 mètre(s) (1.0143 pied(s));14.5 kilo(s) (31.9725 livre(s));Crabe + Bicoque
-558;Crocorible;insecte roche;Pokémon Lapidicole;1.4 mètre(s) (4.7334 pied(s));200 kilo(s) (441 livre(s));Crabe + Baraque
-559;Darumarond;tenebres combat;Pokémon Mue;0.6 mètre(s) (2.0286 pied(s));11.8 kilo(s) (26.019 livre(s));Baggy + Iguane
-560;Maracachi;tenebres combat;Pokémon Gang;1.1 mètre(s) (3.7191 pied(s));30 kilo(s) (66.15 livre(s));Baggy + Caïd
-561;Crabicoque;psy vol;Pokémon Similoiseau;1.4 mètre(s) (4.7334 pied(s));14 kilo(s) (30.87 livre(s));Crypte + Pteron
-562;Crabaraque;spectre ;Pokémon Âme;0.5 mètre(s) (1.6905 pied(s));1.5 kilo(s) (3.3075 livre(s));Toutânkhamon + déformation de Fée
-563;Baggiguane;spectre ;Pokémon Cercueil;1.7 mètre(s) (5.7477 pied(s));76.5 kilo(s) (168.6825 livre(s));Toutânkhamon + Fer
-564;Baggaid;eau roche;Pokémon Tortantique;0.7 mètre(s) (2.3667 pied(s));16.5 kilo(s) (36.3825 livre(s));Carapace + Galápagos
-565;Cryptero;eau roche;Pokémon Tortantique;1.2 mètre(s) (4.0572 pied(s));81 kilo(s) (178.605 livre(s));Méga + Galápagos
-566;Tutafeh;roche vol;Pokémon Oisancien;0.6 mètre(s) (2.0286 pied(s));9.5 kilo(s) (20.9475 livre(s));Archéoptéryx + Petit
-567;Tutankafer;roche vol;Pokémon Oisancien;1.4 mètre(s) (4.7334 pied(s));32 kilo(s) (70.56 livre(s));Aeros + Archéoptéryx
-568;Carapagos;poison ;Pokémon Sac Poubelle;0.6 mètre(s) (2.0286 pied(s));31 kilo(s) (68.355 livre(s));Miam + Miasme
-569;Megapagos;poison ;Pokémon Dépotoir;1.9 mètre(s) (6.4239 pied(s));107.3 kilo(s) (236.5965 livre(s));Miasme + Maximum
-570;Arkeapti;tenebres ;Pokémon Sombrenard;0.7 mètre(s) (2.3667 pied(s));12.5 kilo(s) (27.5625 livre(s));Zorro + Rua
-571;Aeropteryx;tenebres ;Pokémon Polymorfox;1.6 mètre(s) (5.4096 pied(s));81.1 kilo(s) (178.8255 livre(s));Zorro + Dark
-572;Miamiasme;normal ;Pokémon Chinchilla;0.4 mètre(s) (1.3524 pied(s));5.8 kilo(s) (12.789 livre(s));Chinchilla + Doux
-573;Miasmax;normal ;Pokémon Écharpe;0.5 mètre(s) (1.6905 pied(s));7.5 kilo(s) (16.5375 livre(s));Pashmînâ + Chinchilla
-574;Zorua;psy ;Pokémon Dévisageur;0.4 mètre(s) (1.3524 pied(s));5.8 kilo(s) (12.789 livre(s));Scruter + « Stella »
-575;Zoroark;psy ;Pokémon Magouilleur;0.7 mètre(s) (2.3667 pied(s));18 kilo(s) (39.69 livre(s));Mesmérisme + « Stella »
-576;Chinchidou;psy ;Pokémon Cosmique;1.5 mètre(s) (5.0715 pied(s));44 kilo(s) (97.02 livre(s));Sidéral + « Stella »
-577;Pashmilla;psy ;Pokémon Cellule;0.3 mètre(s) (1.0143 pied(s));1 kilo(s) (2.205 livre(s));Nucleus + Méiose (ou Mitose)
-578;Scrutella;psy ;Pokémon Divisé;0.6 mètre(s) (2.0286 pied(s));8 kilo(s) (17.64 livre(s));dérive de Méiose
-579;Mesmerella;psy ;Pokémon Multiplié;1 mètre(s) (3.381 pied(s));20.1 kilo(s) (44.3205 livre(s));dérivé de Symbiose
-580;Siderella;eau vol;Pokémon Oiseaudo;0.5 mètre(s) (1.6905 pied(s));5.5 kilo(s) (12.1275 livre(s));« Couac » + Caneton
-581;Nucleos;eau vol;Pokémon Cygne;1.3 mètre(s) (4.3953 pied(s));24.2 kilo(s) (53.361 livre(s));Dérivé de Lac des cygnes
-582;Meios;glace ;Pokémon Poudreuse;0.4 mètre(s) (1.3524 pied(s));5.7 kilo(s) (12.5685 livre(s));Sorbet + Bébé
-583;Symbios;glace ;Pokémon Grêle;1.1 mètre(s) (3.7191 pied(s));41 kilo(s) (90.405 livre(s));Sorbet + Boule
-584;Couaneton;glace ;Pokémon Congère;1.5 mètre(s) (5.0715 pied(s));57.5 kilo(s) (126.7875 livre(s));Sorbet + Boule + Boule
-585;Lakmecygne;normal plante;Pokémon Saison;0.6 mètre(s) (2.0286 pied(s));19.5 kilo(s) (42.9975 livre(s));Vivaldi + Daim
-586;Sorbebe;normal plante;Pokémon Saison;1.9 mètre(s) (6.4239 pied(s));92.5 kilo(s) (203.9625 livre(s));Haydn + Daim
-587;Sorboul;electrik vol;Pokémon Pteromys;0.4 mètre(s) (1.3524 pied(s));5 kilo(s) (11.025 livre(s));Dérivé de « Emonga »
-588;Sorbouboul;insecte ;Pokémon Carabe;0.5 mètre(s) (1.6905 pied(s));5.9 kilo(s) (13.0095 livre(s));Carabe + « Bing »
-589;Vivaldaim;insecte acier;Pokémon Chevalier;1 mètre(s) (3.381 pied(s));33 kilo(s) (72.765 livre(s));Lance + Escargot
-590;Haydaim;plante poison;Pokémon Champignon;0.2 mètre(s) (0.6762 pied(s));1 kilo(s) (2.205 livre(s));Tromper + Champignon
-591;Emolga;plante poison;Pokémon Champignon;0.6 mètre(s) (2.0286 pied(s));10.5 kilo(s) (23.1525 livre(s));Gauler + Bolet
-592;Carabing;eau spectre;Pokémon Flottaison;1.2 mètre(s) (4.0572 pied(s));33 kilo(s) (72.765 livre(s));Visqueux + Méduse
-593;Lancargot;eau spectre;Pokémon Flottaison;2.2 mètre(s) (7.4382 pied(s));135 kilo(s) (297.675 livre(s));Méduse + Noyade
-594;Trompignon;eau ;Pokémon Soigneur;1.2 mètre(s) (4.0572 pied(s));31.6 kilo(s) (69.678 livre(s));Maman + Mambo
-595;Gaulet;insecte electrik;Pokémon Crampon;0.1 mètre(s) (0.3381 pied(s));0.6 kilo(s) (1.323 livre(s));Statik + Tique
-596;Viskuse;insecte electrik;Pokémon Araclectrik;0.8 mètre(s) (2.7048 pied(s));14.3 kilo(s) (31.5315 livre(s));Mygale + Volt
-597;Moyade;plante acier;Pokémon Graine Épine;0.6 mètre(s) (2.0286 pied(s));18.8 kilo(s) (41.454 livre(s));Graine + Dur
-598;Mamanbo;plante acier;Pokémon Boule Épine;1 mètre(s) (3.381 pied(s));110 kilo(s) (242.55 livre(s));Noix + Acier
-599;Statitik;acier ;Pokémon Engrenage;0.3 mètre(s) (1.0143 pied(s));21 kilo(s) (46.305 livre(s));dérivé de l'onomatopée « Tic-Tac »
-600;Mygavolt;acier ;Pokémon Engrenage;0.6 mètre(s) (2.0286 pied(s));51 kilo(s) (112.455 livre(s));dérivé de l'onomatopée « Clic »
-601;Grindur;acier ;Pokémon Engrenage;0.6 mètre(s) (2.0286 pied(s));81 kilo(s) (178.605 livre(s));Clic + Tic + Clic
-602;Noacier;electrik ;Pokémon Électrophore;0.2 mètre(s) (0.6762 pied(s));0.3 kilo(s) (0.6615 livre(s));Anchois + Watt
-603;Tic;electrik ;Pokémon Électrophore;1.2 mètre(s) (4.0572 pied(s));22 kilo(s) (48.51 livre(s));Lamproie + Ampère
-604;Clic;electrik ;Pokémon Électrophore;2.1 mètre(s) (7.1001 pied(s));80.5 kilo(s) (177.5025 livre(s));Ohm + Massacre
-605;Cliticlic;psy ;Pokémon Cerveau;0.5 mètre(s) (1.6905 pied(s));9 kilo(s) (19.845 livre(s));Roswell à l'envers
-606;Anchwatt;psy ;Pokémon Cerveau;1 mètre(s) (3.381 pied(s));34.5 kilo(s) (76.0725 livre(s));Martien à l'envers
-607;Lamperoie;spectre feu;Pokémon Chandelle;0.3 mètre(s) (1.0143 pied(s));3.1 kilo(s) (6.8355 livre(s));Funéraire + Cire
-608;Ohmassacre;spectre feu;Pokémon Lampe;0.6 mètre(s) (2.0286 pied(s));13 kilo(s) (28.665 livre(s));Mélancolie + « Lux »
-609;Lewsor;spectre feu;Pokémon Invitation;1 mètre(s) (3.381 pied(s));34.3 kilo(s) (75.6315 livre(s));Lugubre + Candélabre
-610;Neitram;dragon ;Pokémon Crocs;0.6 mètre(s) (2.0286 pied(s));18 kilo(s) (39.69 livre(s));Couper + Quenotte
-611;Funecire;dragon ;Pokémon Hachomenton;1 mètre(s) (3.381 pied(s));36 kilo(s) (79.38 livre(s));Incisive + Hache
-612;Melancolux;dragon ;Pokémon Hachomenton;1.8 mètre(s) (6.0858 pied(s));105.5 kilo(s) (232.6275 livre(s));Trancher + « -odon »
-613;Lugulabre;glace ;Pokémon Gelé;0.5 mètre(s) (1.6905 pied(s));8.5 kilo(s) (18.7425 livre(s));Polaire + Rhume
-614;Coupenotte;glace ;Pokémon Congelé;2.6 mètre(s) (8.7906 pied(s));260 kilo(s) (573.3 livre(s));Polaire + Griffe
-615;Incisache;glace ;Pokémon Cristal;1.1 mètre(s) (3.7191 pied(s));148 kilo(s) (326.34 livre(s));Hexagone + Gel
-616;Tranchodon;insecte ;Pokémon Escargot;0.4 mètre(s) (1.3524 pied(s));7.7 kilo(s) (16.9785 livre(s));Escargot + Heaume
-617;Polarhume;insecte ;Pokémon Exuviateur;0.8 mètre(s) (2.7048 pied(s));23.5 kilo(s) (51.8175 livre(s));Limace + « Speed »
-618;Polagriffe;electrik sol;Pokémon Piège;0.7 mètre(s) (2.3667 pied(s));11 kilo(s) (24.255 livre(s));Limon + Limande
-619;Hexagel;combat ;Pokémon Art Martial;0.8 mètre(s) (2.7048 pied(s));20 kilo(s) (44.1 livre(s));Kung-fu + Fouine
-620;Escargaume;combat ;Pokémon Art Martial;1.4 mètre(s) (4.7334 pied(s));35.5 kilo(s) (78.2775 livre(s));Shaoline + Fouine
-621;Limaspeed;dragon ;Pokémon Caverne;1.6 mètre(s) (5.4096 pied(s));5.2 kilo(s) (11.466 livre(s));Drakkar + Carmin
-622;Limonde;sol spectre;Pokémon Golem Ancien;1 mètre(s) (3.381 pied(s));92 kilo(s) (202.86 livre(s));Gringalet + Golem
-623;Kungfouine;sol spectre;Pokémon Golem Ancien;2.8 mètre(s) (9.4668 pied(s));330 kilo(s) (727.65 livre(s));Golem + Mastoc
-624;Shaofouine;tenebres acier;Pokémon Coupant;0.5 mètre(s) (1.6905 pied(s));10.2 kilo(s) (22.491 livre(s));Scalper + Pion
-625;Drakkarmin;tenebres acier;Pokémon Tranchant;1.6 mètre(s) (5.4096 pied(s));70 kilo(s) (154.35 livre(s));Scalper + Roi + Proie
-626;Gringolem;normal ;Pokémon Coup d'Bœuf;1.6 mètre(s) (5.4096 pied(s));94.5 kilo(s) (208.3725 livre(s));Frisé + Bison
-627;Golemastoc;normal vol;Pokémon Aiglon;0.5 mètre(s) (1.6905 pied(s));10.5 kilo(s) (23.1525 livre(s));Furie + Aiglon
-628;Scalpion;normal vol;Pokémon Vaillant;1.5 mètre(s) (5.0715 pied(s));41 kilo(s) (90.405 livre(s));Guerrier + Aigle
-629;Scalproie;tenebres vol;Pokémon Couche;0.5 mètre(s) (1.6905 pied(s));9 kilo(s) (19.845 livre(s));Vautour + Os + « -eau »
-630;Frison;tenebres vol;Pokémon Vostour;1.2 mètre(s) (4.0572 pied(s));39.5 kilo(s) (87.0975 livre(s));Vautour + Tutrice
-631;Furaiglon;feu ;Pokémon Tamanoir;1.4 mètre(s) (4.7334 pied(s));58 kilo(s) (127.89 livre(s));Affamé + Flamme + Tamanoir
-632;Gueriaigle;insecte acier;Pokémon Fourmi Dure;0.3 mètre(s) (1.0143 pied(s));33 kilo(s) (72.765 livre(s));Fer + Termite
-633;Vostourno;tenebres dragon;Pokémon Rude;0.8 mètre(s) (2.7048 pied(s));17.3 kilo(s) (38.1465 livre(s));« Solo » + Orochi
-634;Vaututrice;tenebres dragon;Pokémon Violent;1.4 mètre(s) (4.7334 pied(s));50 kilo(s) (110.25 livre(s));« di » + Tiamat
-635;Aflamanoir;tenebres dragon;Pokémon Brutal;1.8 mètre(s) (6.0858 pied(s));160 kilo(s) (352.8 livre(s));« Tri » + Oxyde + Hydre
-636;Fermite;insecte feu;Pokémon Torche;1.1 mètre(s) (3.7191 pied(s));28.8 kilo(s) (63.504 livre(s));« Pyro » + Chenille
-637;Solochi;insecte feu;Pokémon Soleil;1.6 mètre(s) (5.4096 pied(s));46 kilo(s) (101.43 livre(s));« Pyro » + Bombyx
-638;Diamat;acier combat;Pokémon Cœur de Fer;2.1 mètre(s) (7.1001 pied(s));250 kilo(s) (551.25 livre(s));« Cobalt » + « -ium »
-639;Trioxhydre;roche combat;Pokémon Grotte;1.9 mètre(s) (6.4239 pied(s));260 kilo(s) (573.3 livre(s));« Terra » + « -ium »
-640;Pyronille;plante combat;Pokémon Plaine Verte;2 mètre(s) (6.762 pied(s));200 kilo(s) (441 livre(s));« Viridis » + « -ium »
-643;Pyrax;dragon feu;Pokémon Blanc Réel;3.2 mètre(s) (10.8192 pied(s));330 kilo(s) (727.65 livre(s));dérivé de « Shiro »
-644;Cobaltium;dragon electrik;Pokémon Noir Idéal;2.9 mètre(s) (9.8049 pied(s));345 kilo(s) (760.725 livre(s));dérivé de « Kuro »
-646;Terrakium;dragon glace;Pokémon Frontière;3 mètre(s) (10.143 pied(s));325 kilo(s) (716.625 livre(s));« Kyuurei » + « Mu »
-647;Viridium;eau combat;Pokémon Poulain;1.4 mètre(s) (4.7334 pied(s));48.5 kilo(s) (106.9425 livre(s));dérivé de « Kelpie » ou de « Kelda » + Rodéo
-649;Reshiram;insecte acier;Pokémon Paléozoïque;1.5 mètre(s) (5.0715 pied(s));82.5 kilo(s) (181.9125 livre(s));Génétique + Insecte
-650;Zekrom;plante ;Pokémon Bogue;0.4 mètre(s) (1.3524 pied(s));9 kilo(s) (19.845 livre(s));Marron + Hérisson
-651;Kyurem;plante ;Pokémon Épinarmure;0.7 mètre(s) (2.3667 pied(s));29 kilo(s) (63.945 livre(s));Bogue + Hérisse
-652;Keldeo;plante combat;Pokémon Épinarmure;1.6 mètre(s) (5.4096 pied(s));90 kilo(s) (198.45 livre(s));Blindé + Pique
-653;Genesect;feu ;Pokémon Renard;0.4 mètre(s) (1.3524 pied(s));9.4 kilo(s) (20.727 livre(s));Feu + Fennec
-654;Marisson;feu ;Pokémon Renard;1 mètre(s) (3.381 pied(s));14.5 kilo(s) (31.9725 livre(s));Roussir + Goupil
-655;Boguerisse;feu psy;Pokémon Renard;1.5 mètre(s) (5.0715 pied(s));39 kilo(s) (85.995 livre(s));Goupil + Merlin
-656;Blindepique;eau ;Pokémon Crapobulle;0.3 mètre(s) (1.0143 pied(s));7 kilo(s) (15.435 livre(s));Grenouille + Mousse
-657;Feunnec;eau ;Pokémon Crapobulle;0.6 mètre(s) (2.0286 pied(s));10.9 kilo(s) (24.0345 livre(s));Croâ + Caporal
-658;Roussil;eau tenebres;Pokémon Ninja;1.5 mètre(s) (5.0715 pied(s));40 kilo(s) (88.2 livre(s));Amphibien + Shinobi
-659;Goupelin;normal ;Pokémon Fouisseur;0.4 mètre(s) (1.3524 pied(s));5 kilo(s) (11.025 livre(s));Saper + Lapereau
-660;Grenousse;normal sol;Pokémon Fouisseur;1 mètre(s) (3.381 pied(s));42.4 kilo(s) (93.492 livre(s));Excavateur + Garenne
-661;Croaporal;normal vol;Pokémon Rougegorge;0.3 mètre(s) (1.0143 pied(s));1.7 kilo(s) (3.7485 livre(s));Passereau + Rouge
-662;Amphinobi;feu vol;Pokémon Braise;0.7 mètre(s) (2.3667 pied(s));16 kilo(s) (35.28 livre(s));Braise + Oisillon
-663;Sapereau;feu vol;Pokémon Fournaise;1.2 mètre(s) (4.0572 pied(s));24.5 kilo(s) (54.0225 livre(s));Flamboyant + Busard
-664;Excavarenne;insecte ;Pokémon Exhalécaille;0.3 mètre(s) (1.0143 pied(s));2.5 kilo(s) (5.5125 livre(s));Lépidoptère + Chenille
-665;Passerouge;insecte ;Pokémon Exhalécaille;0.3 mètre(s) (1.0143 pied(s));8.4 kilo(s) (18.522 livre(s));Pérenniser + Grain
-666;Braisillon;insecte vol;Pokémon Lépidécaille;1.2 mètre(s) (4.0572 pied(s));17 kilo(s) (37.485 livre(s));Prisme + Papillon
-667;Flambusard;feu normal;Pokémon Lionceau;0.6 mètre(s) (2.0286 pied(s));13.5 kilo(s) (29.7675 livre(s));Hélios + Lionceau
-668;Lepidonille;feu normal;Pokémon Royal;1.5 mètre(s) (5.0715 pied(s));81.5 kilo(s) (179.7075 livre(s));Némée + Hélios
-669;Peregrain;fee ;Pokémon Uniflore;0.1 mètre(s) (0.3381 pied(s));0.1 kilo(s) (0.2205 livre(s));« Furawa » (Flower en japonais) + Bébé
-670;Prismillon;fee ;Pokémon Uniflore;0.2 mètre(s) (0.6762 pied(s));0.9 kilo(s) (1.9845 livre(s));Flore + Fluette
-671;Helionceau;fee ;Pokémon Jardin;1.1 mètre(s) (3.7191 pied(s));10 kilo(s) (22.05 livre(s));Flore + Orge
-672;Nemelios;plante ;Pokémon Monture;0.9 mètre(s) (3.0429 pied(s));31 kilo(s) (68.355 livre(s));Cabri + Laine
-673;Flabebe;plante ;Pokémon Monture;1.7 mètre(s) (5.7477 pied(s));91 kilo(s) (200.655 livre(s));Chèvre + « Vroum »
-674;Floette;combat ;Pokémon Garnement;0.6 mètre(s) (2.0286 pied(s));8 kilo(s) (17.64 livre(s));Panda + Espiègle
-675;Florges;combat tenebres;Pokémon Patibulaire;2.1 mètre(s) (7.1001 pied(s));136 kilo(s) (299.88 livre(s));Panda + Barbare
-676;Cabriolaine;normal ;Pokémon Caniche;1.2 mètre(s) (4.0572 pied(s));28 kilo(s) (61.74 livre(s));Coiffe + « Ouaf » + Aquarelle
-677;Chevroum;psy ;Pokémon Retenue;0.3 mètre(s) (1.0143 pied(s));3.5 kilo(s) (7.7175 livre(s));Psychisme + Mistigri
-679;Pandespiegle;acier spectre;Pokémon Glaive;0.8 mètre(s) (2.7048 pied(s));2 kilo(s) (4.41 livre(s));Monocle + Vorpale
-680;Pandarbare;acier spectre;Pokémon Glaive;0.8 mètre(s) (2.7048 pied(s));4.5 kilo(s) (9.9225 livre(s));Di (référence au latin de deux, duo) + Damoclès (nom d'une épée)
-682;Couafarel;fee ;Pokémon Fragrance;0.2 mètre(s) (0.6762 pied(s));0.5 kilo(s) (1.1025 livre(s));Effluve + Lutin
-683;Psystigri;fee ;Pokémon Parfum;0.8 mètre(s) (2.7048 pied(s));15.5 kilo(s) (34.1775 livre(s));Cocotter + Lutine
-684;Monorpale;fee ;Pokémon Confiserie;0.4 mètre(s) (1.3524 pied(s));3.5 kilo(s) (7.7175 livre(s));Sucre + Croquer + Coquin
-685;Dimocles;fee ;Pokémon Mousseline;0.8 mètre(s) (2.7048 pied(s));5 kilo(s) (11.025 livre(s));Cupcake + Canaille
-686;Fluvetin;tenebres psy;Pokémon Rotation;0.4 mètre(s) (1.3524 pied(s));3.5 kilo(s) (7.7175 livre(s));Sépia + Top
-687;Cocotine;tenebres psy;Pokémon Révolution;1.5 mètre(s) (5.0715 pied(s));47 kilo(s) (103.635 livre(s));Sépia + Atroce
-688;Sucroquin;roche eau;Pokémon Bimane;0.5 mètre(s) (1.6905 pied(s));31 kilo(s) (68.355 livre(s));Opercule + Vermine
-689;Cupcanaille;roche eau;Pokémon Assemblage;1.3 mètre(s) (4.3953 pied(s));96 kilo(s) (211.68 livre(s));Golgotha + Pathe
-690;Sepiatop;poison eau;Pokémon Simulalgue;0.5 mètre(s) (1.6905 pied(s));7.3 kilo(s) (16.0965 livre(s));Venin + Algue
-691;Sepiatroce;poison dragon;Pokémon Simulalgue;1.8 mètre(s) (6.0858 pied(s));81.5 kilo(s) (179.7075 livre(s));Kraken + Varech
-692;Opermine;eau ;Pokémon Lance à Eau;0.5 mètre(s) (1.6905 pied(s));8.3 kilo(s) (18.3015 livre(s));Flingue + Langouste
-693;Golgopathe;eau ;Pokémon Blaster;1.3 mètre(s) (4.3953 pied(s));35.3 kilo(s) (77.8365 livre(s));Gambas + Blast
-694;Venalgue;electrik normal;Pokémon Générateur;0.5 mètre(s) (1.6905 pied(s));6 kilo(s) (13.23 livre(s));Galvaniser + Varan
-695;Kravarech;electrik normal;Pokémon Générateur;1 mètre(s) (3.381 pied(s));21 kilo(s) (46.305 livre(s));Iguane + Volta
-696;Flingouste;roche dragon;Pokémon Prince;0.8 mètre(s) (2.7048 pied(s));26 kilo(s) (57.33 livre(s));Ptyranidur : Petit + Tyrannosaure + Dur
-697;Gamblast;roche dragon;Pokémon Tyran;2.5 mètre(s) (8.4525 pied(s));270 kilo(s) (595.35 livre(s));T-Rex + maxillaire + -ius (suffixe de dinosaure)
-698;Galvaran;roche glace;Pokémon Toundra;1.3 mètre(s) (4.3953 pied(s));25.2 kilo(s) (55.566 livre(s));tiré de Amargasaurus
-699;Iguolta;roche glace;Pokémon Toundra;2.7 mètre(s) (9.1287 pied(s));225 kilo(s) (496.125 livre(s));tiré de Amargasaurus + Dragon
-700;Ptyranidur;fee ;Pokémon Attachant;1 mètre(s) (3.381 pied(s));23.5 kilo(s) (51.8175 livre(s));Nymphe + suffixe « li »
-701;Rexillius;combat vol;Pokémon Catcheur;0.8 mètre(s) (2.7048 pied(s));21.5 kilo(s) (47.4075 livre(s));Brutal + Lucha Libre
-702;Amagara;electrik fee;Pokémon Antenne;0.2 mètre(s) (0.6762 pied(s));2.2 kilo(s) (4.851 livre(s));Denki (électricité en japonais) + antenne
-703;Dragmara;roche fee;Pokémon Joyau;0.3 mètre(s) (1.0143 pied(s));5.7 kilo(s) (12.5685 livre(s));Strass + Jolie
-704;Nymphali;dragon ;Pokémon Mollusque;0.3 mètre(s) (1.0143 pied(s));2.8 kilo(s) (6.174 livre(s));Mucus + Minuscule
-705;Brutalibre;dragon ;Pokémon Mollusque;0.8 mètre(s) (2.7048 pied(s));17.5 kilo(s) (38.5875 livre(s));Colimaçon + Mucus
-706;Dedenne;dragon ;Pokémon Dragon;2 mètre(s) (6.762 pied(s));150.5 kilo(s) (331.8525 livre(s));Mucus + Diplodocus
-707;Strassie;acier fee;Pokémon Trousseau;0.2 mètre(s) (0.6762 pied(s));3 kilo(s) (6.615 livre(s));Trousseau + Gobelin
-708;Mucuscule;spectre plante;Pokémon Souche;0.4 mètre(s) (1.3524 pied(s));7 kilo(s) (15.435 livre(s));Brocéliande + Fantôme
-709;Colimucus;spectre plante;Pokémon Vieillarbre;1.5 mètre(s) (5.0715 pied(s));71 kilo(s) (156.555 livre(s));Dessécher + Brocéliande
-712;Muplodocus;glace ;Pokémon Glaçon;1 mètre(s) (3.381 pied(s));99.5 kilo(s) (219.3975 livre(s));Grelotter + Glaçon
-713;Trousselin;glace ;Pokémon Iceberg;2 mètre(s) (6.762 pied(s));505 kilo(s) (1113.525 livre(s));Sérac + Crawler
-714;Brocelome;vol dragon;Pokémon Ondes;0.5 mètre(s) (1.6905 pied(s));8 kilo(s) (17.64 livre(s));Sonique + Pipistrelle
-715;Desseliande;vol dragon;Pokémon Ondes;1.5 mètre(s) (5.0715 pied(s));85 kilo(s) (187.425 livre(s));Bruit + Wyverne
-716;Grelacon;fee ;Pokémon Existence;3 mètre(s) (10.143 pied(s));215 kilo(s) (474.075 livre(s));X + Cervus (biche en latin) + Cernunnos (dieu gaulois à cornes)
-717;Seracrawl;tenebres vol;Pokémon Annihilation;5.8 mètre(s) (19.6098 pied(s));203 kilo(s) (447.615 livre(s));Y + Evil (être mauvais en anglais) + Quetzal (oiseau de la zone néotropicale)
-718;Sonistrelle;dragon sol;Pokémon Équilibre;5 mètre(s) (16.905 pied(s));305 kilo(s) (672.525 livre(s));Z + Zygote + Garde
-719;Bruyverne;roche fee;Pokémon Joyau;0.7 mètre(s) (2.3667 pied(s));8.8 kilo(s) (19.404 livre(s));« Diamond » + « Fancy » + « Pixie » + « Ishi »
-721;Xerneas;feu eau;Pokémon Vapeur;1.7 mètre(s) (5.7477 pied(s));195 kilo(s) (429.975 livre(s));Volcan + Canon + Lion
-722;Yveltal;plante vol;Pokémon Plumefeuille;0.3 mètre(s) (1.0143 pied(s));1.5 kilo(s) (3.3075 livre(s));Brindille + Hibou
-723;Zygarde;plante vol;Pokémon Plum'Acérée;0.7 mètre(s) (2.3667 pied(s));16 kilo(s) (35.28 livre(s));Effraie + Flèche + Mèche
-724;Diancie;plante spectre;Pokémon Plumeflèche;1.6 mètre(s) (5.4096 pied(s));36.6 kilo(s) (80.703 livre(s));Archer + Duc
-725;Volcanion;feu ;Pokémon Chat Feu;0.4 mètre(s) (1.3524 pied(s));4.3 kilo(s) (9.4815 livre(s));Flamme + « Miaou »
-726;Brindibou;feu ;Pokémon Chat Feu;0.7 mètre(s) (2.3667 pied(s));25 kilo(s) (55.125 livre(s));Matoufeu : Matou + Feu
-727;Effleche;feu tenebres;Pokémon Vil Catcheur;1.8 mètre(s) (6.0858 pied(s));83 kilo(s) (183.015 livre(s));Félin + Inferno
-728;Archeduc;eau ;Pokémon Otarie;0.4 mètre(s) (1.3524 pied(s));7.5 kilo(s) (16.5375 livre(s));Otarie + Taquin
-729;Flamiaou;eau ;Pokémon Starlette;0.6 mètre(s) (2.0286 pied(s));17.5 kilo(s) (38.5875 livre(s));Otarie + Starlette
-730;Matoufeu;eau fee;Pokémon Soliste;1.8 mètre(s) (6.0858 pied(s));44 kilo(s) (97.02 livre(s));Oratorio + Aria
-731;Felinferno;normal vol;Pokémon Pivert;0.3 mètre(s) (1.0143 pied(s));1.2 kilo(s) (2.646 livre(s));Pic-vert + Assaut
-732;Otaquin;normal vol;Pokémon Bec Clairon;0.6 mètre(s) (2.0286 pied(s));14.8 kilo(s) (32.634 livre(s));Pic-vert + Clairon
-733;Otarlette;normal vol;Pokémon Canon;1.1 mètre(s) (3.7191 pied(s));26 kilo(s) (57.33 livre(s));Bazooka + Toucan
-734;Oratoria;normal ;Pokémon Patrouille;0.4 mètre(s) (1.3524 pied(s));6 kilo(s) (13.23 livre(s));Mangouste + Glouton
-735;Picassaut;normal ;Pokémon Filature;0.7 mètre(s) (2.3667 pied(s));14.2 kilo(s) (31.311 livre(s));Arrêt + Mangouste
-736;Piclairon;insecte ;Pokémon Larve;0.4 mètre(s) (1.3524 pied(s));4.4 kilo(s) (9.702 livre(s));Larve + Mandibule
-737;Bazoucan;insecte electrik;Pokémon Batterie;0.5 mètre(s) (1.6905 pied(s));10.5 kilo(s) (23.1525 livre(s));Chrysalide + Pile
-738;Manglouton;insecte electrik;Pokémon Scarabée;1.5 mètre(s) (5.0715 pied(s));45 kilo(s) (99.225 livre(s));Lucane + Canon
-739;Argouste;combat ;Pokémon Boxeur;0.6 mètre(s) (2.0286 pied(s));7 kilo(s) (15.435 livre(s));Crabe + Bagarre
-740;Larvibule;combat glace;Pokémon Crabe Velu;1.7 mètre(s) (5.7477 pied(s));180 kilo(s) (396.9 livre(s));Crabe + Abominable
-742;Chrysapile;insecte fee;Pokémon Bombyle;0.1 mètre(s) (0.3381 pied(s));0.2 kilo(s) (0.441 livre(s));Bombyle + Doux
-743;Lucanon;insecte fee;Pokémon Bombyle;0.2 mètre(s) (0.6762 pied(s));0.5 kilo(s) (1.1025 livre(s));Ruban + Bomblye + Belle
-744;Crabagarre;roche ;Pokémon Chiot;0.5 mètre(s) (1.6905 pied(s));9.2 kilo(s) (20.286 livre(s));Roche + Cabot
-747;Crabominable;poison eau;Pokémon Cruel;0.4 mètre(s) (1.3524 pied(s));8 kilo(s) (17.64 livre(s));Vorace + Astérie
-748;Bombydou;poison eau;Pokémon Cruel;0.7 mètre(s) (2.3667 pied(s));14.5 kilo(s) (31.9725 livre(s));Prédateur + Astérie
-749;Rubombelle;sol ;Pokémon Âne;1 mètre(s) (3.381 pied(s));110 kilo(s) (242.55 livre(s));Petit + Boue + Baudet
-750;Rocabot;sol ;Pokémon Cheval Trait;2.5 mètre(s) (8.4525 pied(s));920 kilo(s) (2028.6 livre(s));Boue + Bourrin + Boulonnais
-751;Vorasterie;eau insecte;Pokémon Aquabulle;0.3 mètre(s) (1.0143 pied(s));4 kilo(s) (8.82 livre(s));Araignée + Aqua
-752;Predasterie;eau insecte;Pokémon Aquabulle;1.8 mètre(s) (6.0858 pied(s));82 kilo(s) (180.81 livre(s));Tarentule + Bulle
-753;Tiboudet;plante ;Pokémon Fauch'Herbe;0.3 mètre(s) (1.0143 pied(s));1.5 kilo(s) (3.3075 livre(s));Mini + Mantis
-754;Bourrinos;plante ;Pokémon Fauch'Fleur;0.9 mètre(s) (3.0429 pied(s));18.5 kilo(s) (40.7925 livre(s));Floral + Mantis
-755;Araqua;plante fee;Pokémon Luminescent;0.2 mètre(s) (0.6762 pied(s));1.5 kilo(s) (3.3075 livre(s));Spore + Dodo
-756;Tarenbulle;plante fee;Pokémon Luminescent;1 mètre(s) (3.381 pied(s));11.5 kilo(s) (25.3575 livre(s));Lampe + Champignon
-757;Mimantis;poison feu;Pokémon Toxilézard;0.6 mètre(s) (2.0286 pied(s));4.8 kilo(s) (10.584 livre(s));Triton + Toxique
-758;Floramantis;poison feu;Pokémon Toxilézard;1.2 mètre(s) (4.0572 pied(s));22.2 kilo(s) (48.951 livre(s));Mal + Salamandre
-759;Spododo;normal combat;Pokémon Gigoteur;0.5 mètre(s) (1.6905 pied(s));6.8 kilo(s) (14.994 livre(s));Nounours + Ourson
-760;Lampignon;normal combat;Pokémon Biscoteaux;2.1 mètre(s) (7.1001 pied(s));135 kilo(s) (297.675 livre(s));Chelou + Ours
-761;Tritox;plante ;Pokémon Fruit;0.3 mètre(s) (1.0143 pied(s));3.2 kilo(s) (7.056 livre(s));Croquer + Coquinus
-762;Malamandre;plante ;Pokémon Fruit;0.7 mètre(s) (2.3667 pied(s));8.2 kilo(s) (18.081 livre(s));Candy + Dandine
-763;Nounourson;plante ;Pokémon Fruit;1.2 mètre(s) (4.0572 pied(s));21.4 kilo(s) (47.187 livre(s));Sucre + Reine
-764;Chelours;fee ;Pokémon Tressefleur;0.1 mètre(s) (0.3381 pied(s));0.3 kilo(s) (0.6615 livre(s));Guérir + Guirlande
-765;Croquine;normal psy;Pokémon Grand Sage;1.5 mètre(s) (5.0715 pied(s));76 kilo(s) (167.58 livre(s));Gourou + Orang-Outang
-766;Candine;combat ;Pokémon Coopération;2 mètre(s) (6.762 pied(s));82.8 kilo(s) (182.574 livre(s));Quarterback + Primate
-767;Sucreine;insecte eau;Pokémon Cavaleur;0.5 mètre(s) (1.6905 pied(s));12 kilo(s) (26.46 livre(s));"""Sauve qui peut"" + Pou"
-768;Guerilande;insecte eau;Pokémon Blindé;2 mètre(s) (6.762 pied(s));108 kilo(s) (238.14 livre(s));Samouraï + Armure
-769;Gouroutan;spectre sol;Pokémon Pâtéd’Sable;0.5 mètre(s) (1.6905 pied(s));70 kilo(s) (154.35 livre(s));Bac à sable + Bouh
-770;Quartermac;spectre sol;Pokémon Châtod'Sable;1.3 mètre(s) (4.3953 pied(s));250 kilo(s) (551.25 livre(s));Trépasser + Sable
-771;Sovkipou;eau ;Pokémon Holothurie;0.3 mètre(s) (1.0143 pied(s));1.2 kilo(s) (2.646 livre(s));Concombre de mer + Baffe
-772;Sarmurai;normal ;Pokémon Multigénome;1.9 mètre(s) (6.4239 pied(s));120.5 kilo(s) (265.7025 livre(s));Type + 0
-773;Bacabouh;normal ;Pokémon Multigénome;2.3 mètre(s) (7.7763 pied(s));100.5 kilo(s) (221.6025 livre(s));Silver + Allié
-775;Trepassable;normal ;Pokémon Rêveur;0.4 mètre(s) (1.3524 pied(s));19.9 kilo(s) (43.8795 livre(s));Dodo + Koala
-776;Concombaffe;feu dragon;Pokémon Tortue Boum;2 mètre(s) (6.762 pied(s));212 kilo(s) (467.46 livre(s));Boum + Matamata
-777;Type0;electrik acier;Pokémon Roulenboule;0.3 mètre(s) (1.0143 pied(s));3.3 kilo(s) (7.2765 livre(s));togedemaru
-778;Silvallie;spectre fee;Pokémon Fantômasque;0.2 mètre(s) (0.6762 pied(s));0.7 kilo(s) (1.5435 livre(s));Mimique + Réplique
-779;Dodoala;eau psy;Pokémon Grincedent;0.9 mètre(s) (3.0429 pied(s));19 kilo(s) (41.895 livre(s));"Dérivé de ""dents qui crissent"""
-780;Boumata;normal dragon;Pokémon Nonchalant;3 mètre(s) (10.143 pied(s));185 kilo(s) (407.925 livre(s));Dragon + Aïeul
-781;Togedemaru;spectre plante;Pokémon Varech;3.9 mètre(s) (13.1859 pied(s));210 kilo(s) (463.05 livre(s));Sinistre + Gouvernail
-782;Mimiqui;dragon combat;Pokémon Écailles;0.6 mètre(s) (2.0286 pied(s));29.7 kilo(s) (65.4885 livre(s));Bébé + Écaille
-783;Denticrisse;dragon combat;Pokémon Écailles;1.2 mètre(s) (4.0572 pied(s));7 kilo(s) (15.435 livre(s));Écaille + Caïd
-784;Draieul;dragon combat;Pokémon Écailles;1.6 mètre(s) (5.4096 pied(s));78.2 kilo(s) (172.431 livre(s));Écaille + Kaiser
-785;Sinistrail;electrik fee;Pokémon Tutélaire;1.8 mètre(s) (6.0858 pied(s));20.5 kilo(s) (45.2025 livre(s));Totem + Tiki + Cocorico
-786;Bebecaille;psy fee;Pokémon Tutélaire;1.2 mètre(s) (4.0572 pied(s));18.6 kilo(s) (41.013 livre(s));Totem + Tiki + Papillon
-787;Ecaid;plante fee;Pokémon Tutélaire;1.9 mètre(s) (6.4239 pied(s));45.5 kilo(s) (100.3275 livre(s));Totem + Tiki + Taureau
-788;Ekaiser;eau fee;Pokémon Tutélaire;1.3 mètre(s) (4.3953 pied(s));21.2 kilo(s) (46.746 livre(s));Totem + Tiki + Piscis
-789;Tokorico;psy ;Pokémon Nébuleuse;0.2 mètre(s) (0.6762 pied(s));0.1 kilo(s) (0.2205 livre(s));Cosmos + Smog
-790;Tokopiyon;psy ;Pokémon Proto-Étoile;0.1 mètre(s) (0.3381 pied(s));999.9 kilo(s) (2204.7795 livre(s));Cosmos + Novum ?
-791;Tokotoro;psy acier;Pokémon Halo Solaire;3.4 mètre(s) (11.4954 pied(s));230 kilo(s) (507.15 livre(s));« Sol » + « Galea » + « Leo »
-792;Tokopisco;psy spectre;Pokémon Halo Lunaire;4 mètre(s) (13.524 pied(s));120 kilo(s) (264.6 livre(s));« Luna » + « Ala »
-793;Cosmog;roche poison;Pokémon Parasite;1.2 mètre(s) (4.0572 pied(s));55.5 kilo(s) (122.3775 livre(s));Zéro + Astéroïde ?
-794;Cosmovum;insecte combat;Pokémon Enflé;2.4 mètre(s) (8.1144 pied(s));333.6 kilo(s) (735.588 livre(s));Moustique + Biscoto
-795;Solgaleo;insecte combat;Pokémon Gracile;1.8 mètre(s) (6.0858 pied(s));25 kilo(s) (55.125 livre(s));Cancrelat + Love
-796;Lunala;electrik ;Pokémon Luminaire;3.8 mètre(s) (12.8478 pied(s));100 kilo(s) (220.5 livre(s));"Câble + ""-fère"""
-797;Zeroid;acier vol;Pokémon Décollage;9.2 mètre(s) (31.1052 pied(s));999.9 kilo(s) (2204.7795 livre(s));Bambou + Demoiselle
-798;Mouscoto;plante acier;Pokémon Battô;0.3 mètre(s) (1.0143 pied(s));0.1 kilo(s) (0.2205 livre(s));Katana + Origami
-799;Cancrelove;tenebres dragon;Pokémon Bizarrovore;5.5 mètre(s) (18.5955 pied(s));888 kilo(s) (1958.04 livre(s));Engloutir + Tyran
-800;Cablifere;psy ;Pokémon Prisme;2.4 mètre(s) (8.1144 pied(s));230 kilo(s) (507.15 livre(s));"""Nécro-"" + Ozma"
-801;Bamboiselle;acier fee;Pokémon Artificiel;1 mètre(s) (3.381 pied(s));80.5 kilo(s) (177.5025 livre(s));Machine + « Gear » + « -a »
-802;Katagami;combat spectre;Pokémon Ombrefuge;0.7 mètre(s) (2.3667 pied(s));22.2 kilo(s) (48.951 livre(s));Mars + Shadow
-803;Engloutyran;poison ;Pokémon Vénépic;0.6 mètre(s) (2.0286 pied(s));1.8 kilo(s) (3.969 livre(s));Venin/Venimeux + Mini
-804;Necrozma;poison dragon;Pokémon Vénépic;3.6 mètre(s) (12.1716 pied(s));150 kilo(s) (330.75 livre(s));Mandibule + Aiguillon
-805;Magearna;roche acier;Pokémon Muraille;5.5 mètre(s) (18.5955 pied(s));820 kilo(s) (1808.1 livre(s));"Diminutif de ""Amasser"", répété deux fois"
-806;Marshadow;feu spectre;Pokémon Artificier;1.8 mètre(s) (6.0858 pied(s));13 kilo(s) (28.665 livre(s));Pierrot + Pyrotechnique
-807;Vemini;electrik ;Pokémon Vif Éclair;1.5 mètre(s) (5.0715 pied(s));44.5 kilo(s) (98.1225 livre(s));"Zorro + ""era ora"""
+ID,Nom,Types,Espèce,Taille,Poids,Étymologie
+001,Bulbizarre,plante poison,Pokémon Graine,0.7 mètre(s) (2.3667 pied(s)),6.9 kilo(s) (15.2145 livre(s)),Bulbe + Bizarre
+002,Herbizarre,plante poison,Pokémon Graine,1 mètre(s) (3.381 pied(s)),13 kilo(s) (28.665 livre(s)),Bulbe + Bizarre
+003,Florizarre,plante poison,Pokémon Graine,2 mètre(s) (6.762 pied(s)),100 kilo(s) (220.5 livre(s)),Flore + Bizarre
+004,Salameche,feu ,Pokémon Lézard,0.6 mètre(s) (2.0286 pied(s)),8.5 kilo(s) (18.7425 livre(s)),Salamandre + Mèche
+005,Reptincel,feu ,Pokémon Flamme,1.1 mètre(s) (3.7191 pied(s)),19 kilo(s) (41.895 livre(s)),Reptile + Étincelle
+006,Dracaufeu,feu vol,Pokémon Flamme,1.7 mètre(s) (5.7477 pied(s)),90.5 kilo(s) (199.5525 livre(s)),Draco + Feu
+007,Carapuce,eau ,Pokémon Minitortue,0.5 mètre(s) (1.6905 pied(s)),9 kilo(s) (19.845 livre(s)),Carapace + Puce
+008,Carabaffe,eau ,Pokémon Tortue,1 mètre(s) (3.381 pied(s)),22.5 kilo(s) (49.6125 livre(s)),Carapace + Baffe
+009,Tortank,eau ,Pokémon Carapace,1.6 mètre(s) (5.4096 pied(s)),85.5 kilo(s) (188.5275 livre(s)),Tortue + Tank
+010,Chenipan,insecte ,Pokémon Ver,0.3 mètre(s) (1.0143 pied(s)),2.9 kilo(s) (6.3945 livre(s)),Chenille + Chenapan
+011,Chrysacier,insecte ,Pokémon Cocon,0.7 mètre(s) (2.3667 pied(s)),9.9 kilo(s) (21.8295 livre(s)),Chrysalide + Acier
+012,Papilusion,insecte vol,Pokémon Papillon,1.1 mètre(s) (3.7191 pied(s)),32 kilo(s) (70.56 livre(s)),Papillon + Illusion
+013,Aspicot,insecte poison,Pokémon Insectopic,0.3 mètre(s) (1.0143 pied(s)),3.2 kilo(s) (7.056 livre(s)),Asticot + Picot
+014,Coconfort,insecte poison,Pokémon Cocon,0.6 mètre(s) (2.0286 pied(s)),10 kilo(s) (22.05 livre(s)),Cocon + Fort
+015,Dardargnan,insecte poison,Pokémon Guêpoison,1 mètre(s) (3.381 pied(s)),29.5 kilo(s) (65.0475 livre(s)),Dard + D’Artagnan + « dare-dare »
+016,Roucool,normal vol,Pokémon Minoiseau,0.3 mètre(s) (1.0143 pied(s)),1.8 kilo(s) (3.969 livre(s)),Roucouler + Cool
+017,Roucoups,normal vol,Pokémon Oiseau,1.1 mètre(s) (3.7191 pied(s)),30 kilo(s) (66.15 livre(s)),Roucouler + Coups
+018,Roucarnage,normal vol,Pokémon Oiseau,1.5 mètre(s) (5.0715 pied(s)),39.5 kilo(s) (87.0975 livre(s)),Roucouler + Carnage
+019,Rattata,normal ,Pokémon Souris,0.3 mètre(s) (1.0143 pied(s)),3.5 kilo(s) (7.7175 livre(s)),Rat + Attaque
+020,Rattatac,normal ,Pokémon Souris,0.7 mètre(s) (2.3667 pied(s)),18.5 kilo(s) (40.7925 livre(s)),Rat + Attaque
+021,Piafabec,normal vol,Pokémon Minoiseau,0.3 mètre(s) (1.0143 pied(s)),2 kilo(s) (4.41 livre(s)),« Piaf à bec »
+022,Rapasdepic,normal vol,Pokémon Bec-Oiseau,1.2 mètre(s) (4.0572 pied(s)),38 kilo(s) (83.79 livre(s)),Rapace + As de Pique
+023,Abo,poison ,Pokémon Serpent,2 mètre(s) (6.762 pied(s)),6.9 kilo(s) (15.2145 livre(s)),Anagramme de Boa
+024,Arbok,poison ,Pokémon Cobra,3.5 mètre(s) (11.8335 pied(s)),65 kilo(s) (143.325 livre(s)),Cobra écrit à l’envers + « k »
+025,Pikachu,electrik ,Pokémon Souris,0.4 mètre(s) (1.3524 pied(s)),6 kilo(s) (13.23 livre(s)),Pika + « Chūchū »
+026,Raichu,electrik ,Pokémon Souris,0.8 mètre(s) (2.7048 pied(s)),30 kilo(s) (66.15 livre(s)),« Rai » (Tonnerre) + « Chūchū »
+027,Sabelette,sol ,Pokémon Pokémon Souris,0.6 mètre(s) (2.0286 pied(s)),12 kilo(s) (26.46 livre(s)),Sable + Belette
+028,Sablaireau,sol ,Pokémon Souris,1 mètre(s) (3.381 pied(s)),29.5 kilo(s) (65.0475 livre(s)),« Sable » + « Blaireau »
+029,Nidoran,poison ,Pokémon Venepic,0.4 mètre(s) (1.3524 pied(s)),7 kilo(s) (15.435 livre(s)),"""Needle"" + « ラン » [ran] (orchidée)"
+030,Nidorina,poison ,Pokémon Venepic,0.8 mètre(s) (2.7048 pied(s)),20 kilo(s) (44.1 livre(s)),"""Needle"" + ""Rina"""
+031,Nidoqueen,poison sol,Pokémon Perceur,1.3 mètre(s) (4.3953 pied(s)),60 kilo(s) (132.3 livre(s)),"""Needle"" + ""Queen"""
+032,Nidoran,poison ,Pokémon Venepic,0.5 mètre(s) (1.6905 pied(s)),9 kilo(s) (19.845 livre(s)),"""Needle"" + « ラン » [ran] (orchidée)"
+033,Nidorino,poison ,Pokémon Venepic,0.9 mètre(s) (3.0429 pied(s)),19.5 kilo(s) (42.9975 livre(s)),"""Needle"" + ""Rhino"""
+034,Nidoking,poison sol,Pokémon Perceur,1.4 mètre(s) (4.7334 pied(s)),62 kilo(s) (136.71 livre(s)),"""Needle"" + ""King"""
+035,Melofee,fee ,Pokémon Fée,0.6 mètre(s) (2.0286 pied(s)),7.5 kilo(s) (16.5375 livre(s)),« Mélopée » + « Fée »
+036,Melodelfe,fee ,Pokémon Fée,1.3 mètre(s) (4.3953 pied(s)),40 kilo(s) (88.2 livre(s)),« Mélodie » + « Elfe »
+037,Goupix,feu ,Pokémon Renard,0.6 mètre(s) (2.0286 pied(s)),9.9 kilo(s) (21.8295 livre(s)),Goupil + Six
+038,Feunard,feu ,Pokémon Renard,1.1 mètre(s) (3.7191 pied(s)),19.9 kilo(s) (43.8795 livre(s)),Feun + Renard
+039,Rondoudou,normal fee,Pokémon Bouboule,0.5 mètre(s) (1.6905 pied(s)),5.5 kilo(s) (12.1275 livre(s)),« Rond » + Roudoudou
+040,Grodoudou,normal fee,Pokémon Bouboule,1 mètre(s) (3.381 pied(s)),12 kilo(s) (26.46 livre(s)),Gros + Doudou
+041,Nosferapti,poison vol,Pokémon Chovsouris,0.8 mètre(s) (2.7048 pied(s)),7.5 kilo(s) (16.5375 livre(s)),Nosferatu + Petit
+042,Nosferalto,poison vol,Pokémon Chovsouris,1.6 mètre(s) (5.4096 pied(s)),55 kilo(s) (121.275 livre(s)),Nosferatu + Alto
+043,Mystherbe,plante poison,Pokémon Racine,0.5 mètre(s) (1.6905 pied(s)),5.4 kilo(s) (11.907 livre(s)),Mystère + Herbe
+044,Ortide,plante poison,Pokémon Racine,0.8 mètre(s) (2.7048 pied(s)),8.6 kilo(s) (18.963 livre(s)),Ortie + Fétide
+045,Rafflesia,plante poison,Pokémon Fleur,1.2 mètre(s) (4.0572 pied(s)),18.6 kilo(s) (41.013 livre(s)),Rafflesia
+046,Paras,insecte plante,Pokémon Champignon,0.3 mètre(s) (1.0143 pied(s)),5.4 kilo(s) (11.907 livre(s)),Diminutif de « Parasites »
+047,Parasect,insecte plante,Pokémon Champignon,1 mètre(s) (3.381 pied(s)),29.5 kilo(s) (65.0475 livre(s)),Parasite + Insecte
+048,Mimitoss,insecte poison,Pokémon Vermine,1 mètre(s) (3.381 pied(s)),30 kilo(s) (66.15 livre(s)),Mimi + Mite + Toss
+049,Aeromite,insecte poison,Pokémon Papipoison,1.5 mètre(s) (5.0715 pied(s)),12.5 kilo(s) (27.5625 livre(s)),Aéro- + Mite
+050,Taupiqueur,sol ,Pokémon Taupe,0.2 mètre(s) (0.6762 pied(s)),0.8 kilo(s) (1.764 livre(s)),Taupe + Marteau-piqueur
+051,Triopikeur,sol ,Pokémon Taupe,0.7 mètre(s) (2.3667 pied(s)),33.3 kilo(s) (73.4265 livre(s)),Trio + Marteau-piqueur
+052,Miaouss,normal ,Pokémon Chadégout,0.4 mètre(s) (1.3524 pied(s)),4.2 kilo(s) (9.261 livre(s)),Dérivé de Miaou
+053,Persian,normal ,Pokémon Chadeville,1 mètre(s) (3.381 pied(s)),32 kilo(s) (70.56 livre(s)),Dérivé de Persan
+054,Psykokwak,eau ,Pokémon Canard,0.8 mètre(s) (2.7048 pied(s)),19.6 kilo(s) (43.218 livre(s)),Psycho + Dérivé de Couac
+055,Akwakwak,eau ,Pokémon Canard,1.7 mètre(s) (5.7477 pied(s)),76.6 kilo(s) (168.903 livre(s)),Dérivé de Aqua + Dérivé de Couac
+056,Ferosinge,combat ,Pokémon Porsinge,0.5 mètre(s) (1.6905 pied(s)),28 kilo(s) (61.74 livre(s)),Féroce + Singe
+057,Colossinge,combat ,Pokémon Porsinge,1 mètre(s) (3.381 pied(s)),32 kilo(s) (70.56 livre(s)),Colosse + Singe
+058,Caninos,feu ,Pokémon Chiot,0.7 mètre(s) (2.3667 pied(s)),19 kilo(s) (41.895 livre(s)),"Canin + ""-os"""
+059,Arcanin,feu ,Pokémon Légendaire,1.9 mètre(s) (6.4239 pied(s)),155 kilo(s) (341.775 livre(s)),Arcane + Canin
+060,Ptitard,eau ,Pokémon Têtard,0.6 mètre(s) (2.0286 pied(s)),12.4 kilo(s) (27.342 livre(s)),Petit + Têtard
+061,Tetarte,eau ,Pokémon Têtard,1 mètre(s) (3.381 pied(s)),20 kilo(s) (44.1 livre(s)),Têtard + Tarte
+062,Tartard,eau combat,Pokémon Têtard,1.3 mètre(s) (4.3953 pied(s)),54 kilo(s) (119.07 livre(s)),Tarte + Têtard
+063,Abra,psy ,Pokémon Psy,0.9 mètre(s) (3.0429 pied(s)),19.5 kilo(s) (42.9975 livre(s)),"""Abracadabra"""
+064,Kadabra,psy ,Pokémon Psy,1.3 mètre(s) (4.3953 pied(s)),56.5 kilo(s) (124.5825 livre(s)),"""Abracadabra"""
+065,Alakazam,psy ,Pokémon Psy,1.5 mètre(s) (5.0715 pied(s)),48 kilo(s) (105.84 livre(s)),« Alakazam »
+066,Machoc,combat ,Pokémon Colosse,0.8 mètre(s) (2.7048 pied(s)),19.5 kilo(s) (42.9975 livre(s)),Macho + Choc
+067,Machopeur,combat ,Pokémon Colosse,1.5 mètre(s) (5.0715 pied(s)),70.5 kilo(s) (155.4525 livre(s)),Macho + Chopeur
+068,Mackogneur,combat ,Pokémon Colosse,1.6 mètre(s) (5.4096 pied(s)),130 kilo(s) (286.65 livre(s)),Macho + Cogneur
+069,Chetiflor,plante poison,Pokémon Fleur,0.7 mètre(s) (2.3667 pied(s)),4 kilo(s) (8.82 livre(s)),Chétif + Fleur
+070,Boustiflor,plante poison,Pokémon Carnivore,1 mètre(s) (3.381 pied(s)),6.4 kilo(s) (14.112 livre(s)),Boustifaille + Fleur
+071,Empiflor,plante poison,Pokémon Carnivore,1.7 mètre(s) (5.7477 pied(s)),15.5 kilo(s) (34.1775 livre(s)),Empiffrer + Fleur
+072,Tentacool,eau poison,Pokémon Mollusque,0.9 mètre(s) (3.0429 pied(s)),45.5 kilo(s) (100.3275 livre(s)),Tentacule + Cool
+073,Tentacruel,eau poison,Pokémon Mollusque,1.6 mètre(s) (5.4096 pied(s)),55 kilo(s) (121.275 livre(s)),Tentacule + Cruel
+074,Racaillou,roche sol,Pokémon Roche,0.4 mètre(s) (1.3524 pied(s)),20 kilo(s) (44.1 livre(s)),Racaille + Caillou
+075,Gravalanch,roche sol,Pokémon Roche,1 mètre(s) (3.381 pied(s)),15 kilo(s) (33.075 livre(s)),Gravats + Avalanche
+076,Grolem,roche sol,Pokémon Titanesque,1.4 mètre(s) (4.7334 pied(s)),300 kilo(s) (661.5 livre(s)),Gros + Golem
+077,Ponyta,feu ,Pokémon Cheval Feu,1 mètre(s) (3.381 pied(s)),30 kilo(s) (66.15 livre(s)),Poney + Bonita
+078,Galopa,feu ,Pokémon Cheval Feu,1 mètre(s) (3.381 pied(s)),95 kilo(s) (209.475 livre(s)),Diminutif de Galopade
+079,Ramoloss,eau psy,Pokémon Crétin,1.2 mètre(s) (4.0572 pied(s)),36 kilo(s) (79.38 livre(s)),Ramollo + Molosse
+080,Flagadoss,eau psy,Pokémon Symbiose,1.6 mètre(s) (5.4096 pied(s)),78.5 kilo(s) (173.0925 livre(s)),Flagada + Molosse
+081,Magneti,electrik acier,Pokémon Magnétique,0.3 mètre(s) (1.0143 pied(s)),6 kilo(s) (13.23 livre(s)),Diminitif de Magnétique
+082,Magneton,electrik acier,Pokémon Magnétique,1 mètre(s) (3.381 pied(s)),66 kilo(s) (145.53 livre(s)),"Magnétique + ""-On"""
+083,Canarticho,normal vol,Pokémon Canard Fou,0.8 mètre(s) (2.7048 pied(s)),15 kilo(s) (33.075 livre(s)),Canard + Artichaut
+084,Doduo,normal vol,Pokémon Duoiseau,1.4 mètre(s) (4.7334 pied(s)),39.2 kilo(s) (86.436 livre(s)),Dodo + Duo
+085,Dodrio,normal vol,Pokémon Trioiseau,1.8 mètre(s) (6.0858 pied(s)),85.2 kilo(s) (187.866 livre(s)),Dodo + Trio
+086,Otaria,eau ,Pokémon Otarie,1.1 mètre(s) (3.7191 pied(s)),90 kilo(s) (198.45 livre(s)),"Dérivé de ""Otarie"""
+087,Lamantine,eau glace,Pokémon Otarie,1.7 mètre(s) (5.7477 pied(s)),120 kilo(s) (264.6 livre(s)),Lamantin + Comptine
+088,Tadmorv,poison ,Pokémon Dégueu,0.9 mètre(s) (3.0429 pied(s)),30 kilo(s) (66.15 livre(s)),"Dérivé de ""Tas de morve"""
+089,Grotadmorv,poison ,Pokémon Dégueu,1.2 mètre(s) (4.0572 pied(s)),30 kilo(s) (66.15 livre(s)),"Dérivé de ""Gros tas de morve"""
+090,Kokiyas,eau ,Pokémon Bivalve,0.3 mètre(s) (1.0143 pied(s)),4 kilo(s) (8.82 livre(s)),"Dérivé de ""Coquillage"""
+091,Crustabri,eau glace,Pokémon Bivalve,1.5 mètre(s) (5.0715 pied(s)),132.5 kilo(s) (292.1625 livre(s)),Crustacé + Abri
+092,Fantominus,spectre poison,Pokémon Gaz,1.3 mètre(s) (4.3953 pied(s)),0.1 kilo(s) (0.2205 livre(s)),Fantôme + Minuscule
+093,Spectrum,spectre poison,Pokémon Gaz,1.6 mètre(s) (5.4096 pied(s)),0.1 kilo(s) (0.2205 livre(s)),"Dérivé de ""Spectre"
+094,Ectoplasma,spectre poison,Pokémon Ombre,1.5 mètre(s) (5.0715 pied(s)),40.5 kilo(s) (89.3025 livre(s)),"Dérivé de ""Ectoplasme"""
+095,Onix,roche sol,Pokémon Serpenroc,8.8 mètre(s) (29.7528 pied(s)),210 kilo(s) (463.05 livre(s)),Dérivé de Onyx
+096,Soporifik,psy ,Pokémon Hypnose,1 mètre(s) (3.381 pied(s)),32.4 kilo(s) (71.442 livre(s)),Dérivé de Soporifique
+097,Hypnomade,psy ,Pokémon Hypnose,1.6 mètre(s) (5.4096 pied(s)),75.6 kilo(s) (166.698 livre(s)),Hypno + Nomade
+098,Krabby,eau ,Pokémon Doux Crabe,0.4 mètre(s) (1.3524 pied(s)),6.5 kilo(s) (14.3325 livre(s)),Crabe + -y
+099,Krabboss,eau ,Pokémon Pince,1.3 mètre(s) (4.3953 pied(s)),60 kilo(s) (132.3 livre(s)),Crabe + Boss
+100,Voltorbe,electrik ,Pokémon Balle,0.5 mètre(s) (1.6905 pied(s)),10.4 kilo(s) (22.932 livre(s)),Volt + Orbe
+101,Electrode,electrik ,Pokémon Balle,1.2 mètre(s) (4.0572 pied(s)),66.6 kilo(s) (146.853 livre(s)),Électrode
+102,Noeunoeuf,plante psy,Pokémon Oeuf,0.4 mètre(s) (1.3524 pied(s)),2.5 kilo(s) (5.5125 livre(s)),"""Œuf"" répété deux fois"
+103,Noadkoko,plante psy,Pokémon Fruitpalme,2 mètre(s) (6.762 pied(s)),120 kilo(s) (264.6 livre(s)),"Dérivé de ""Noix de coco"""
+104,Osselait,sol ,Pokémon Solitaire,0.4 mètre(s) (1.3524 pied(s)),6.5 kilo(s) (14.3325 livre(s)),Osselet + Lait
+105,Ossatueur,sol ,Pokémon Gard'Os,1 mètre(s) (3.381 pied(s)),45 kilo(s) (99.225 livre(s)),Osselet + Tueur
+106,Kicklee,combat ,Pokémon Latteur,1.5 mètre(s) (5.0715 pied(s)),49.8 kilo(s) (109.809 livre(s)),Kick + Bruce Lee
+107,Tygnon,combat ,Pokémon Puncheur,1.4 mètre(s) (4.7334 pied(s)),50.2 kilo(s) (110.691 livre(s)),Mike Tyson + Gnon
+108,Excelangue,normal ,Pokémon Lécheur,1.2 mètre(s) (4.0572 pied(s)),65.5 kilo(s) (144.4275 livre(s)),Excès + Langue
+109,Smogo,poison ,Pokémon Gaz Mortel,0.6 mètre(s) (2.0286 pied(s)),1 kilo(s) (2.205 livre(s)),Vient de « Smog »
+110,Smogogo,poison ,Pokémon Gaz Mortel,1.2 mètre(s) (4.0572 pied(s)),9.5 kilo(s) (20.9475 livre(s)),Smog + « A gogo »
+111,Rhinocorne,sol roche,Pokémon Piquant,1 mètre(s) (3.381 pied(s)),115 kilo(s) (253.575 livre(s)),Rhinocéros + Corne
+112,Rhinoferos,sol roche,Pokémon Perceur,1.9 mètre(s) (6.4239 pied(s)),120 kilo(s) (264.6 livre(s)),Rhinocéros + Féroce
+113,Leveinard,normal ,Pokémon Œuf,1.1 mètre(s) (3.7191 pied(s)),34.6 kilo(s) (76.293 livre(s)),"""Le veinard !"""
+114,Saquedeneu,plante ,Pokémon Vigne,1 mètre(s) (3.381 pied(s)),35 kilo(s) (77.175 livre(s)),"Dérivé de ""Sac de nœuds"""
+115,Kangourex,normal ,Pokémon Maternel,2.2 mètre(s) (7.4382 pied(s)),80 kilo(s) (176.4 livre(s)),Kangourou + Rex
+116,Hypotrempe,eau ,Pokémon Dragon,0.4 mètre(s) (1.3524 pied(s)),8 kilo(s) (17.64 livre(s)),Hippocampe + Tremper
+117,Hypocean,eau ,Pokémon Dragon,1.2 mètre(s) (4.0572 pied(s)),25 kilo(s) (55.125 livre(s)),Hippocampe + Océan
+118,Poissirene,eau ,Pokémon Poisson,0.6 mètre(s) (2.0286 pied(s)),15 kilo(s) (33.075 livre(s)),Poisson + Sirène
+119,Poissoroy,eau ,Pokémon Poisson,1.3 mètre(s) (4.3953 pied(s)),39 kilo(s) (85.995 livre(s)),Poisson + Roy
+120,Stari,eau ,Pokémon Étoile,0.8 mètre(s) (2.7048 pied(s)),34.5 kilo(s) (76.0725 livre(s)),"Stari : Star + ""-i"""
+121,Staross,eau psy,Pokémon Mystérieux,1.1 mètre(s) (3.7191 pied(s)),80 kilo(s) (176.4 livre(s)),Star + Boss
+122,M,psy fee,Pokémon Bloqueur,1.3 mètre(s) (4.3953 pied(s)),54.5 kilo(s) (120.1725 livre(s)),M. Mime : Monsieur + Mime
+123,Insecateur,insecte vol,Pokémon Mante,1.5 mètre(s) (5.0715 pied(s)),56 kilo(s) (123.48 livre(s)),Insécateur : Insecte + Sécateur
+124,Lippoutou,glace psy,Pokémon Humanoïde,1.4 mètre(s) (4.7334 pied(s)),40.6 kilo(s) (89.523 livre(s)),Lip + Poutou
+125,Elektek,electrik ,Pokémon Électrique,1.1 mètre(s) (3.7191 pied(s)),30 kilo(s) (66.15 livre(s)),"Dérivé de ""Électrotechnique"""
+126,Magmar,feu ,Pokémon Crache-feu,1.3 mètre(s) (4.3953 pied(s)),44.5 kilo(s) (98.1225 livre(s)),"Magma + ""-ar"""
+127,Scarabrute,insecte ,Pokémon Scarabée,1.5 mètre(s) (5.0715 pied(s)),55 kilo(s) (121.275 livre(s)),Scarabrute : Scarabée + Brute
+128,Tauros,normal ,Pokémon Buffle,1.4 mètre(s) (4.7334 pied(s)),88.4 kilo(s) (194.922 livre(s)),"Dérivé de ""Taureau"" + ""-os"""
+129,Magicarpe,eau ,Pokémon Poisson,0.9 mètre(s) (3.0429 pied(s)),10 kilo(s) (22.05 livre(s)),« Magoi » + Carpe
+130,Leviator,eau vol,Pokémon Terrifiant,6.5 mètre(s) (21.9765 pied(s)),235 kilo(s) (518.175 livre(s)),"Léviathan + ""-or"""
+131,Lokhlass,eau glace,Pokémon Transport,2.5 mètre(s) (8.4525 pied(s)),220 kilo(s) (485.1 livre(s)),"Loch Ness + ""La classe"""
+132,Metamorph,normal ,Pokémon Morphing,0.3 mètre(s) (1.0143 pied(s)),4 kilo(s) (8.82 livre(s)),"Dérivé de ""Métamorphe"""
+133,Evoli,normal ,Pokémon Evolutif,0.3 mètre(s) (1.0143 pied(s)),6.5 kilo(s) (14.3325 livre(s)),Évolution + « -li »
+134,Aquali,eau ,Pokémon Bulleur,1 mètre(s) (3.381 pied(s)),29 kilo(s) (63.945 livre(s)),« Aqua » + « -li »
+135,Voltali,electrik ,Pokémon Orage,0.8 mètre(s) (2.7048 pied(s)),24.5 kilo(s) (54.0225 livre(s)),Volt + « -li »
+136,Pyroli,feu ,Pokémon Flamme,0.9 mètre(s) (3.0429 pied(s)),25 kilo(s) (55.125 livre(s)),« Pyros » + « -li »
+137,Porygon,normal ,Pokémon Virtuel,0.8 mètre(s) (2.7048 pied(s)),36.5 kilo(s) (80.4825 livre(s)),"Dérivé de ""Polygone"""
+138,Amonita,roche eau,Pokémon Spirale,0.4 mètre(s) (1.3524 pied(s)),7.5 kilo(s) (16.5375 livre(s)),Vient du mot Ammonite
+139,Amonistar,roche eau,Pokémon Spirale,1 mètre(s) (3.381 pied(s)),35 kilo(s) (77.175 livre(s)),Ammonite + « Star »
+140,Kabuto,roche eau,Pokémon Carapace,0.5 mètre(s) (1.6905 pied(s)),11.5 kilo(s) (25.3575 livre(s)),Kabuto
+141,Kabutops,roche eau,Pokémon Carapace,1.3 mètre(s) (4.3953 pied(s)),40.5 kilo(s) (89.3025 livre(s)),Kabuto + Top
+142,Ptera,roche vol,Pokémon Fossile,1.8 mètre(s) (6.0858 pied(s)),59 kilo(s) (130.095 livre(s)),Diminutif de Ptéranodon
+143,Ronflex,normal ,Pokémon Pionceur,2.1 mètre(s) (7.1001 pied(s)),460 kilo(s) (1014.3 livre(s)),Ronflement + Flexible
+144,Artikodin,glace vol,Pokémon Glaciaire,1.7 mètre(s) (5.7477 pied(s)),55.4 kilo(s) (122.157 livre(s)),Arctique + Odin
+145,Electhor,electrik vol,Pokémon Électrique,1.6 mètre(s) (5.4096 pied(s)),52.6 kilo(s) (115.983 livre(s)),Électrique + Thor
+146,Sulfura,feu vol,Pokémon Flamme,2 mètre(s) (6.762 pied(s)),60 kilo(s) (132.3 livre(s)),Sulfure + Râ
+147,Minidraco,dragon ,Pokémon Dragon,1.8 mètre(s) (6.0858 pied(s)),3.3 kilo(s) (7.2765 livre(s)),Mini + Draco
+148,Draco,dragon ,Pokémon Dragon,4 mètre(s) (13.524 pied(s)),16.5 kilo(s) (36.3825 livre(s)),Draco
+149,Dracolosse,dragon vol,Pokémon Dragon,2.2 mètre(s) (7.4382 pied(s)),210 kilo(s) (463.05 livre(s)),Draco + Colosse
+151,Mewtwo,psy ,Pokémon Nouveau,0.4 mètre(s) (1.3524 pied(s)),4 kilo(s) (8.82 livre(s)),du mot japonais « myūtanto » (signifiant « mutant »)
+152,Mew,plante ,Pokémon Feuille,0.9 mètre(s) (3.0429 pied(s)),6.4 kilo(s) (14.112 livre(s)),« Germe » + « Mignon »
+153,Germignon,plante ,Pokémon Feuille,1.2 mètre(s) (4.0572 pied(s)),15.8 kilo(s) (34.839 livre(s)),« Macro » + « Géranium »
+154,Macronium,plante ,Pokémon Herbe,1.8 mètre(s) (6.0858 pied(s)),100.5 kilo(s) (221.6025 livre(s)),« Méga » + « Géranium »
+155,Meganium,feu ,Pokémon Souris Feu,0.5 mètre(s) (1.6905 pied(s)),7.9 kilo(s) (17.4195 livre(s)),« Hérisson » + « Cendre »
+156,Hericendre,feu ,Pokémon Volcan,0.9 mètre(s) (3.0429 pied(s)),19 kilo(s) (41.895 livre(s)),« Feu » + « Hérisson »
+157,Feurisson,feu ,Pokémon Volcan,1.7 mètre(s) (5.7477 pied(s)),79.5 kilo(s) (175.2975 livre(s)),« Typhon » + « Explosion »
+158,Typhlosion,eau ,Pokémon Mâchoire,0.6 mètre(s) (2.0286 pied(s)),9.5 kilo(s) (20.9475 livre(s)),« Caïman » + « Minus »
+159,Kaiminus,eau ,Pokémon Mâchoire,1.1 mètre(s) (3.7191 pied(s)),25 kilo(s) (55.125 livre(s)),« Croc » + « Crocodile »
+160,Crocrodil,eau ,Pokémon Mâchoire,2.3 mètre(s) (7.7763 pied(s)),88.8 kilo(s) (195.804 livre(s)),« Alligator » + « Tueur »
+161,Aligatueur,normal ,Pokémon Espion,0.8 mètre(s) (2.7048 pied(s)),6 kilo(s) (13.23 livre(s)),« Fouine » + « Belette »
+162,Fouinette,normal ,Pokémon Allongé,1.8 mètre(s) (6.0858 pied(s)),32.5 kilo(s) (71.6625 livre(s)),« Fouine » + « Renard »
+163,Fouinar,normal vol,Pokémon Hibou,0.7 mètre(s) (2.3667 pied(s)),21.2 kilo(s) (46.746 livre(s)),Dérivé de « hou hou »
+164,Hoothoot,normal vol,Pokémon Hibou,1.6 mètre(s) (5.4096 pied(s)),40.8 kilo(s) (89.964 livre(s)),« Nocturne » + « Harfang »
+165,Noarfang,insecte vol,Pokémon 5 étoiles,1 mètre(s) (3.381 pied(s)),10.8 kilo(s) (23.814 livre(s)),Dérivé de « coccinelle »
+166,Coxy,insecte vol,Pokémon 5 étoiles,1.4 mètre(s) (4.7334 pied(s)),35.6 kilo(s) (78.498 livre(s)),« Coccinelle » + « Claque »
+167,Coxyclaque,insecte poison,Pokémon Crache Fil,0.5 mètre(s) (1.6905 pied(s)),8.5 kilo(s) (18.7425 livre(s)),« Mignon » + « Mygale »
+168,Mimigal,insecte poison,Pokémon Long-Patte,1.1 mètre(s) (3.7191 pied(s)),33.5 kilo(s) (73.8675 livre(s)),« Mygale » + « dos »
+169,Migalos,poison vol,Pokémon Chovsouris,1.8 mètre(s) (6.0858 pied(s)),75 kilo(s) (165.375 livre(s)),« Nosferatu » + « Enfer »
+170,Nostenfer,eau electrik,Pokémon Poisson,0.5 mètre(s) (1.6905 pied(s)),12 kilo(s) (26.46 livre(s)),Dérivé de « loupiote »
+171,Loupio,eau electrik,Pokémon Lumière,1.2 mètre(s) (4.0572 pied(s)),22.5 kilo(s) (49.6125 livre(s)),Dérivé de « lanterne »
+172,Lanturn,electrik ,Pokémon Minisouris,0.3 mètre(s) (1.0143 pied(s)),2 kilo(s) (4.41 livre(s)),Abrégé de « Pikachu » ou anagramme de « puchi »
+173,Pichu,fee ,Pokémon Étoile,0.3 mètre(s) (1.0143 pied(s)),3 kilo(s) (6.615 livre(s)),Diminutif de Mélofée
+174,Melo,normal fee,Pokémon Bouboule,0.3 mètre(s) (1.0143 pied(s)),1 kilo(s) (2.205 livre(s)),« Tout » + « Doux » + « Doux »
+175,Toudoudou,fee ,Pokémon Balle Pic,0.3 mètre(s) (1.0143 pied(s)),1.5 kilo(s) (3.3075 livre(s)),« Toge » + « piyopiyo »
+176,Togepi,fee vol,Pokémon Bonheur,0.6 mètre(s) (2.0286 pied(s)),3.2 kilo(s) (7.056 livre(s)),Dérivé de « Toge » + « chick »
+177,Togetic,psy vol,Pokémon Minoiseau,0.2 mètre(s) (0.6762 pied(s)),2 kilo(s) (4.41 livre(s)),Raccourci de « Nature » ou bien « Native » + anagramme de « Tau »
+178,Natu,psy vol,Pokémon Mystique,1.5 mètre(s) (5.0715 pied(s)),15 kilo(s) (33.075 livre(s)),« X » + « Nature » ou anagramme de « Tau »
+179,Xatu,electrik ,Pokémon Laine,0.6 mètre(s) (2.0286 pied(s)),7.8 kilo(s) (17.199 livre(s)),« Watt » + « ouate »
+180,Wattouat,electrik ,Pokémon Laine,0.8 mètre(s) (2.7048 pied(s)),13.3 kilo(s) (29.3265 livre(s)),« Laine » + « Énergie »
+181,Lainergie,electrik ,Pokémon Lumière,1.4 mètre(s) (4.7334 pied(s)),61.5 kilo(s) (135.6075 livre(s)),« Phare » + « Ampère »
+182,Pharamp,plante ,Pokémon Fleur,0.4 mètre(s) (1.3524 pied(s)),5.8 kilo(s) (12.789 livre(s)),« Jolie » + « Fleur »
+183,Joliflor,eau fee,Pokémon Aquasouris,0.4 mètre(s) (1.3524 pied(s)),8.5 kilo(s) (18.7425 livre(s)),« Marine » + « Rill »
+184,Marill,eau fee,Pokémon Aqualapin,0.8 mètre(s) (2.7048 pied(s)),28.5 kilo(s) (62.8425 livre(s)),« Azur » + « Marill »
+185,Azumarill,roche ,Pokémon Imitation,1.2 mètre(s) (4.0572 pied(s)),38 kilo(s) (83.79 livre(s)),« Simuler » + « Arbre »
+186,Simularbre,eau ,Pokémon Grenouille,1.1 mètre(s) (3.7191 pied(s)),33.9 kilo(s) (74.7495 livre(s)),« Têtard » + « Crapaud »
+187,Tarpaud,plante vol,Pokémon Pissenlit,0.4 mètre(s) (1.3524 pied(s)),0.5 kilo(s) (1.1025 livre(s)),« Graine » + « Vol »
+188,Granivol,plante vol,Pokémon Pissenlit,0.6 mètre(s) (2.0286 pied(s)),1 kilo(s) (2.205 livre(s)),« Floral » + « Vol »
+189,Floravol,plante vol,Pokémon Pissenlit,0.8 mètre(s) (2.7048 pied(s)),3 kilo(s) (6.615 livre(s)),« Coton » + « Vol »
+190,Cotovol,normal ,Pokémon Longqueue,0.8 mètre(s) (2.7048 pied(s)),11.5 kilo(s) (25.3575 livre(s)),« Capucin » + « Main »
+191,Capumain,plante ,Pokémon Graine,0.3 mètre(s) (1.0143 pied(s)),1.8 kilo(s) (3.969 livre(s)),« Tournesol » + « Graine »
+192,Tournegrin,plante ,Pokémon Soleil,0.8 mètre(s) (2.7048 pied(s)),8.5 kilo(s) (18.7425 livre(s)),« Hélia » + « Tronc »
+193,Heliatronc,insecte vol,Pokémon Translaile,1.2 mètre(s) (4.0572 pied(s)),38 kilo(s) (83.79 livre(s)),« Libellule » en japonais
+194,Yanma,eau sol,Pokémon Poisson,0.4 mètre(s) (1.3524 pied(s)),8.5 kilo(s) (18.7425 livre(s)),Dérivé de « Axolotl »
+195,Axoloto,eau sol,Pokémon Poisson,1.4 mètre(s) (4.7334 pied(s)),75 kilo(s) (165.375 livre(s)),« Marais » + « Fürst »
+196,Maraiste,psy ,Pokémon Soleil,0.9 mètre(s) (3.0429 pied(s)),26.5 kilo(s) (58.4325 livre(s)),« Mental » + « -li »
+197,Mentali,tenebres ,Pokémon Lune,1 mètre(s) (3.381 pied(s)),27 kilo(s) (59.535 livre(s)),« Noctis » + « -li »
+198,Noctali,tenebres vol,Pokémon Obscurité,0.5 mètre(s) (1.6905 pied(s)),2.1 kilo(s) (4.6305 livre(s)),« Corneille » + « Funèbre »
+199,Cornebre,eau psy,Pokémon Royal,2 mètre(s) (6.762 pied(s)),79.5 kilo(s) (175.2975 livre(s)),« Roi » + « Flagada »
+200,Roigada,spectre ,Pokémon Strident,0.7 mètre(s) (2.3667 pied(s)),1 kilo(s) (2.205 livre(s)),Feu follet + Rêve
+201,Feuforeve,psy ,Pokémon Symbolique,0.5 mètre(s) (1.6905 pied(s)),5 kilo(s) (11.025 livre(s)),Verlan de « Bizarre »
+202,Zarbi,psy ,Pokémon Patient,1.3 mètre(s) (4.3953 pied(s)),28.5 kilo(s) (62.8425 livre(s)),« Culbuto » + « Toqué »
+203,Qulbutoke,normal psy,Pokémon Long-Cou,1.5 mètre(s) (5.0715 pied(s)),41.5 kilo(s) (91.5075 livre(s)),Palindrome formé autour de « girafe »
+204,Girafarig,insecte ,Pokémon Ver Caché,0.6 mètre(s) (2.0286 pied(s)),7.2 kilo(s) (15.876 livre(s)),« Pomme de pin » + « pic »
+205,Pomdepik,insecte acier,Pokémon Ver Caché,1.2 mètre(s) (4.0572 pied(s)),125.8 kilo(s) (277.389 livre(s)),Dérivé de « forteresse »
+206,Foretress,normal ,Pokémon Serpent,1.5 mètre(s) (5.0715 pied(s)),14 kilo(s) (30.87 livre(s)),« Insolite » + « Lourdaud »
+207,Insolourdo,sol vol,Pokémon Scorpivol,1.1 mètre(s) (3.7191 pied(s)),64.8 kilo(s) (142.884 livre(s)),« Scorpion » + « Planer »
+208,Scorplane,acier sol,Pokémon Serpenfer,9.2 mètre(s) (31.1052 pied(s)),400 kilo(s) (882 livre(s)),« Steel » + « Onyx »
+209,Steelix,fee ,Pokémon Fée,0.6 mètre(s) (2.0286 pied(s)),7.8 kilo(s) (17.199 livre(s)),« Snuggle » + « Bulldog »
+210,Snubbull,fee ,Pokémon Fée,1.4 mètre(s) (4.7334 pied(s)),48.7 kilo(s) (107.3835 livre(s)),« Grand » + « Bulldog »
+211,Granbull,eau poison,Pokémon Bouboule,0.5 mètre(s) (1.6905 pied(s)),3.9 kilo(s) (8.5995 livre(s)),« Quill » + « Fish »
+212,Qwilfish,insecte acier,Pokémon Pince,1.8 mètre(s) (6.0858 pied(s)),118 kilo(s) (260.19 livre(s)),« cisaille » + « oxydation »
+213,Cizayox,insecte roche,Pokémon Pourri,0.6 mètre(s) (2.0286 pied(s)),20.5 kilo(s) (45.2025 livre(s)),« Carapace » + « Troc »
+214,Caratroc,insecte combat,Pokémon Unicorne,1.5 mètre(s) (5.0715 pied(s)),54 kilo(s) (119.07 livre(s)),« Scarabée » + « Rhinos »
+215,Scarhino,tenebres glace,Pokémon Grifacérée,0.9 mètre(s) (3.0429 pied(s)),28 kilo(s) (61.74 livre(s)),« Farfouiller » + « Furet »
+216,Farfuret,normal ,Pokémon Mini Ours,0.6 mètre(s) (2.0286 pied(s)),8.8 kilo(s) (19.404 livre(s)),« Teddy bear » + « ursa »
+217,Teddiursa,normal ,Pokémon Hibernant,1.8 mètre(s) (6.0858 pied(s)),125.8 kilo(s) (277.389 livre(s)),« Ursa » + « Ring »
+218,Ursaring,feu ,Pokémon Lave,0.7 mètre(s) (2.3667 pied(s)),35 kilo(s) (77.175 livre(s)),« Limace » + « Magma »
+219,Limagma,feu roche,Pokémon Lave,0.8 mètre(s) (2.7048 pied(s)),55 kilo(s) (121.275 livre(s)),« Volcan » + « Gastéropode »
+220,Volcaropod,glace sol,Pokémon Cochon,0.4 mètre(s) (1.3524 pied(s)),6.5 kilo(s) (14.3325 livre(s)),« Marcassin » + « Crin »
+221,Marcacrin,glace sol,Pokémon Porc,1.1 mètre(s) (3.7191 pied(s)),55.8 kilo(s) (123.039 livre(s)),« Cochon » + « Chignon »
+222,Cochignon,eau roche,Pokémon Corail,0.6 mètre(s) (2.0286 pied(s)),5 kilo(s) (11.025 livre(s)),« Corail » + « Rayon »
+223,Corayon,eau ,Pokémon Jet,0.6 mètre(s) (2.0286 pied(s)),12 kilo(s) (26.46 livre(s)),« Rémora » + « Raid »
+224,Remoraid,eau ,Pokémon Jet,0.9 mètre(s) (3.0429 pied(s)),28.5 kilo(s) (62.8425 livre(s)),« Octopus » + « Artillery »
+225,Octillery,glace vol,Pokémon Livraison,0.9 mètre(s) (3.0429 pied(s)),16 kilo(s) (35.28 livre(s)),« Cadeau » + « Oizo »
+226,Cadoizo,eau vol,Pokémon Cervolant,2.1 mètre(s) (7.1001 pied(s)),220 kilo(s) (485.1 livre(s)),« Démon » + « Manta »
+227,Demanta,acier vol,Pokémon Armoiseau,1.7 mètre(s) (5.7477 pied(s)),50.5 kilo(s) (111.3525 livre(s)),« Air » + « Armure »
+228,Airmure,tenebres feu,Pokémon Sombre,0.6 mètre(s) (2.0286 pied(s)),10.8 kilo(s) (23.814 livre(s)),« Mal » + « Molosse »
+230,Malosse,eau dragon,Pokémon Dragon,1.8 mètre(s) (6.0858 pied(s)),152 kilo(s) (335.16 livre(s)),« Hippocampe » + « Roi »
+231,Demolosse,sol ,Pokémon Long-Nez,0.5 mètre(s) (1.6905 pied(s)),33.5 kilo(s) (73.8675 livre(s)),Éléphant + Baby
+232,Hyporoi,sol ,Pokémon Armure,1.1 mètre(s) (3.7191 pied(s)),120 kilo(s) (264.6 livre(s)),Don + Éléphant
+233,Phanpy,normal ,Pokémon Virtuel,0.6 mètre(s) (2.0286 pied(s)),32.5 kilo(s) (71.6625 livre(s)),"Dérivé de ""Polygone"" + 2"
+234,Donphan,normal ,Pokémon Maxi Corne,1.4 mètre(s) (4.7334 pied(s)),71.2 kilo(s) (156.996 livre(s)),« Cerf » + « Frousse »
+235,Porygon2,normal ,Pokémon Peintre,1.2 mètre(s) (4.0572 pied(s)),58 kilo(s) (127.89 livre(s)),Queue + anagramme de Coloris
+237,Cerfrousse,combat ,Pokémon Poirier,1.4 mètre(s) (4.7334 pied(s)),48 kilo(s) (105.84 livre(s)),Dérivé de « Capoeira »
+238,Queulorior,glace psy,Pokémon Bisou,0.6 mètre(s) (2.0286 pied(s)),6 kilo(s) (13.23 livre(s)),« Lip » + « Poutou » + « Petit »
+239,Debugant,electrik ,Pokémon Électrique,0.6 mètre(s) (2.0286 pied(s)),23.5 kilo(s) (51.8175 livre(s)),« Électrique » + « Kid »
+240,Kapoera,feu ,Pokémon Charbon,0.7 mètre(s) (2.3667 pied(s)),21.4 kilo(s) (47.187 livre(s)),« Magma » + « Baby »
+241,Lippouti,normal ,Pokémon Vachalait,1.2 mètre(s) (4.0572 pied(s)),75.5 kilo(s) (166.4775 livre(s)),« Écrémer » + « Meuh »
+242,Elekid,normal ,Pokémon Bonheur,1.5 mètre(s) (5.0715 pied(s)),46.8 kilo(s) (103.194 livre(s)),Dérivé de « l'euphorie »
+243,Magby,electrik ,Pokémon Foudre,1.9 mètre(s) (6.4239 pied(s)),178 kilo(s) (392.49 livre(s)),« Rai » + « Ko »
+244,Ecremeuh,feu ,Pokémon Volcan,2.1 mètre(s) (7.1001 pied(s)),198 kilo(s) (436.59 livre(s)),« En » + « Kotei »
+245,Leuphorie,eau ,Pokémon Aurore,2 mètre(s) (6.762 pied(s)),187 kilo(s) (412.335 livre(s)),« Sui » + « Kun »
+246,Raikou,roche sol,Pokémon Peaupierre,0.6 mètre(s) (2.0286 pied(s)),72 kilo(s) (158.76 livre(s)),« Embryon » + « Silex »
+247,Entei,roche sol,Pokémon Carapadure,1.2 mètre(s) (4.0572 pied(s)),152 kilo(s) (335.16 livre(s)),« Nymphe » + « Infect »
+248,Suicune,roche tenebres,Pokémon Armure,2 mètre(s) (6.762 pied(s)),202 kilo(s) (445.41 livre(s)),« Tyrannos » + « Nocif »
+249,Embrylex,psy vol,Pokémon Plongeon,5.2 mètre(s) (17.5812 pied(s)),216 kilo(s) (476.28 livre(s)),« Lutécium » + « Lugeo » + « Luna »
+250,Ymphect,feu vol,Pokémon Arc-en-ciel,3.8 mètre(s) (12.8478 pied(s)),199 kilo(s) (438.795 livre(s)),"Dérivé de ""Hoo"""
+251,Tyranocif,psy plante,Pokémon Temporel,0.6 mètre(s) (2.0286 pied(s)),5 kilo(s) (11.025 livre(s)),Celestial + Being
+252,Lugia,plante ,Pokémon Bois Gecko,0.5 mètre(s) (1.6905 pied(s)),5 kilo(s) (11.025 livre(s)),Arbre + Gecko
+253,Ho,plante ,Pokémon Bois Gecko,0.9 mètre(s) (3.0429 pied(s)),21.6 kilo(s) (47.628 livre(s)),Massif + Gecko
+254,Celebi,plante ,Pokémon Forêt,1.3 mètre(s) (4.3953 pied(s)),52.5 kilo(s) (115.7625 livre(s)),Jungle + Gecko
+255,Arcko,feu ,Pokémon Poussin,0.4 mètre(s) (1.3524 pied(s)),2.5 kilo(s) (5.5125 livre(s)),Poussin + Feu
+256,Massko,feu combat,Pokémon Poulet,0.9 mètre(s) (3.0429 pied(s)),19.5 kilo(s) (42.9975 livre(s)),Gallinacé + Feu
+257,Jungko,feu combat,Pokémon Ardent,1.9 mètre(s) (6.4239 pied(s)),52 kilo(s) (114.66 livre(s)),Brasier + Gallinacé
+258,Poussifeu,eau ,Pokémon Poissonboue,0.4 mètre(s) (1.3524 pied(s)),7.6 kilo(s) (16.758 livre(s)),Gobie + Boue
+259,Galifeu,eau sol,Pokémon Poissonboue,0.7 mètre(s) (2.3667 pied(s)),28 kilo(s) (61.74 livre(s)),Flot + suffixe « -bios »
+260,Brasegali,eau sol,Pokémon Poissonboue,1.6 mètre(s) (5.4096 pied(s)),81.9 kilo(s) (180.5895 livre(s)),Lagon + « Ground »
+261,Gobou,tenebres ,Pokémon Morsure,0.5 mètre(s) (1.6905 pied(s)),13.6 kilo(s) (29.988 livre(s)),Medium + Hyèna
+262,Flobio,tenebres ,Pokémon Morsure,1 mètre(s) (3.381 pied(s)),37 kilo(s) (81.585 livre(s)),Grand + Hyèna
+263,Laggron,normal ,Pokémon Petit Raton,0.4 mètre(s) (1.3524 pied(s)),17.5 kilo(s) (38.5875 livre(s)),Zigzag + Raton
+264,Medhyena,normal ,Pokémon Fonceur,0.5 mètre(s) (1.6905 pied(s)),32.5 kilo(s) (71.6625 livre(s)),Linéaire + Raton
+265,Grahyena,insecte ,Pokémon Ver,0.3 mètre(s) (1.0143 pied(s)),3.6 kilo(s) (7.938 livre(s)),Chenille + Patte
+266,Zigzaton,insecte ,Pokémon Cocon,0.6 mètre(s) (2.0286 pied(s)),10 kilo(s) (22.05 livre(s)),Armure + Chrysalide
+267,Lineon,insecte vol,Pokémon Papillon,1 mètre(s) (3.381 pied(s)),28.4 kilo(s) (62.622 livre(s)),Charme + Papillon
+268,Chenipotte,insecte ,Pokémon Cocon,0.7 mètre(s) (2.3667 pied(s)),11.5 kilo(s) (25.3575 livre(s)),Blindage + Chrysalide
+269,Armulys,insecte poison,Pokémon Papipoison,1.2 mètre(s) (4.0572 pied(s)),31.6 kilo(s) (69.678 livre(s)),Papillon + Nox
+270,Charmillon,eau plante,Pokémon Aquaplante,0.5 mètre(s) (1.6905 pied(s)),2.6 kilo(s) (5.733 livre(s)),Nénuphar + Petiot
+271,Blindalys,eau plante,Pokémon Jovial,1.2 mètre(s) (4.0572 pied(s)),32.5 kilo(s) (71.6625 livre(s)),Lotus + Sombrero
+272,Papinox,eau plante,Pokémon Insouciant,1.5 mètre(s) (5.0715 pied(s)),55 kilo(s) (121.275 livre(s)),Ludi, Ludique ou Ludicrous + Coloquinte
+273,Nenupiot,plante ,Pokémon Gland,0.5 mètre(s) (1.6905 pied(s)),4 kilo(s) (8.82 livre(s)),Graine + Petiot
+274,Lombre,plante tenebres,Pokémon Malin,1 mètre(s) (3.381 pied(s)),28 kilo(s) (61.74 livre(s)),Pif + Feuille
+275,Ludicolo,plante tenebres,Pokémon Malveillant,1.3 mètre(s) (4.3953 pied(s)),59.6 kilo(s) (131.418 livre(s)),Tengu + Malice
+276,Grainipiot,normal vol,Pokémon Minirondel,0.3 mètre(s) (1.0143 pied(s)),2.3 kilo(s) (5.0715 livre(s)),Mini + Hirondelle
+277,Pifeuil,normal vol,Pokémon Hirondelle,0.7 mètre(s) (2.3667 pied(s)),19.7 kilo(s) (43.4385 livre(s)),Aile + Hirondelle
+278,Tengalice,eau vol,Pokémon Mouette,0.6 mètre(s) (2.0286 pied(s)),9.5 kilo(s) (20.9475 livre(s)),Goéland + Alizé
+279,Nirondelle,eau vol,Pokémon Oiseaudo,1.2 mètre(s) (4.0572 pied(s)),28 kilo(s) (61.74 livre(s)),Pélican + « Bec qui pend »
+280,Heledelle,psy fee,Pokémon Sentiment,0.4 mètre(s) (1.3524 pied(s)),6.6 kilo(s) (14.553 livre(s)),Anagramme de « Astral »
+281,Goelise,psy fee,Pokémon Emotion,0.8 mètre(s) (2.7048 pied(s)),20.2 kilo(s) (44.541 livre(s)),dérivé de « Kirlian »
+282,Bekipan,psy fee,Pokémon Étreinte,1.6 mètre(s) (5.4096 pied(s)),48.4 kilo(s) (106.722 livre(s)),Garde + Voir
+283,Tarsal,insecte eau,Pokémon Maresurfeur,0.5 mètre(s) (1.6905 pied(s)),1.7 kilo(s) (3.7485 livre(s)),Arachnide + Eau
+284,Kirlia,insecte vol,Pokémon Boule Oeil,0.8 mètre(s) (2.7048 pied(s)),3.6 kilo(s) (7.938 livre(s)),Masque + Mascarade + Drache
+285,Gardevoir,plante ,Pokémon Champignon,0.4 mètre(s) (1.3524 pied(s)),4.5 kilo(s) (9.9225 livre(s)),Balle + Champignon
+286,Arakdo,plante combat,Pokémon Champignon,1.2 mètre(s) (4.0572 pied(s)),39.2 kilo(s) (86.436 livre(s)),Chapeau + Champignon
+287,Maskadra,normal ,Pokémon Flâneur,0.8 mètre(s) (2.7048 pied(s)),24 kilo(s) (52.92 livre(s)),Paresseux + Cool
+288,Balignon,normal ,Pokémon Turbusinge,1.4 mètre(s) (4.7334 pied(s)),46.5 kilo(s) (102.5325 livre(s)),Vigoureux + « Sloth »
+289,Chapignon,normal ,Pokémon Fainéant,2 mètre(s) (6.762 pied(s)),130.5 kilo(s) (287.7525 livre(s)),Monarque + Flemme
+290,Parecool,insecte sol,Pokémon Apprenti,0.5 mètre(s) (1.6905 pied(s)),5.5 kilo(s) (12.1275 livre(s)),Ninja + Cigale
+291,Vigoroth,insecte vol,Pokémon Ninja,0.8 mètre(s) (2.7048 pied(s)),12 kilo(s) (26.46 livre(s)),Ninja + « Mask »
+292,Monaflemit,insecte spectre,Pokémon Exuvie,0.8 mètre(s) (2.7048 pied(s)),1.2 kilo(s) (2.646 livre(s)),Mue + Ninja
+293,Ningale,normal ,Pokémon Chuchoteur,0.6 mètre(s) (2.0286 pied(s)),16.3 kilo(s) (35.9415 livre(s)),Chuchoter + Murmure
+294,Ninjask,normal ,Pokémon Grosse Voix,1 mètre(s) (3.381 pied(s)),40.5 kilo(s) (89.3025 livre(s)),Ramdam + Boum
+295,Munja,normal ,Pokémon Bruit Sourd,1.5 mètre(s) (5.0715 pied(s)),84 kilo(s) (185.22 livre(s)),Brouhaha + Bam
+296,Chuchmur,combat ,Pokémon Tenace,1 mètre(s) (3.381 pied(s)),86.4 kilo(s) (190.512 livre(s)),provient de « Makushita »
+297,Ramboum,combat ,Pokémon Cogneur,2.3 mètre(s) (7.7763 pied(s)),253.8 kilo(s) (559.629 livre(s)),provient de « Hariteyama »
+298,Brouhabam,normal fee,Pokémon Point Polka,0.2 mètre(s) (0.6762 pied(s)),2 kilo(s) (4.41 livre(s)),Azur + « Rill »
+299,Makuhita,roche ,Pokémon Boussole,1 mètre(s) (3.381 pied(s)),97 kilo(s) (213.885 livre(s)),Tarin + Nord
+300,Hariyama,normal ,Pokémon Chaton,0.6 mètre(s) (2.0286 pied(s)),11 kilo(s) (24.255 livre(s)),« Skittish » + « Kitty »
+301,Azurill,normal ,Pokémon Guindé,1.1 mètre(s) (3.7191 pied(s)),32.6 kilo(s) (71.883 livre(s)),« Delicate » + « Cat » + « Kitty »
+302,Tarinor,spectre tenebres,Pokémon Obscurité,0.5 mètre(s) (1.6905 pied(s)),11 kilo(s) (24.255 livre(s)),Ténèbres + Fixer
+303,Skitty,acier fee,Pokémon Trompeur,0.6 mètre(s) (2.0286 pied(s)),11.5 kilo(s) (25.3575 livre(s)),Mystifier + Mandibule
+304,Delcatty,acier roche,Pokémon Armufer,0.4 mètre(s) (1.3524 pied(s)),60 kilo(s) (132.3 livre(s)),Galet + « Kid »
+305,Tenefix,acier roche,Pokémon Armufer,0.9 mètre(s) (3.0429 pied(s)),120 kilo(s) (264.6 livre(s)),Galet + Dragon
+306,Mysdibule,acier roche,Pokémon Armurfer,2.1 mètre(s) (7.1001 pied(s)),360 kilo(s) (793.8 livre(s)),Galet + « King »
+307,Galekid,combat psy,Pokémon Méditation,0.6 mètre(s) (2.0286 pied(s)),11.2 kilo(s) (24.696 livre(s)),Méditation + Karatéka
+308,Galegon,combat psy,Pokémon Méditation,1.3 mètre(s) (4.3953 pied(s)),31.5 kilo(s) (69.4575 livre(s)),Charme + Minauder
+309,Galeking,electrik ,Pokémon Orage,0.6 mètre(s) (2.0286 pied(s)),15.2 kilo(s) (33.516 livre(s)),Dynamo + Volt
+310,Meditikka,electrik ,Pokémon Décharge,1.5 mètre(s) (5.0715 pied(s)),40.2 kilo(s) (88.641 livre(s)),Électricité + « Sprint »
+311,Charmina,electrik ,Pokémon Acclameur,0.4 mètre(s) (1.3524 pied(s)),4.2 kilo(s) (9.261 livre(s)),Positif + « Pi »
+312,Dynavolt,electrik ,Pokémon Acclameur,0.4 mètre(s) (1.3524 pied(s)),4.2 kilo(s) (9.261 livre(s)),Négatif + « Pi ».
+313,Elecsprint,insecte ,Pokémon Luciole,0.7 mètre(s) (2.3667 pied(s)),17.7 kilo(s) (39.0285 livre(s)),Mue + Luciole
+314,Posipi,insecte ,Pokémon Luciole,0.6 mètre(s) (2.0286 pied(s)),17.7 kilo(s) (39.0285 livre(s)),Lumière + Vol
+315,Negapi,plante poison,Pokémon Epine,0.3 mètre(s) (1.0143 pied(s)),2 kilo(s) (4.41 livre(s)),Rose
+316,Muciole,poison ,Pokémon Estomac,0.4 mètre(s) (1.3524 pied(s)),10.3 kilo(s) (22.7115 livre(s)),« Gloup » ou Glouton + Petit
+317,Lumivole,poison ,Pokémon Sac Poison,1.7 mètre(s) (5.7477 pied(s)),80 kilo(s) (176.4 livre(s)),Avale + Tout
+318,Roselia,eau tenebres,Pokémon Féroce,0.8 mètre(s) (2.7048 pied(s)),20.8 kilo(s) (45.864 livre(s)),Carnivore + Piranha
+319,Gloupti,eau tenebres,Pokémon Brutal,1.8 mètre(s) (6.0858 pied(s)),88.8 kilo(s) (195.804 livre(s)),« Shark » + « Torpedo »
+320,Avaltout,eau ,Pokémon Baleinboule,2 mètre(s) (6.762 pied(s)),130 kilo(s) (286.65 livre(s)),« Whale » + Mer
+321,Carvanha,eau ,Pokémon Cachabouée,14.5 mètre(s) (49.0245 pied(s)),398 kilo(s) (877.59 livre(s)),« Whale » + « Lord »
+322,Sharpedo,feu sol,Pokémon Engourdi,0.7 mètre(s) (2.3667 pied(s)),24 kilo(s) (52.92 livre(s)),Chameau + « Chamallow » (sonorité)
+323,Wailmer,feu sol,Pokémon Éruption,1.9 mètre(s) (6.4239 pied(s)),220 kilo(s) (485.1 livre(s)),« Camelus » + Éruption
+324,Wailord,feu ,Pokémon Charbon,0.5 mètre(s) (1.6905 pied(s)),80.4 kilo(s) (177.282 livre(s)),Charbon + Tortue
+325,Chamallot,psy ,Pokémon Rebond,0.8 mètre(s) (2.7048 pied(s)),30.6 kilo(s) (67.473 livre(s)),« Spring » + « Oink »
+326,Camerupt,psy ,Pokémon Magouilleur,0.9 mètre(s) (3.0429 pied(s)),71.5 kilo(s) (157.6575 livre(s)),Gros + Goret
+327,Chartor,normal ,Pokémon Panda taché,1.1 mètre(s) (3.7191 pied(s)),5 kilo(s) (11.025 livre(s)),« Spin » + Panda
+328,Spoink,sol ,Pokémon Piégeur,0.7 mètre(s) (2.3667 pied(s)),15 kilo(s) (33.075 livre(s)),« Craque-noix »
+329,Groret,sol dragon,Pokémon Vibration,1.1 mètre(s) (3.7191 pied(s)),15.3 kilo(s) (33.7365 livre(s)),Vibration + Nymphe
+330,Spinda,sol dragon,Pokémon Mystique,2 mètre(s) (6.762 pied(s)),82 kilo(s) (180.81 livre(s)),Libellule + Dragon
+331,Kraknoix,plante ,Pokémon Cactus,0.4 mètre(s) (1.3524 pied(s)),51.3 kilo(s) (113.1165 livre(s)),Cactus + « Sabonea »
+332,Vibraninf,plante tenebres,Pokémon Épouvantail,1.3 mètre(s) (4.3953 pied(s)),77.4 kilo(s) (170.667 livre(s)),Cactus + Taciturne
+333,Libegon,normal vol,Pokémon Oiseaucoton,0.4 mètre(s) (1.3524 pied(s)),1.2 kilo(s) (2.646 livre(s)),« Tyltyl » + Coton
+334,Cacnea,dragon vol,Pokémon Virevolteur,1.1 mètre(s) (3.7191 pied(s)),20.6 kilo(s) (45.423 livre(s)),« Alto » + « Aria »
+335,Cacturne,normal ,Pokémon Chat Furet,1.3 mètre(s) (4.3953 pied(s)),40.3 kilo(s) (88.8615 livre(s)),Mangouste + Griffe
+336,Tylton,poison ,Pokémon Serpacroc,2.7 mètre(s) (9.1287 pied(s)),52.5 kilo(s) (115.7625 livre(s)),Sévère + Vipère
+337,Altaria,roche psy,Pokémon Météorite,1 mètre(s) (3.381 pied(s)),168 kilo(s) (370.44 livre(s)),Séléné + Roc
+338,Mangriff,roche psy,Pokémon Météorite,1.2 mètre(s) (4.0572 pied(s)),154 kilo(s) (339.57 livre(s)),Solaire + Roc
+339,Seviper,eau sol,Pokémon Barbillon,0.4 mètre(s) (1.3524 pied(s)),1.9 kilo(s) (4.1895 livre(s)),Barbillon ou Barbiche + Loche
+340,Seleroc,eau sol,Pokémon Barbillon,0.9 mètre(s) (3.0429 pied(s)),23.6 kilo(s) (52.038 livre(s)),Barbillon ou Barbiche + Poisson-chat
+341,Solaroc,eau ,Pokémon Brute,0.6 mètre(s) (2.0286 pied(s)),11.5 kilo(s) (25.3575 livre(s)),Écrevisse + Crabe + Pince
+342,Barloche,eau tenebres,Pokémon Crapule,1.1 mètre(s) (3.7191 pied(s)),32.8 kilo(s) (72.324 livre(s)),Colosse + Homard
+343,Barbicha,sol psy,Pokémon Poupargile,0.5 mètre(s) (1.6905 pied(s)),21.5 kilo(s) (47.4075 livre(s)),Balancier + Culbuto
+344,Ecrapince,sol psy,Pokémon Poupargile,1.5 mètre(s) (5.0715 pied(s)),108 kilo(s) (238.14 livre(s)),Kaolinite + Figurine
+345,Colhomard,roche plante,Pokémon Lis d'Eau,1 mètre(s) (3.381 pied(s)),23.8 kilo(s) (52.479 livre(s)),« Lilium » + Lilas
+346,Balbuto,roche plante,Pokémon Bernacle,1.5 mètre(s) (5.0715 pied(s)),60 kilo(s) (132.3 livre(s)),Vaciller + Lys
+347,Kaorine,roche insecte,Pokémon Crustage,0.7 mètre(s) (2.3667 pied(s)),12.5 kilo(s) (27.5625 livre(s)),Anomalocaris + « Lith »
+348,Lilia,roche insecte,Pokémon Blindage,1.5 mètre(s) (5.0715 pied(s)),68.2 kilo(s) (150.381 livre(s)),« Armor » + « Armadillo »
+349,Vacilys,eau ,Pokémon Poisson,0.6 mètre(s) (2.0286 pied(s)),7.4 kilo(s) (16.317 livre(s)),Bar + Crapaud
+350,Anorith,eau ,Pokémon Tendre,6.2 mètre(s) (20.9622 pied(s)),162 kilo(s) (357.21 livre(s)),Vénus de Milo + Belle
+352,Armaldo,normal ,Pokémon Multicolor,1 mètre(s) (3.381 pied(s)),22 kilo(s) (48.51 livre(s)),« Kakureru » + Caméléon
+353,Barpau,spectre ,Pokémon Poupée,0.6 mètre(s) (2.0286 pied(s)),2.3 kilo(s) (5.0715 livre(s)),Polichinelle + Ombre
+354,Milobellus,spectre ,Pokémon Marionnette,1.1 mètre(s) (3.7191 pied(s)),12.5 kilo(s) (27.5625 livre(s)),Braguette + Marionnette
+355,Kecleon,spectre ,Pokémon Requiem,0.8 mètre(s) (2.7048 pied(s)),15 kilo(s) (33.075 livre(s))
+356,Polichombr,spectre ,Pokémon Appel,1.6 mètre(s) (5.4096 pied(s)),30.6 kilo(s) (67.473 livre(s))
+357,Branette,plante vol,Pokémon Fruit,2 mètre(s) (6.762 pied(s)),100 kilo(s) (220.5 livre(s))
+358,Skelenox,psy ,Pokémon Carillon,0.6 mètre(s) (2.0286 pied(s)),1 kilo(s) (2.205 livre(s)),Éole + Écho
+359,Teraclope,tenebres ,Pokémon Désastre,1.2 mètre(s) (4.0572 pied(s)),47 kilo(s) (103.635 livre(s)),Préfixe « ab- » + « Sol »
+360,Tropius,psy ,Pokémon Ravi,0.6 mètre(s) (2.0286 pied(s)),14 kilo(s) (30.87 livre(s)),Okay + Okay
+361,Eoko,glace ,Pokémon Capuche,0.7 mètre(s) (2.3667 pied(s)),16.8 kilo(s) (37.044 livre(s)),Stalagmite + Gamin
+362,Absol,glace ,Pokémon Face,0.5 mètre(s) (1.6905 pied(s)),256.5 kilo(s) (565.5825 livre(s)),« Oni » + Glace + « Goalie »
+363,Okeoke,glace eau,Pokémon Clap Clap,0.8 mètre(s) (2.7048 pied(s)),39.5 kilo(s) (87.0975 livre(s)),Otarie + Ballon
+364,Stalgamin,glace eau,Pokémon Roule Boule,1.1 mètre(s) (3.7191 pied(s)),87.6 kilo(s) (193.158 livre(s)),Phoque + Jongleur
+365,Oniglali,glace eau,Pokémon Brise Glace,1.4 mètre(s) (4.7334 pied(s)),150.6 kilo(s) (332.073 livre(s)),« Kaiser » ou Cailler + Morse
+366,Obalie,eau ,Pokémon Bivalve,0.4 mètre(s) (1.3524 pied(s)),52.5 kilo(s) (115.7625 livre(s)),Coquille + Perle
+367,Phogleur,eau ,Pokémon Abysse,1.7 mètre(s) (5.7477 pied(s)),27 kilo(s) (59.535 livre(s)),Serpent + Anguille
+368,Kaimorse,eau ,Pokémon Mer du Sud,1.8 mètre(s) (6.0858 pied(s)),22.6 kilo(s) (49.833 livre(s)),Rose + Abysse
+369,Coquiperl,eau roche,Pokémon Longévité,1 mètre(s) (3.381 pied(s)),23.4 kilo(s) (51.597 livre(s)),Relique + Cœlacanthe
+370,Serpang,eau ,Pokémon Rendez-vous,0.6 mètre(s) (2.0286 pied(s)),8.7 kilo(s) (19.1835 livre(s)),« Love » + Discus
+371,Rosabyss,dragon ,Pokémon Tête de roc,0.6 mètre(s) (2.0286 pied(s)),42.1 kilo(s) (92.8305 livre(s)),Dragon + « Baby »
+372,Relicanth,dragon ,Pokémon Endurant,1.1 mètre(s) (3.7191 pied(s)),110.5 kilo(s) (243.6525 livre(s)),Dragon + Blockhaus
+373,Lovdisc,dragon vol,Pokémon Dragon,1.5 mètre(s) (5.0715 pied(s)),102.6 kilo(s) (226.233 livre(s)),Dragon + Attaque
+374,Draby,acier psy,Pokémon Boulefer,0.6 mètre(s) (2.0286 pied(s)),95.2 kilo(s) (209.916 livre(s)),Haltère
+375,Drackhaus,acier psy,Pokémon Pincefer,1.2 mètre(s) (4.0572 pied(s)),202.5 kilo(s) (446.5125 livre(s)),Magnet ou Métal + « Tengu »
+376,Drattak,acier psy,Pokémon Pattefer,1.6 mètre(s) (5.4096 pied(s)),550 kilo(s) (1212.75 livre(s)),Métal + Colosse
+377,Terhal,roche ,Pokémon Pic Rocheux,1.7 mètre(s) (5.7477 pied(s)),230 kilo(s) (507.15 livre(s)),« Regis » + « Rock »
+378,Metang,glace ,Pokémon Iceberg,1.8 mètre(s) (6.0858 pied(s)),175 kilo(s) (385.875 livre(s)),« Regis » + « Ice »
+379,Metalosse,acier ,Pokémon Fer,1.9 mètre(s) (6.4239 pied(s)),205 kilo(s) (452.025 livre(s)),« Regis » + « Steel »
+380,Regirock,dragon psy,Pokémon Éon,1.4 mètre(s) (4.7334 pied(s)),40 kilo(s) (88.2 livre(s)),« Lateo » + « -as »
+381,Regice,dragon psy,Pokémon Éon,2 mètre(s) (6.762 pied(s)),60 kilo(s) (132.3 livre(s)),« Lateo » + « -os »
+382,Registeel,eau ,Pokémon Bassinmarin,4.5 mètre(s) (15.2145 pied(s)),352 kilo(s) (776.16 livre(s)),Kaiyou + Ogre
+383,Latias,sol ,Pokémon Continent,3.5 mètre(s) (11.8335 pied(s)),950 kilo(s) (2094.75 livre(s)),Ground + Don
+384,Latios,dragon vol,Pokémon Cieux,7 mètre(s) (23.667 pied(s)),206.5 kilo(s) (455.3325 livre(s)),Rayon + Quasar
+385,Kyogre,acier psy,Pokémon Souhait,0.3 mètre(s) (1.0143 pied(s)),1.1 kilo(s) (2.4255 livre(s)),« желать zhelatʹ « ou « Jireh » + « Chi »
+387,Groudon,plante ,Pokémon Minifeuille,0.4 mètre(s) (1.3524 pied(s)),10.2 kilo(s) (22.491 livre(s)),Tortue + Petit + Pousse
+388,Rayquaza,plante ,Pokémon Bosquet,1.1 mètre(s) (3.7191 pied(s)),97 kilo(s) (213.885 livre(s)),Bosquet + Carapace
+389,Jirachi,plante sol,Pokémon Continent,2.2 mètre(s) (7.4382 pied(s)),310 kilo(s) (683.55 livre(s)),Tortue + « Terra »
+390,Tortipouss,feu ,Pokémon Chimpanzé,0.5 mètre(s) (1.6905 pied(s)),6.2 kilo(s) (13.671 livre(s)),Ouistiti + Cramer
+391,Boskara,feu combat,Pokémon Garnement,0.9 mètre(s) (3.0429 pied(s)),22 kilo(s) (48.51 livre(s)),Chimpanzé + « En feu »
+392,Torterra,feu combat,Pokémon Flamme,1.2 mètre(s) (4.0572 pied(s)),55 kilo(s) (121.275 livre(s)),Simiens + Brasier
+393,Ouisticram,eau ,Pokémon Pingouin,0.4 mètre(s) (1.3524 pied(s)),5.2 kilo(s) (11.466 livre(s)),Petit + « Plouf »
+394,Chimpenfeu,eau ,Pokémon Pingouin,0.8 mètre(s) (2.7048 pied(s)),23 kilo(s) (50.715 livre(s)),Prince + «Plouf»
+395,Simiabraz,eau acier,Pokémon Empereur,1.7 mètre(s) (5.7477 pied(s)),84.5 kilo(s) (186.3225 livre(s)),Pingouin + Napoléon
+396,Tiplouf,normal vol,Pokémon Étourneau,0.3 mètre(s) (1.0143 pied(s)),2 kilo(s) (4.41 livre(s)),Étourneau + Mignon
+397,Prinplouf,normal vol,Pokémon Étourneau,0.6 mètre(s) (2.0286 pied(s)),15.5 kilo(s) (34.1775 livre(s)),Étourneau + Vol
+398,Pingoleon,normal vol,Pokémon Rapace,1.2 mètre(s) (4.0572 pied(s)),24.9 kilo(s) (54.9045 livre(s)),Étourneau + « Raptor »
+399,Etourmi,normal ,Pokémon Souridodue,0.5 mètre(s) (1.6905 pied(s)),20 kilo(s) (44.1 livre(s)),Quenotte + Castor
+400,Etourvol,normal eau,Pokémon Castor,1 mètre(s) (3.381 pied(s)),31.5 kilo(s) (69.4575 livre(s)),Castor + Tonneau
+401,Etouraptor,insecte ,Pokémon Criquet,0.3 mètre(s) (1.0143 pied(s)),2.2 kilo(s) (4.851 livre(s)),Criquet + « Zik »
+402,Keunotor,insecte ,Pokémon Criquet,1 mètre(s) (3.381 pied(s)),25.5 kilo(s) (56.2275 livre(s)),Mélodie + Criquet
+403,Castorno,electrik ,Pokémon Flash,0.5 mètre(s) (1.6905 pied(s)),9.5 kilo(s) (20.9475 livre(s)),Lion + Lynx + « Lux »
+404,Crikzik,electrik ,Pokémon Étincelle,0.9 mètre(s) (3.0429 pied(s)),30.5 kilo(s) (67.2525 livre(s)),« Lux » + Lion
+405,Melokrik,electrik ,Pokémon Brilloeil,1.4 mètre(s) (4.7334 pied(s)),42 kilo(s) (92.61 livre(s)),« Lux » + Rayon (X)
+406,Lixy,plante poison,Pokémon Bourgeon,0.2 mètre(s) (0.6762 pied(s)),1.2 kilo(s) (2.646 livre(s)),Rose + Bouton
+407,Luxio,plante poison,Pokémon Bouquet,0.9 mètre(s) (3.0429 pied(s)),14.5 kilo(s) (31.9725 livre(s)),Rose + Mascarade
+408,Luxray,roche ,Pokémon Coud’Boule,0.9 mètre(s) (3.0429 pied(s)),31.5 kilo(s) (69.4575 livre(s)),Crâne / « Cranium » + Os
+409,Rozbouton,roche ,Pokémon Coud'Boule,1.6 mètre(s) (5.4096 pied(s)),102.5 kilo(s) (226.0125 livre(s)),Charger + Casser + Os
+410,Roserade,roche acier,Pokémon Bouclier,0.5 mètre(s) (1.6905 pied(s)),57 kilo(s) (125.685 livre(s)),Dinosaure + Bouclier
+411,Kranidos,roche acier,Pokémon Bouclier,1.3 mètre(s) (4.3953 pied(s)),149.5 kilo(s) (329.6475 livre(s)),Bastion + « -odon » / « -don »
+412,Charkos,insecte ,Pokémon Ver Caché,0.2 mètre(s) (0.6762 pied(s)),3.4 kilo(s) (7.497 livre(s)),Chenille + Petit
+414,Dinoclier,insecte vol,Pokémon Phalène,0.9 mètre(s) (3.0429 pied(s)),23.3 kilo(s) (51.3765 livre(s)),Papillon + « Lord »
+415,Bastiodon,insecte vol,Pokémon Miniabeille,0.3 mètre(s) (1.0143 pied(s)),5.5 kilo(s) (12.1275 livre(s)),« Apis » + « Tri » + Mini
+416,Cheniti,insecte vol,Pokémon Ruche,1.2 mètre(s) (4.0572 pied(s)),38.5 kilo(s) (84.8925 livre(s)),« Apis » + Reine
+417,Papilord,electrik ,Pokémon Ecurélec,0.4 mètre(s) (1.3524 pied(s)),3.9 kilo(s) (8.5995 livre(s)),« Pachipachi » + « Risu »
+418,Apitrini,eau ,Pokémon Aquabelette,0.7 mètre(s) (2.3667 pied(s)),29.5 kilo(s) (65.0475 livre(s)),Mustélidés + Bouée
+419,Apireine,eau ,Pokémon Aquabelette,1.1 mètre(s) (3.7191 pied(s)),33.5 kilo(s) (73.8675 livre(s)),Mustélidés + Flotter
+420,Pachirisu,plante ,Pokémon Cerise,0.4 mètre(s) (1.3524 pied(s)),3.3 kilo(s) (7.2765 livre(s)),Cerise + Bout ou Bourgeon
+421,Mustebouee,plante ,Pokémon Floraison,0.5 mètre(s) (1.6905 pied(s)),9.3 kilo(s) (20.5065 livre(s)),Ceriflor : Cerise + Flore
+422,Musteflott,eau ,Pokémon Aqualimace,0.3 mètre(s) (1.0143 pied(s)),6.3 kilo(s) (13.8915 livre(s)),Sans + Coquille
+423,Ceribou,eau sol,Pokémon Aqualimace,0.9 mètre(s) (3.0429 pied(s)),29.9 kilo(s) (65.9295 livre(s)),Tritoniidae + « -saure »
+424,Ceriflor,normal ,Pokémon Longqueue,1.2 mètre(s) (4.0572 pied(s)),20.3 kilo(s) (44.7615 livre(s)),Capucin + Ambidextre
+425,Sancoki,spectre vol,Pokémon Bouboule,0.4 mètre(s) (1.3524 pied(s)),1.2 kilo(s) (2.646 livre(s)),Baudruche + Dériver
+426,Tritosor,spectre vol,Pokémon Ballon,1.2 mètre(s) (4.0572 pied(s)),15 kilo(s) (33.075 livre(s)),Gros + Dériver
+427,Capidextre,normal ,Pokémon Lapin,0.4 mètre(s) (1.3524 pied(s)),5.5 kilo(s) (12.1275 livre(s)),Lapin + Oreille
+428,Baudrive,normal ,Pokémon Lapin,1.2 mètre(s) (4.0572 pied(s)),33.3 kilo(s) (73.4265 livre(s)),"""Lock"" + Lapin"
+429,Grodrive,spectre ,Pokémon Magique,0.9 mètre(s) (3.0429 pied(s)),4.4 kilo(s) (9.702 livre(s)),Magie + Rêve
+430,Laporeille,tenebres vol,Pokémon Big Boss,0.9 mètre(s) (3.0429 pied(s)),27.3 kilo(s) (60.1965 livre(s)),Corbeau + Boss
+431,Lockpin,normal ,Pokémon Chafouin,0.5 mètre(s) (1.6905 pied(s)),3.9 kilo(s) (8.5995 livre(s)),Chat + Glamour
+432,Magireve,normal ,Pokémon Chatigre,1 mètre(s) (3.381 pied(s)),43.8 kilo(s) (96.579 livre(s)),Chat + Affreux
+433,Corboss,psy ,Pokémon Clochette,0.2 mètre(s) (0.6762 pied(s)),0.6 kilo(s) (1.323 livre(s)),Écho + Carillon
+434,Chaglam,poison tenebres,Pokémon Moufette,0.4 mètre(s) (1.3524 pied(s)),19.2 kilo(s) (42.336 livre(s)),Moufouette : Moufette + Fouetter
+435,Chaffreux,poison tenebres,Pokémon Moufette,1 mètre(s) (3.381 pied(s)),38 kilo(s) (83.79 livre(s)),Moufette + Flair
+436,Korillon,acier psy,Pokémon Bronze,0.5 mètre(s) (1.6905 pied(s)),60.5 kilo(s) (133.4025 livre(s)),"""Archéo"" + Miroir"
+437,Moufouette,acier psy,Pokémon Clochebronze,1.3 mètre(s) (4.3953 pied(s)),187 kilo(s) (412.335 livre(s)),"""Archéo"" + ""Dong"""
+438,Moufflair,roche ,Pokémon Bonsaï,0.5 mètre(s) (1.6905 pied(s)),15 kilo(s) (33.075 livre(s)),Manipulation + Bonsaï
+439,Archeomire,psy fee,Pokémon Mime,0.6 mètre(s) (2.0286 pied(s)),13 kilo(s) (28.665 livre(s)),Mime + Junior
+440,Archeodong,normal ,Pokémon Maisonjouet,0.6 mètre(s) (2.0286 pied(s)),24.4 kilo(s) (53.802 livre(s)),"""Pti"" (Petit) + Ravi"
+441,Manzai,normal vol,Pokémon Note Musique,0.5 mètre(s) (1.6905 pied(s)),1.9 kilo(s) (4.1895 livre(s)),"Piano + ""Jaco"""
+442,Mime,spectre tenebres,Pokémon Interdit,1 mètre(s) (3.381 pied(s)),108 kilo(s) (238.14 livre(s)),"""Spirit"" + ""Tomb"""
+443,Ptiravi,dragon sol,Pokémon Terrequin,0.7 mètre(s) (2.3667 pied(s)),20.5 kilo(s) (45.2025 livre(s)),"Grignoter + ""Knot"" (Quenotte)"
+444,Pijako,dragon sol,Pokémon Caverne,1.4 mètre(s) (4.7334 pied(s)),56 kilo(s) (123.48 livre(s)),Carcharhiniforme + Mâche
+445,Spiritomb,dragon sol,Pokémon Supersonic,1.9 mètre(s) (6.4239 pied(s)),95 kilo(s) (209.475 livre(s)),Carcharhiniforme + croc
+446,Griknot,normal ,Pokémon Goinfre,0.6 mètre(s) (2.0286 pied(s)),105 kilo(s) (231.525 livre(s)),Goinfre + Relax
+447,Carmache,combat ,Pokémon Émanation,0.7 mètre(s) (2.3667 pied(s)),20.2 kilo(s) (44.541 livre(s)),«Orichalcum» + «Lupaster»
+448,Carchacrok,combat acier,Pokémon Aura,1.2 mètre(s) (4.0572 pied(s)),54 kilo(s) (119.07 livre(s)),« Lupaster » + « Orichalcum »
+449,Goinfrex,sol ,Pokémon Hippo,0.8 mètre(s) (2.7048 pied(s)),49.5 kilo(s) (109.1475 livre(s)),"vient de ""Hippopotamus"""
+450,Riolu,sol ,Pokémon Poids Lourd,2 mètre(s) (6.762 pied(s)),300 kilo(s) (661.5 livre(s)),Hippopotame + Diplodocus
+451,Lucario,poison insecte,Pokémon Scorpion,0.8 mètre(s) (2.7048 pied(s)),12 kilo(s) (26.46 livre(s)),Dérivé de Scorpion
+452,Hippopotas,poison tenebres,Pokémon Scorpogre,1.3 mètre(s) (4.3953 pied(s)),61.5 kilo(s) (135.6075 livre(s)),Dragon + Scorpion
+453,Hippodocus,poison combat,Pokémon Toxique,0.7 mètre(s) (2.3667 pied(s)),23 kilo(s) (50.715 livre(s)),Crado + Crapaud
+454,Rapion,poison combat,Pokémon Toxique,1.3 mètre(s) (4.3953 pied(s)),44.4 kilo(s) (97.902 livre(s)),Coasser + Toxique
+455,Drascore,plante ,Pokémon Chopinsecte,1.4 mètre(s) (4.7334 pied(s)),27 kilo(s) (59.535 livre(s)),Carnivore + Plante
+456,Cradopaud,eau ,Pokémon Poisson Ailé,0.4 mètre(s) (1.3524 pied(s)),7 kilo(s) (15.435 livre(s)),Écayon : Écaille + Néon
+457,Coatox,eau ,Pokémon Néon,1.2 mètre(s) (4.0572 pied(s)),24 kilo(s) (52.92 livre(s)),Lumineux + Néon
+458,Vortente,eau vol,Pokémon Cervolant,1 mètre(s) (3.381 pied(s)),65 kilo(s) (143.325 livre(s)),Baby + Manta
+459,Ecayon,plante glace,Pokémon Arbregelé,1 mètre(s) (3.381 pied(s)),50.5 kilo(s) (111.3525 livre(s)),Blizzard + Petit
+460,Lumineon,plante glace,Pokémon Arbregelé,2.2 mètre(s) (7.4382 pied(s)),135.5 kilo(s) (298.7775 livre(s)),Blizzard + Roi
+461,Babimanta,tenebres glace,Pokémon Grifacérée,1.1 mètre(s) (3.7191 pied(s)),34 kilo(s) (74.97 livre(s)),Démon + Furet
+462,Blizzi,electrik acier,Pokémon Aimant,1.2 mètre(s) (4.0572 pied(s)),180 kilo(s) (396.9 livre(s)),Magnétique + Zone
+463,Blizzaroi,normal ,Pokémon Lécheur,1.7 mètre(s) (5.7477 pied(s)),140 kilo(s) (308.7 livre(s)),"Dérivé de ""Coup de langue"""
+464,Dimoret,sol roche,Pokémon Perceur,2.4 mètre(s) (8.1144 pied(s)),282.8 kilo(s) (623.574 livre(s)),Rhinocéros + Mastoc
+465,Magnezone,plante ,Pokémon Vigne,2 mètre(s) (6.762 pied(s)),128.6 kilo(s) (283.563 livre(s)),"Dérivé de ""Boule de nœuds"""
+466,Coudlangue,electrik ,Pokémon Foudrélec,1.8 mètre(s) (6.0858 pied(s)),140 kilo(s) (308.7 livre(s)),Électrique + Câble
+467,Rhinastoc,feu ,Pokémon Explosion,1.6 mètre(s) (5.4096 pied(s)),68 kilo(s) (149.94 livre(s)),Magma + Canon
+468,Bouldeneu,fee vol,Pokémon Célébration,1.5 mètre(s) (5.0715 pied(s)),38 kilo(s) (83.79 livre(s)),Toge + Kiss
+469,Elekable,insecte vol,Pokémon Libellogre,1.9 mètre(s) (6.4239 pied(s)),51.5 kilo(s) (113.5575 livre(s)),Yanma + Méga
+470,Maganon,plante ,Pokémon Verdoyant,1 mètre(s) (3.381 pied(s)),25.5 kilo(s) (56.2275 livre(s)),"Phylle + ""-li"""
+471,Togekiss,glace ,Pokémon Poudreuse,0.8 mètre(s) (2.7048 pied(s)),25.9 kilo(s) (57.1095 livre(s)),"Givre + ""-li"""
+472,Yanmega,sol vol,Pokémon Scorpicroc,2 mètre(s) (6.762 pied(s)),42.5 kilo(s) (93.7125 livre(s)),Scorpion + Voler
+473,Phyllali,glace sol,Pokémon Deudéfenses,2.5 mètre(s) (8.4525 pied(s)),291 kilo(s) (641.655 livre(s)),Mammouth + Cochon
+474,Givrali,normal ,Pokémon Virtuel,9 mètre(s) (30.429 pied(s)),34 kilo(s) (74.97 livre(s)),"Dérivé de ""Polygone"" + Z"
+475,Scorvol,psy combat,Pokémon Lame,1.6 mètre(s) (5.4096 pied(s)),52 kilo(s) (114.66 livre(s)),Galant + Lame
+476,Mammochon,roche acier,Pokémon Boussole,1.4 mètre(s) (4.7334 pied(s)),340 kilo(s) (749.7 livre(s)),Tarin + Énorme
+477,Porygon,spectre ,Pokémon Mainpince,2.2 mètre(s) (7.4382 pied(s)),106.6 kilo(s) (235.053 livre(s)),Nocturne + Noir
+478,Gallame,glace spectre,Pokémon Enneigement,1.3 mètre(s) (4.3953 pied(s)),26.6 kilo(s) (58.653 livre(s)),Môme + Arctique
+479,Tarinorme,electrik spectre,Pokémon Plasma,0.3 mètre(s) (1.0143 pied(s)),0.3 kilo(s) (0.6615 livre(s)),Moteur + Dynamique + Ectoplasme
+480,Noctunoir,psy ,Pokémon Savoir,0.3 mètre(s) (1.0143 pied(s)),0.3 kilo(s) (0.6615 livre(s)),Création + Elfe
+481,Momartik,psy ,Pokémon Émotion,0.3 mètre(s) (1.0143 pied(s)),0.3 kilo(s) (0.6615 livre(s)),Création + Follet
+482,Motisma,psy ,Pokémon Volonté,0.3 mètre(s) (1.0143 pied(s)),0.3 kilo(s) (0.6615 livre(s)),Création + Farfadet
+483,Crehelf,acier dragon,Pokémon Temps,5.4 mètre(s) (18.2574 pied(s)),683 kilo(s) (1506.015 livre(s)),Diamond + Dragon
+484,Crefollet,eau dragon,Pokémon Espace,4.2 mètre(s) (14.2002 pied(s)),336 kilo(s) (740.88 livre(s)),Dérivé de pāru
+485,Crefadet,feu acier,Pokémon Caldeira,1.7 mètre(s) (5.7477 pied(s)),430 kilo(s) (948.15 livre(s)),Heat + Transfert
+486,Dialga,normal ,Pokémon Prodigieux,3.7 mètre(s) (12.5097 pied(s)),420 kilo(s) (926.1 livre(s)),Regis + Gigas
+488,Palkia,psy ,Pokémon Lunaire,1.5 mètre(s) (5.0715 pied(s)),85.6 kilo(s) (188.748 livre(s)),"Crescent + Séléné + ""-a"""
+489,Heatran,eau ,Pokémon Dérivenmer,0.4 mètre(s) (1.3524 pied(s)),3.1 kilo(s) (6.8355 livre(s)),Manaphy + Cilone
+490,Regigigas,eau ,Pokémon Voyagenmer,0.3 mètre(s) (1.0143 pied(s)),1.4 kilo(s) (3.087 livre(s)),Mana + Fairy
+491,Cresselia,tenebres ,Pokémon Noirtotal,1.5 mètre(s) (5.0715 pied(s)),50.5 kilo(s) (111.3525 livre(s)),Dark + Kurai
+493,Phione,normal ,Pokémon Alpha,3.2 mètre(s) (10.8192 pied(s)),320 kilo(s) (705.6 livre(s)),Arkhè + Zeus
+494,Manaphy,psy feu,Pokémon Victoire,0.4 mètre(s) (1.3524 pied(s)),4 kilo(s) (8.82 livre(s)),Victoire + « Tiny » + Mini
+495,Darkrai,plante ,Pokémon Serpentherbe,0.6 mètre(s) (2.0286 pied(s)),8.1 kilo(s) (17.8605 livre(s)),Vipère + Lierre
+496,Arceus,plante ,Pokémon Serpentherbe,0.8 mètre(s) (2.7048 pied(s)),16 kilo(s) (35.28 livre(s)),Lianaja : Liane + Naja
+497,Victini,plante ,Pokémon Majestueux,3.3 mètre(s) (11.1573 pied(s)),63 kilo(s) (138.915 livre(s)),Majestueux + Aspic
+498,Vipelierre,feu ,Pokémon Cochon Feu,0.5 mètre(s) (1.6905 pied(s)),9.9 kilo(s) (21.8295 livre(s)),Gruik + Cuit
+499,Lianaja,feu combat,Pokémon Cochon Feu,1 mètre(s) (3.381 pied(s)),55.5 kilo(s) (122.3775 livre(s)),Gros + Rôti + Cochon
+500,Majaspic,feu combat,Pokémon Grochon Feu,1.6 mètre(s) (5.4096 pied(s)),150 kilo(s) (330.75 livre(s)),Roit + Rôti + Flamme
+501,Gruikui,eau ,Pokémon Loutre,0.5 mètre(s) (1.6905 pied(s)),5.9 kilo(s) (13.0095 livre(s)),Moussaillon + Mustélidés
+502,Grotichon,eau ,Pokémon Entraînement,0.8 mètre(s) (2.7048 pied(s)),24.5 kilo(s) (54.0225 livre(s)),Matelot + Loutre
+503,Roitiflam,eau ,Pokémon Dignitaire,1.5 mètre(s) (5.0715 pied(s)),94.6 kilo(s) (208.593 livre(s)),Clam + Amiral
+504,Moustillon,normal ,Pokémon Espion,0.5 mètre(s) (1.6905 pied(s)),111.6 kilo(s) (246.078 livre(s)),Rat + Attentif
+505,Mateloutre,normal ,Pokémon Vigilant,1.1 mètre(s) (3.7191 pied(s)),27 kilo(s) (59.535 livre(s)),Mirador + Radar
+506,Clamiral,normal ,Pokémon Chiot,0.4 mètre(s) (1.3524 pied(s)),4.1 kilo(s) (9.0405 livre(s)),"Dérivé de ""bon chiot"""
+507,Ratentif,normal ,Pokémon Chien Fidèle,0.9 mètre(s) (3.0429 pied(s)),14.7 kilo(s) (32.4135 livre(s)),"Dérivé de ""bon chien"""
+508,Miradar,normal ,Pokémon Magnanime,1.2 mètre(s) (4.0572 pied(s)),61 kilo(s) (134.505 livre(s)),Mastiff + Touffe
+509,Ponchiot,tenebres ,Pokémon Scélérat,0.4 mètre(s) (1.3524 pied(s)),10.1 kilo(s) (22.2705 livre(s)),Chat + Sacripant
+510,Ponchien,tenebres ,Pokémon Implacable,1.1 mètre(s) (3.7191 pied(s)),37.5 kilo(s) (82.6875 livre(s)),Leopardus
+511,Mastouffe,plante ,Pokémon Singe Herbe,0.6 mètre(s) (2.0286 pied(s)),10.5 kilo(s) (23.1525 livre(s)),Feuille + Sapajou
+512,Chacripan,plante ,Pokémon Singépine,1.1 mètre(s) (3.7191 pied(s)),30.5 kilo(s) (67.2525 livre(s)),Feuille + Orang-Outan
+513,Leopardus,feu ,Pokémon Brûlant,0.6 mètre(s) (2.0286 pied(s)),11 kilo(s) (24.255 livre(s)),Flamme + Sapajou
+514,Feuillajou,feu ,Pokémon Braise,1 mètre(s) (3.381 pied(s)),28 kilo(s) (61.74 livre(s)),Flamme + Orang-Outan
+515,Feuiloutan,eau ,Pokémon Jet d'Eau,0.6 mètre(s) (2.0286 pied(s)),13.5 kilo(s) (29.7675 livre(s)),Flot + Sapajou
+516,Flamajou,eau ,Pokémon Drainage,1 mètre(s) (3.381 pied(s)),29 kilo(s) (63.945 livre(s)),Flot + Orang-Outan
+517,Flamoutan,psy ,Pokémon Mangerêve,0.6 mètre(s) (2.0286 pied(s)),23.3 kilo(s) (51.3765 livre(s)),Mu + Luna
+518,Flotajou,psy ,Pokémon Rêveur,1.1 mètre(s) (3.7191 pied(s)),60.5 kilo(s) (133.4025 livre(s)),Musha musha + Luna
+519,Flotoutan,normal vol,Pokémon Tipigeon,0.3 mètre(s) (1.0143 pied(s)),2.1 kilo(s) (4.6305 livre(s)),Pois chiche + Pigeon
+520,Munna,normal vol,Pokémon Sauvapigeon,0.6 mètre(s) (2.0286 pied(s)),15 kilo(s) (33.075 livre(s)),Colombe + Beau
+521,Mushana,normal vol,Pokémon Fier,1.2 mètre(s) (4.0572 pied(s)),29 kilo(s) (63.945 livre(s)),Déplaisant + Faisan
+522,Poichigeon,electrik ,Pokémon Étincélec,0.8 mètre(s) (2.7048 pied(s)),29.8 kilo(s) (65.709 livre(s)),Zèbre + Biberon
+523,Colombeau,electrik ,Pokémon Foudrélec,1.6 mètre(s) (5.4096 pied(s)),79.5 kilo(s) (175.2975 livre(s)),Zèbre + Blitz
+524,Deflaisan,roche ,Pokémon Manteau,0.4 mètre(s) (1.3524 pied(s)),18 kilo(s) (39.69 livre(s)),Nodule + Lithos
+526,Zebibron,roche ,Pokémon Surpression,1.7 mètre(s) (5.7477 pied(s)),260 kilo(s) (573.3 livre(s)),Gigas + Lithos
+527,Zeblitz,psy vol,Pokémon Chovsouris,0.4 mètre(s) (1.3524 pied(s)),2.1 kilo(s) (4.6305 livre(s)),Chauve-souris + Sourire
+528,Nodulithe,psy vol,Pokémon Cupidon,0.9 mètre(s) (3.0429 pied(s)),10.5 kilo(s) (23.1525 livre(s)),Rhinolophe + Love
+529,Geolithe,sol ,Pokémon Taupe,0.3 mètre(s) (1.0143 pied(s)),8.5 kilo(s) (18.7425 livre(s)),Rotor + Taupe
+530,Gigalithe,sol acier,Pokémon Souterrain,0.7 mètre(s) (2.3667 pied(s)),40.4 kilo(s) (89.082 livre(s)),Mineur + Taupe
+531,Chovsourir,normal ,Pokémon Audition,1.1 mètre(s) (3.7191 pied(s)),31 kilo(s) (68.355 livre(s)),"""Nan mais oui"" + Ouïe"
+532,Rhinolove,combat ,Pokémon Costaud,0.6 mètre(s) (2.0286 pied(s)),12.5 kilo(s) (27.5625 livre(s)),Charpente + Apprenti
+533,Rototaupe,combat ,Pokémon Costaud,1.2 mètre(s) (4.0572 pied(s)),40 kilo(s) (88.2 livre(s)),Ouvrier + Fier
+534,Minotaupe,combat ,Pokémon Costaud,1.4 mètre(s) (4.7334 pied(s)),87 kilo(s) (191.835 livre(s)),Béton + Chef
+535,Nanmeouie,eau ,Pokémon Têtard,0.5 mètre(s) (1.6905 pied(s)),4.5 kilo(s) (9.9225 livre(s)),Triton + Onde
+536,Charpenti,eau sol,Pokémon Vibration,0.8 mètre(s) (2.7048 pied(s)),17 kilo(s) (37.485 livre(s)),Batracien + Acné
+537,Ouvrifier,eau sol,Pokémon Vibration,1.5 mètre(s) (5.0715 pied(s)),62 kilo(s) (136.71 livre(s)),Crapaud + Pustule
+538,Betochef,combat ,Pokémon Judo,1.3 mètre(s) (4.3953 pied(s)),55.5 kilo(s) (122.3775 livre(s)),Judo + Crack
+539,Tritonde,combat ,Pokémon Karaté,1.4 mètre(s) (4.7334 pied(s)),51 kilo(s) (112.455 livre(s)),Karaté + Raclée
+540,Batracne,insecte plante,Pokémon Couture,0.3 mètre(s) (1.0143 pied(s)),2.5 kilo(s) (5.5125 livre(s)),Larve + Layette
+541,Crapustule,insecte plante,Pokémon Capefeuille,0.5 mètre(s) (1.6905 pied(s)),7.3 kilo(s) (16.0965 livre(s)),Couverture + Verdure
+542,Judokrak,insecte plante,Pokémon Précepteur,1.2 mètre(s) (4.0572 pied(s)),20.5 kilo(s) (45.2025 livre(s)),Mante + Maternel
+543,Karaclee,insecte poison,Pokémon Chilopode,0.4 mètre(s) (1.3524 pied(s)),5.3 kilo(s) (11.6865 livre(s)),Venimeux + Mille-pattes
+544,Larveyette,insecte poison,Pokémon Coconplopode,1.2 mètre(s) (4.0572 pied(s)),58.5 kilo(s) (128.9925 livre(s)),Scolopendre + Bolide
+545,Couverdure,insecte poison,Pokémon Mégaplopode,2.5 mètre(s) (8.4525 pied(s)),200.5 kilo(s) (442.1025 livre(s)),Brutal + Chilopode
+546,Manternel,plante fee,Pokémon Boule Coton,0.3 mètre(s) (1.0143 pied(s)),0.6 kilo(s) (1.323 livre(s)),"Répétition de ""doux"" + Duvet"
+547,Venipatte,plante fee,Pokémon Vole Vent,0.7 mètre(s) (2.3667 pied(s)),6.6 kilo(s) (14.553 livre(s)),Farfadet + Duvet
+548,Scobolide,plante ,Pokémon Racine,0.5 mètre(s) (1.6905 pied(s)),6.6 kilo(s) (14.553 livre(s)),Chlorophylle + Bulbe
+549,Brutapode,plante ,Pokémon Chef-Fleur,1.1 mètre(s) (3.7191 pied(s)),16.3 kilo(s) (35.9415 livre(s)),Fragile + Lady
+551,Doudouvet,sol tenebres,Pokémon Croco Sable,0.7 mètre(s) (2.3667 pied(s)),15.2 kilo(s) (33.516 livre(s)),Masque + Caïman
+552,Farfaduvet,sol tenebres,Pokémon Croco Sable,1 mètre(s) (3.381 pied(s)),33.4 kilo(s) (73.647 livre(s)),Escroquer + Crocodile
+553,Chlorobule,sol tenebres,Pokémon Intimidation,1.5 mètre(s) (5.0715 pied(s)),96.3 kilo(s) (212.3415 livre(s)),Crocodile + Horrible
+554,Fragilady,feu ,Pokémon Daruma,0.6 mètre(s) (2.0286 pied(s)),37.5 kilo(s) (82.6875 livre(s)),Daruma + Rond
+556,Mascaiman,plante ,Pokémon Cactus,1 mètre(s) (3.381 pied(s)),28 kilo(s) (61.74 livre(s)),Maracas + Cactus + Mariachi
+557,Escroco,insecte roche,Pokémon Lithicole,0.3 mètre(s) (1.0143 pied(s)),14.5 kilo(s) (31.9725 livre(s)),Crabe + Bicoque
+558,Crocorible,insecte roche,Pokémon Lapidicole,1.4 mètre(s) (4.7334 pied(s)),200 kilo(s) (441 livre(s)),Crabe + Baraque
+559,Darumarond,tenebres combat,Pokémon Mue,0.6 mètre(s) (2.0286 pied(s)),11.8 kilo(s) (26.019 livre(s)),Baggy + Iguane
+560,Maracachi,tenebres combat,Pokémon Gang,1.1 mètre(s) (3.7191 pied(s)),30 kilo(s) (66.15 livre(s)),Baggy + Caïd
+561,Crabicoque,psy vol,Pokémon Similoiseau,1.4 mètre(s) (4.7334 pied(s)),14 kilo(s) (30.87 livre(s)),Crypte + Pteron
+562,Crabaraque,spectre ,Pokémon Âme,0.5 mètre(s) (1.6905 pied(s)),1.5 kilo(s) (3.3075 livre(s)),Toutânkhamon + déformation de Fée
+563,Baggiguane,spectre ,Pokémon Cercueil,1.7 mètre(s) (5.7477 pied(s)),76.5 kilo(s) (168.6825 livre(s)),Toutânkhamon + Fer
+564,Baggaid,eau roche,Pokémon Tortantique,0.7 mètre(s) (2.3667 pied(s)),16.5 kilo(s) (36.3825 livre(s)),Carapace + Galápagos
+565,Cryptero,eau roche,Pokémon Tortantique,1.2 mètre(s) (4.0572 pied(s)),81 kilo(s) (178.605 livre(s)),Méga + Galápagos
+566,Tutafeh,roche vol,Pokémon Oisancien,0.6 mètre(s) (2.0286 pied(s)),9.5 kilo(s) (20.9475 livre(s)),Archéoptéryx + Petit
+567,Tutankafer,roche vol,Pokémon Oisancien,1.4 mètre(s) (4.7334 pied(s)),32 kilo(s) (70.56 livre(s)),Aeros + Archéoptéryx
+568,Carapagos,poison ,Pokémon Sac Poubelle,0.6 mètre(s) (2.0286 pied(s)),31 kilo(s) (68.355 livre(s)),Miam + Miasme
+569,Megapagos,poison ,Pokémon Dépotoir,1.9 mètre(s) (6.4239 pied(s)),107.3 kilo(s) (236.5965 livre(s)),Miasme + Maximum
+570,Arkeapti,tenebres ,Pokémon Sombrenard,0.7 mètre(s) (2.3667 pied(s)),12.5 kilo(s) (27.5625 livre(s)),Zorro + Rua
+571,Aeropteryx,tenebres ,Pokémon Polymorfox,1.6 mètre(s) (5.4096 pied(s)),81.1 kilo(s) (178.8255 livre(s)),Zorro + Dark
+572,Miamiasme,normal ,Pokémon Chinchilla,0.4 mètre(s) (1.3524 pied(s)),5.8 kilo(s) (12.789 livre(s)),Chinchilla + Doux
+573,Miasmax,normal ,Pokémon Écharpe,0.5 mètre(s) (1.6905 pied(s)),7.5 kilo(s) (16.5375 livre(s)),Pashmînâ + Chinchilla
+574,Zorua,psy ,Pokémon Dévisageur,0.4 mètre(s) (1.3524 pied(s)),5.8 kilo(s) (12.789 livre(s)),Scruter + « Stella »
+575,Zoroark,psy ,Pokémon Magouilleur,0.7 mètre(s) (2.3667 pied(s)),18 kilo(s) (39.69 livre(s)),Mesmérisme + « Stella »
+576,Chinchidou,psy ,Pokémon Cosmique,1.5 mètre(s) (5.0715 pied(s)),44 kilo(s) (97.02 livre(s)),Sidéral + « Stella »
+577,Pashmilla,psy ,Pokémon Cellule,0.3 mètre(s) (1.0143 pied(s)),1 kilo(s) (2.205 livre(s)),Nucleus + Méiose (ou Mitose)
+578,Scrutella,psy ,Pokémon Divisé,0.6 mètre(s) (2.0286 pied(s)),8 kilo(s) (17.64 livre(s)),dérive de Méiose
+579,Mesmerella,psy ,Pokémon Multiplié,1 mètre(s) (3.381 pied(s)),20.1 kilo(s) (44.3205 livre(s)),dérivé de Symbiose
+580,Siderella,eau vol,Pokémon Oiseaudo,0.5 mètre(s) (1.6905 pied(s)),5.5 kilo(s) (12.1275 livre(s)),« Couac » + Caneton
+581,Nucleos,eau vol,Pokémon Cygne,1.3 mètre(s) (4.3953 pied(s)),24.2 kilo(s) (53.361 livre(s)),Dérivé de Lac des cygnes
+582,Meios,glace ,Pokémon Poudreuse,0.4 mètre(s) (1.3524 pied(s)),5.7 kilo(s) (12.5685 livre(s)),Sorbet + Bébé
+583,Symbios,glace ,Pokémon Grêle,1.1 mètre(s) (3.7191 pied(s)),41 kilo(s) (90.405 livre(s)),Sorbet + Boule
+584,Couaneton,glace ,Pokémon Congère,1.5 mètre(s) (5.0715 pied(s)),57.5 kilo(s) (126.7875 livre(s)),Sorbet + Boule + Boule
+585,Lakmecygne,normal plante,Pokémon Saison,0.6 mètre(s) (2.0286 pied(s)),19.5 kilo(s) (42.9975 livre(s)),Vivaldi + Daim
+586,Sorbebe,normal plante,Pokémon Saison,1.9 mètre(s) (6.4239 pied(s)),92.5 kilo(s) (203.9625 livre(s)),Haydn + Daim
+587,Sorboul,electrik vol,Pokémon Pteromys,0.4 mètre(s) (1.3524 pied(s)),5 kilo(s) (11.025 livre(s)),Dérivé de « Emonga »
+588,Sorbouboul,insecte ,Pokémon Carabe,0.5 mètre(s) (1.6905 pied(s)),5.9 kilo(s) (13.0095 livre(s)),Carabe + « Bing »
+589,Vivaldaim,insecte acier,Pokémon Chevalier,1 mètre(s) (3.381 pied(s)),33 kilo(s) (72.765 livre(s)),Lance + Escargot
+590,Haydaim,plante poison,Pokémon Champignon,0.2 mètre(s) (0.6762 pied(s)),1 kilo(s) (2.205 livre(s)),Tromper + Champignon
+591,Emolga,plante poison,Pokémon Champignon,0.6 mètre(s) (2.0286 pied(s)),10.5 kilo(s) (23.1525 livre(s)),Gauler + Bolet
+592,Carabing,eau spectre,Pokémon Flottaison,1.2 mètre(s) (4.0572 pied(s)),33 kilo(s) (72.765 livre(s)),Visqueux + Méduse
+593,Lancargot,eau spectre,Pokémon Flottaison,2.2 mètre(s) (7.4382 pied(s)),135 kilo(s) (297.675 livre(s)),Méduse + Noyade
+594,Trompignon,eau ,Pokémon Soigneur,1.2 mètre(s) (4.0572 pied(s)),31.6 kilo(s) (69.678 livre(s)),Maman + Mambo
+595,Gaulet,insecte electrik,Pokémon Crampon,0.1 mètre(s) (0.3381 pied(s)),0.6 kilo(s) (1.323 livre(s)),Statik + Tique
+596,Viskuse,insecte electrik,Pokémon Araclectrik,0.8 mètre(s) (2.7048 pied(s)),14.3 kilo(s) (31.5315 livre(s)),Mygale + Volt
+597,Moyade,plante acier,Pokémon Graine Épine,0.6 mètre(s) (2.0286 pied(s)),18.8 kilo(s) (41.454 livre(s)),Graine + Dur
+598,Mamanbo,plante acier,Pokémon Boule Épine,1 mètre(s) (3.381 pied(s)),110 kilo(s) (242.55 livre(s)),Noix + Acier
+599,Statitik,acier ,Pokémon Engrenage,0.3 mètre(s) (1.0143 pied(s)),21 kilo(s) (46.305 livre(s)),dérivé de l'onomatopée « Tic-Tac »
+600,Mygavolt,acier ,Pokémon Engrenage,0.6 mètre(s) (2.0286 pied(s)),51 kilo(s) (112.455 livre(s)),dérivé de l'onomatopée « Clic »
+601,Grindur,acier ,Pokémon Engrenage,0.6 mètre(s) (2.0286 pied(s)),81 kilo(s) (178.605 livre(s)),Clic + Tic + Clic
+602,Noacier,electrik ,Pokémon Électrophore,0.2 mètre(s) (0.6762 pied(s)),0.3 kilo(s) (0.6615 livre(s)),Anchois + Watt
+603,Tic,electrik ,Pokémon Électrophore,1.2 mètre(s) (4.0572 pied(s)),22 kilo(s) (48.51 livre(s)),Lamproie + Ampère
+604,Clic,electrik ,Pokémon Électrophore,2.1 mètre(s) (7.1001 pied(s)),80.5 kilo(s) (177.5025 livre(s)),Ohm + Massacre
+605,Cliticlic,psy ,Pokémon Cerveau,0.5 mètre(s) (1.6905 pied(s)),9 kilo(s) (19.845 livre(s)),Roswell à l'envers
+606,Anchwatt,psy ,Pokémon Cerveau,1 mètre(s) (3.381 pied(s)),34.5 kilo(s) (76.0725 livre(s)),Martien à l'envers
+607,Lamperoie,spectre feu,Pokémon Chandelle,0.3 mètre(s) (1.0143 pied(s)),3.1 kilo(s) (6.8355 livre(s)),Funéraire + Cire
+608,Ohmassacre,spectre feu,Pokémon Lampe,0.6 mètre(s) (2.0286 pied(s)),13 kilo(s) (28.665 livre(s)),Mélancolie + « Lux »
+609,Lewsor,spectre feu,Pokémon Invitation,1 mètre(s) (3.381 pied(s)),34.3 kilo(s) (75.6315 livre(s)),Lugubre + Candélabre
+610,Neitram,dragon ,Pokémon Crocs,0.6 mètre(s) (2.0286 pied(s)),18 kilo(s) (39.69 livre(s)),Couper + Quenotte
+611,Funecire,dragon ,Pokémon Hachomenton,1 mètre(s) (3.381 pied(s)),36 kilo(s) (79.38 livre(s)),Incisive + Hache
+612,Melancolux,dragon ,Pokémon Hachomenton,1.8 mètre(s) (6.0858 pied(s)),105.5 kilo(s) (232.6275 livre(s)),Trancher + « -odon »
+613,Lugulabre,glace ,Pokémon Gelé,0.5 mètre(s) (1.6905 pied(s)),8.5 kilo(s) (18.7425 livre(s)),Polaire + Rhume
+614,Coupenotte,glace ,Pokémon Congelé,2.6 mètre(s) (8.7906 pied(s)),260 kilo(s) (573.3 livre(s)),Polaire + Griffe
+615,Incisache,glace ,Pokémon Cristal,1.1 mètre(s) (3.7191 pied(s)),148 kilo(s) (326.34 livre(s)),Hexagone + Gel
+616,Tranchodon,insecte ,Pokémon Escargot,0.4 mètre(s) (1.3524 pied(s)),7.7 kilo(s) (16.9785 livre(s)),Escargot + Heaume
+617,Polarhume,insecte ,Pokémon Exuviateur,0.8 mètre(s) (2.7048 pied(s)),23.5 kilo(s) (51.8175 livre(s)),Limace + « Speed »
+618,Polagriffe,electrik sol,Pokémon Piège,0.7 mètre(s) (2.3667 pied(s)),11 kilo(s) (24.255 livre(s)),Limon + Limande
+619,Hexagel,combat ,Pokémon Art Martial,0.8 mètre(s) (2.7048 pied(s)),20 kilo(s) (44.1 livre(s)),Kung-fu + Fouine
+620,Escargaume,combat ,Pokémon Art Martial,1.4 mètre(s) (4.7334 pied(s)),35.5 kilo(s) (78.2775 livre(s)),Shaoline + Fouine
+621,Limaspeed,dragon ,Pokémon Caverne,1.6 mètre(s) (5.4096 pied(s)),5.2 kilo(s) (11.466 livre(s)),Drakkar + Carmin
+622,Limonde,sol spectre,Pokémon Golem Ancien,1 mètre(s) (3.381 pied(s)),92 kilo(s) (202.86 livre(s)),Gringalet + Golem
+623,Kungfouine,sol spectre,Pokémon Golem Ancien,2.8 mètre(s) (9.4668 pied(s)),330 kilo(s) (727.65 livre(s)),Golem + Mastoc
+624,Shaofouine,tenebres acier,Pokémon Coupant,0.5 mètre(s) (1.6905 pied(s)),10.2 kilo(s) (22.491 livre(s)),Scalper + Pion
+625,Drakkarmin,tenebres acier,Pokémon Tranchant,1.6 mètre(s) (5.4096 pied(s)),70 kilo(s) (154.35 livre(s)),Scalper + Roi + Proie
+626,Gringolem,normal ,Pokémon Coup d'Bœuf,1.6 mètre(s) (5.4096 pied(s)),94.5 kilo(s) (208.3725 livre(s)),Frisé + Bison
+627,Golemastoc,normal vol,Pokémon Aiglon,0.5 mètre(s) (1.6905 pied(s)),10.5 kilo(s) (23.1525 livre(s)),Furie + Aiglon
+628,Scalpion,normal vol,Pokémon Vaillant,1.5 mètre(s) (5.0715 pied(s)),41 kilo(s) (90.405 livre(s)),Guerrier + Aigle
+629,Scalproie,tenebres vol,Pokémon Couche,0.5 mètre(s) (1.6905 pied(s)),9 kilo(s) (19.845 livre(s)),Vautour + Os + « -eau »
+630,Frison,tenebres vol,Pokémon Vostour,1.2 mètre(s) (4.0572 pied(s)),39.5 kilo(s) (87.0975 livre(s)),Vautour + Tutrice
+631,Furaiglon,feu ,Pokémon Tamanoir,1.4 mètre(s) (4.7334 pied(s)),58 kilo(s) (127.89 livre(s)),Affamé + Flamme + Tamanoir
+632,Gueriaigle,insecte acier,Pokémon Fourmi Dure,0.3 mètre(s) (1.0143 pied(s)),33 kilo(s) (72.765 livre(s)),Fer + Termite
+633,Vostourno,tenebres dragon,Pokémon Rude,0.8 mètre(s) (2.7048 pied(s)),17.3 kilo(s) (38.1465 livre(s)),« Solo » + Orochi
+634,Vaututrice,tenebres dragon,Pokémon Violent,1.4 mètre(s) (4.7334 pied(s)),50 kilo(s) (110.25 livre(s)),« di » + Tiamat
+635,Aflamanoir,tenebres dragon,Pokémon Brutal,1.8 mètre(s) (6.0858 pied(s)),160 kilo(s) (352.8 livre(s)),« Tri » + Oxyde + Hydre
+636,Fermite,insecte feu,Pokémon Torche,1.1 mètre(s) (3.7191 pied(s)),28.8 kilo(s) (63.504 livre(s)),« Pyro » + Chenille
+637,Solochi,insecte feu,Pokémon Soleil,1.6 mètre(s) (5.4096 pied(s)),46 kilo(s) (101.43 livre(s)),« Pyro » + Bombyx
+638,Diamat,acier combat,Pokémon Cœur de Fer,2.1 mètre(s) (7.1001 pied(s)),250 kilo(s) (551.25 livre(s)),« Cobalt » + « -ium »
+639,Trioxhydre,roche combat,Pokémon Grotte,1.9 mètre(s) (6.4239 pied(s)),260 kilo(s) (573.3 livre(s)),« Terra » + « -ium »
+640,Pyronille,plante combat,Pokémon Plaine Verte,2 mètre(s) (6.762 pied(s)),200 kilo(s) (441 livre(s)),« Viridis » + « -ium »
+643,Pyrax,dragon feu,Pokémon Blanc Réel,3.2 mètre(s) (10.8192 pied(s)),330 kilo(s) (727.65 livre(s)),dérivé de « Shiro »
+644,Cobaltium,dragon electrik,Pokémon Noir Idéal,2.9 mètre(s) (9.8049 pied(s)),345 kilo(s) (760.725 livre(s)),dérivé de « Kuro »
+646,Terrakium,dragon glace,Pokémon Frontière,3 mètre(s) (10.143 pied(s)),325 kilo(s) (716.625 livre(s)),« Kyuurei » + « Mu »
+647,Viridium,eau combat,Pokémon Poulain,1.4 mètre(s) (4.7334 pied(s)),48.5 kilo(s) (106.9425 livre(s)),dérivé de « Kelpie » ou de « Kelda » + Rodéo
+649,Reshiram,insecte acier,Pokémon Paléozoïque,1.5 mètre(s) (5.0715 pied(s)),82.5 kilo(s) (181.9125 livre(s)),Génétique + Insecte
+650,Zekrom,plante ,Pokémon Bogue,0.4 mètre(s) (1.3524 pied(s)),9 kilo(s) (19.845 livre(s)),Marron + Hérisson
+651,Kyurem,plante ,Pokémon Épinarmure,0.7 mètre(s) (2.3667 pied(s)),29 kilo(s) (63.945 livre(s)),Bogue + Hérisse
+652,Keldeo,plante combat,Pokémon Épinarmure,1.6 mètre(s) (5.4096 pied(s)),90 kilo(s) (198.45 livre(s)),Blindé + Pique
+653,Genesect,feu ,Pokémon Renard,0.4 mètre(s) (1.3524 pied(s)),9.4 kilo(s) (20.727 livre(s)),Feu + Fennec
+654,Marisson,feu ,Pokémon Renard,1 mètre(s) (3.381 pied(s)),14.5 kilo(s) (31.9725 livre(s)),Roussir + Goupil
+655,Boguerisse,feu psy,Pokémon Renard,1.5 mètre(s) (5.0715 pied(s)),39 kilo(s) (85.995 livre(s)),Goupil + Merlin
+656,Blindepique,eau ,Pokémon Crapobulle,0.3 mètre(s) (1.0143 pied(s)),7 kilo(s) (15.435 livre(s)),Grenouille + Mousse
+657,Feunnec,eau ,Pokémon Crapobulle,0.6 mètre(s) (2.0286 pied(s)),10.9 kilo(s) (24.0345 livre(s)),Croâ + Caporal
+658,Roussil,eau tenebres,Pokémon Ninja,1.5 mètre(s) (5.0715 pied(s)),40 kilo(s) (88.2 livre(s)),Amphibien + Shinobi
+659,Goupelin,normal ,Pokémon Fouisseur,0.4 mètre(s) (1.3524 pied(s)),5 kilo(s) (11.025 livre(s)),Saper + Lapereau
+660,Grenousse,normal sol,Pokémon Fouisseur,1 mètre(s) (3.381 pied(s)),42.4 kilo(s) (93.492 livre(s)),Excavateur + Garenne
+661,Croaporal,normal vol,Pokémon Rougegorge,0.3 mètre(s) (1.0143 pied(s)),1.7 kilo(s) (3.7485 livre(s)),Passereau + Rouge
+662,Amphinobi,feu vol,Pokémon Braise,0.7 mètre(s) (2.3667 pied(s)),16 kilo(s) (35.28 livre(s)),Braise + Oisillon
+663,Sapereau,feu vol,Pokémon Fournaise,1.2 mètre(s) (4.0572 pied(s)),24.5 kilo(s) (54.0225 livre(s)),Flamboyant + Busard
+664,Excavarenne,insecte ,Pokémon Exhalécaille,0.3 mètre(s) (1.0143 pied(s)),2.5 kilo(s) (5.5125 livre(s)),Lépidoptère + Chenille
+665,Passerouge,insecte ,Pokémon Exhalécaille,0.3 mètre(s) (1.0143 pied(s)),8.4 kilo(s) (18.522 livre(s)),Pérenniser + Grain
+666,Braisillon,insecte vol,Pokémon Lépidécaille,1.2 mètre(s) (4.0572 pied(s)),17 kilo(s) (37.485 livre(s)),Prisme + Papillon
+667,Flambusard,feu normal,Pokémon Lionceau,0.6 mètre(s) (2.0286 pied(s)),13.5 kilo(s) (29.7675 livre(s)),Hélios + Lionceau
+668,Lepidonille,feu normal,Pokémon Royal,1.5 mètre(s) (5.0715 pied(s)),81.5 kilo(s) (179.7075 livre(s)),Némée + Hélios
+669,Peregrain,fee ,Pokémon Uniflore,0.1 mètre(s) (0.3381 pied(s)),0.1 kilo(s) (0.2205 livre(s)),« Furawa » (Flower en japonais) + Bébé
+670,Prismillon,fee ,Pokémon Uniflore,0.2 mètre(s) (0.6762 pied(s)),0.9 kilo(s) (1.9845 livre(s)),Flore + Fluette
+671,Helionceau,fee ,Pokémon Jardin,1.1 mètre(s) (3.7191 pied(s)),10 kilo(s) (22.05 livre(s)),Flore + Orge
+672,Nemelios,plante ,Pokémon Monture,0.9 mètre(s) (3.0429 pied(s)),31 kilo(s) (68.355 livre(s)),Cabri + Laine
+673,Flabebe,plante ,Pokémon Monture,1.7 mètre(s) (5.7477 pied(s)),91 kilo(s) (200.655 livre(s)),Chèvre + « Vroum »
+674,Floette,combat ,Pokémon Garnement,0.6 mètre(s) (2.0286 pied(s)),8 kilo(s) (17.64 livre(s)),Panda + Espiègle
+675,Florges,combat tenebres,Pokémon Patibulaire,2.1 mètre(s) (7.1001 pied(s)),136 kilo(s) (299.88 livre(s)),Panda + Barbare
+676,Cabriolaine,normal ,Pokémon Caniche,1.2 mètre(s) (4.0572 pied(s)),28 kilo(s) (61.74 livre(s)),Coiffe + « Ouaf » + Aquarelle
+677,Chevroum,psy ,Pokémon Retenue,0.3 mètre(s) (1.0143 pied(s)),3.5 kilo(s) (7.7175 livre(s)),Psychisme + Mistigri
+679,Pandespiegle,acier spectre,Pokémon Glaive,0.8 mètre(s) (2.7048 pied(s)),2 kilo(s) (4.41 livre(s)),Monocle + Vorpale
+680,Pandarbare,acier spectre,Pokémon Glaive,0.8 mètre(s) (2.7048 pied(s)),4.5 kilo(s) (9.9225 livre(s)),Di (référence au latin de deux, duo) + Damoclès (nom d'une épée)
+682,Couafarel,fee ,Pokémon Fragrance,0.2 mètre(s) (0.6762 pied(s)),0.5 kilo(s) (1.1025 livre(s)),Effluve + Lutin
+683,Psystigri,fee ,Pokémon Parfum,0.8 mètre(s) (2.7048 pied(s)),15.5 kilo(s) (34.1775 livre(s)),Cocotter + Lutine
+684,Monorpale,fee ,Pokémon Confiserie,0.4 mètre(s) (1.3524 pied(s)),3.5 kilo(s) (7.7175 livre(s)),Sucre + Croquer + Coquin
+685,Dimocles,fee ,Pokémon Mousseline,0.8 mètre(s) (2.7048 pied(s)),5 kilo(s) (11.025 livre(s)),Cupcake + Canaille
+686,Fluvetin,tenebres psy,Pokémon Rotation,0.4 mètre(s) (1.3524 pied(s)),3.5 kilo(s) (7.7175 livre(s)),Sépia + Top
+687,Cocotine,tenebres psy,Pokémon Révolution,1.5 mètre(s) (5.0715 pied(s)),47 kilo(s) (103.635 livre(s)),Sépia + Atroce
+688,Sucroquin,roche eau,Pokémon Bimane,0.5 mètre(s) (1.6905 pied(s)),31 kilo(s) (68.355 livre(s)),Opercule + Vermine
+689,Cupcanaille,roche eau,Pokémon Assemblage,1.3 mètre(s) (4.3953 pied(s)),96 kilo(s) (211.68 livre(s)),Golgotha + Pathe
+690,Sepiatop,poison eau,Pokémon Simulalgue,0.5 mètre(s) (1.6905 pied(s)),7.3 kilo(s) (16.0965 livre(s)),Venin + Algue
+691,Sepiatroce,poison dragon,Pokémon Simulalgue,1.8 mètre(s) (6.0858 pied(s)),81.5 kilo(s) (179.7075 livre(s)),Kraken + Varech
+692,Opermine,eau ,Pokémon Lance à Eau,0.5 mètre(s) (1.6905 pied(s)),8.3 kilo(s) (18.3015 livre(s)),Flingue + Langouste
+693,Golgopathe,eau ,Pokémon Blaster,1.3 mètre(s) (4.3953 pied(s)),35.3 kilo(s) (77.8365 livre(s)),Gambas + Blast
+694,Venalgue,electrik normal,Pokémon Générateur,0.5 mètre(s) (1.6905 pied(s)),6 kilo(s) (13.23 livre(s)),Galvaniser + Varan
+695,Kravarech,electrik normal,Pokémon Générateur,1 mètre(s) (3.381 pied(s)),21 kilo(s) (46.305 livre(s)),Iguane + Volta
+696,Flingouste,roche dragon,Pokémon Prince,0.8 mètre(s) (2.7048 pied(s)),26 kilo(s) (57.33 livre(s)),Ptyranidur : Petit + Tyrannosaure + Dur
+697,Gamblast,roche dragon,Pokémon Tyran,2.5 mètre(s) (8.4525 pied(s)),270 kilo(s) (595.35 livre(s)),T-Rex + maxillaire + -ius (suffixe de dinosaure)
+698,Galvaran,roche glace,Pokémon Toundra,1.3 mètre(s) (4.3953 pied(s)),25.2 kilo(s) (55.566 livre(s)),tiré de Amargasaurus
+699,Iguolta,roche glace,Pokémon Toundra,2.7 mètre(s) (9.1287 pied(s)),225 kilo(s) (496.125 livre(s)),tiré de Amargasaurus + Dragon
+700,Ptyranidur,fee ,Pokémon Attachant,1 mètre(s) (3.381 pied(s)),23.5 kilo(s) (51.8175 livre(s)),Nymphe + suffixe « li »
+701,Rexillius,combat vol,Pokémon Catcheur,0.8 mètre(s) (2.7048 pied(s)),21.5 kilo(s) (47.4075 livre(s)),Brutal + Lucha Libre
+702,Amagara,electrik fee,Pokémon Antenne,0.2 mètre(s) (0.6762 pied(s)),2.2 kilo(s) (4.851 livre(s)),Denki (électricité en japonais) + antenne
+703,Dragmara,roche fee,Pokémon Joyau,0.3 mètre(s) (1.0143 pied(s)),5.7 kilo(s) (12.5685 livre(s)),Strass + Jolie
+704,Nymphali,dragon ,Pokémon Mollusque,0.3 mètre(s) (1.0143 pied(s)),2.8 kilo(s) (6.174 livre(s)),Mucus + Minuscule
+705,Brutalibre,dragon ,Pokémon Mollusque,0.8 mètre(s) (2.7048 pied(s)),17.5 kilo(s) (38.5875 livre(s)),Colimaçon + Mucus
+706,Dedenne,dragon ,Pokémon Dragon,2 mètre(s) (6.762 pied(s)),150.5 kilo(s) (331.8525 livre(s)),Mucus + Diplodocus
+707,Strassie,acier fee,Pokémon Trousseau,0.2 mètre(s) (0.6762 pied(s)),3 kilo(s) (6.615 livre(s)),Trousseau + Gobelin
+708,Mucuscule,spectre plante,Pokémon Souche,0.4 mètre(s) (1.3524 pied(s)),7 kilo(s) (15.435 livre(s)),Brocéliande + Fantôme
+709,Colimucus,spectre plante,Pokémon Vieillarbre,1.5 mètre(s) (5.0715 pied(s)),71 kilo(s) (156.555 livre(s)),Dessécher + Brocéliande
+712,Muplodocus,glace ,Pokémon Glaçon,1 mètre(s) (3.381 pied(s)),99.5 kilo(s) (219.3975 livre(s)),Grelotter + Glaçon
+713,Trousselin,glace ,Pokémon Iceberg,2 mètre(s) (6.762 pied(s)),505 kilo(s) (1113.525 livre(s)),Sérac + Crawler
+714,Brocelome,vol dragon,Pokémon Ondes,0.5 mètre(s) (1.6905 pied(s)),8 kilo(s) (17.64 livre(s)),Sonique + Pipistrelle
+715,Desseliande,vol dragon,Pokémon Ondes,1.5 mètre(s) (5.0715 pied(s)),85 kilo(s) (187.425 livre(s)),Bruit + Wyverne
+716,Grelacon,fee ,Pokémon Existence,3 mètre(s) (10.143 pied(s)),215 kilo(s) (474.075 livre(s)),X + Cervus (biche en latin) + Cernunnos (dieu gaulois à cornes)
+717,Seracrawl,tenebres vol,Pokémon Annihilation,5.8 mètre(s) (19.6098 pied(s)),203 kilo(s) (447.615 livre(s)),Y + Evil (être mauvais en anglais) + Quetzal (oiseau de la zone néotropicale)
+718,Sonistrelle,dragon sol,Pokémon Équilibre,5 mètre(s) (16.905 pied(s)),305 kilo(s) (672.525 livre(s)),Z + Zygote + Garde
+719,Bruyverne,roche fee,Pokémon Joyau,0.7 mètre(s) (2.3667 pied(s)),8.8 kilo(s) (19.404 livre(s)),« Diamond » + « Fancy » + « Pixie » + « Ishi »
+721,Xerneas,feu eau,Pokémon Vapeur,1.7 mètre(s) (5.7477 pied(s)),195 kilo(s) (429.975 livre(s)),Volcan + Canon + Lion
+722,Yveltal,plante vol,Pokémon Plumefeuille,0.3 mètre(s) (1.0143 pied(s)),1.5 kilo(s) (3.3075 livre(s)),Brindille + Hibou
+723,Zygarde,plante vol,Pokémon Plum'Acérée,0.7 mètre(s) (2.3667 pied(s)),16 kilo(s) (35.28 livre(s)),Effraie + Flèche + Mèche
+724,Diancie,plante spectre,Pokémon Plumeflèche,1.6 mètre(s) (5.4096 pied(s)),36.6 kilo(s) (80.703 livre(s)),Archer + Duc
+725,Volcanion,feu ,Pokémon Chat Feu,0.4 mètre(s) (1.3524 pied(s)),4.3 kilo(s) (9.4815 livre(s)),Flamme + « Miaou »
+726,Brindibou,feu ,Pokémon Chat Feu,0.7 mètre(s) (2.3667 pied(s)),25 kilo(s) (55.125 livre(s)),Matoufeu : Matou + Feu
+727,Effleche,feu tenebres,Pokémon Vil Catcheur,1.8 mètre(s) (6.0858 pied(s)),83 kilo(s) (183.015 livre(s)),Félin + Inferno
+728,Archeduc,eau ,Pokémon Otarie,0.4 mètre(s) (1.3524 pied(s)),7.5 kilo(s) (16.5375 livre(s)),Otarie + Taquin
+729,Flamiaou,eau ,Pokémon Starlette,0.6 mètre(s) (2.0286 pied(s)),17.5 kilo(s) (38.5875 livre(s)),Otarie + Starlette
+730,Matoufeu,eau fee,Pokémon Soliste,1.8 mètre(s) (6.0858 pied(s)),44 kilo(s) (97.02 livre(s)),Oratorio + Aria
+731,Felinferno,normal vol,Pokémon Pivert,0.3 mètre(s) (1.0143 pied(s)),1.2 kilo(s) (2.646 livre(s)),Pic-vert + Assaut
+732,Otaquin,normal vol,Pokémon Bec Clairon,0.6 mètre(s) (2.0286 pied(s)),14.8 kilo(s) (32.634 livre(s)),Pic-vert + Clairon
+733,Otarlette,normal vol,Pokémon Canon,1.1 mètre(s) (3.7191 pied(s)),26 kilo(s) (57.33 livre(s)),Bazooka + Toucan
+734,Oratoria,normal ,Pokémon Patrouille,0.4 mètre(s) (1.3524 pied(s)),6 kilo(s) (13.23 livre(s)),Mangouste + Glouton
+735,Picassaut,normal ,Pokémon Filature,0.7 mètre(s) (2.3667 pied(s)),14.2 kilo(s) (31.311 livre(s)),Arrêt + Mangouste
+736,Piclairon,insecte ,Pokémon Larve,0.4 mètre(s) (1.3524 pied(s)),4.4 kilo(s) (9.702 livre(s)),Larve + Mandibule
+737,Bazoucan,insecte electrik,Pokémon Batterie,0.5 mètre(s) (1.6905 pied(s)),10.5 kilo(s) (23.1525 livre(s)),Chrysalide + Pile
+738,Manglouton,insecte electrik,Pokémon Scarabée,1.5 mètre(s) (5.0715 pied(s)),45 kilo(s) (99.225 livre(s)),Lucane + Canon
+739,Argouste,combat ,Pokémon Boxeur,0.6 mètre(s) (2.0286 pied(s)),7 kilo(s) (15.435 livre(s)),Crabe + Bagarre
+740,Larvibule,combat glace,Pokémon Crabe Velu,1.7 mètre(s) (5.7477 pied(s)),180 kilo(s) (396.9 livre(s)),Crabe + Abominable
+742,Chrysapile,insecte fee,Pokémon Bombyle,0.1 mètre(s) (0.3381 pied(s)),0.2 kilo(s) (0.441 livre(s)),Bombyle + Doux
+743,Lucanon,insecte fee,Pokémon Bombyle,0.2 mètre(s) (0.6762 pied(s)),0.5 kilo(s) (1.1025 livre(s)),Ruban + Bomblye + Belle
+744,Crabagarre,roche ,Pokémon Chiot,0.5 mètre(s) (1.6905 pied(s)),9.2 kilo(s) (20.286 livre(s)),Roche + Cabot
+747,Crabominable,poison eau,Pokémon Cruel,0.4 mètre(s) (1.3524 pied(s)),8 kilo(s) (17.64 livre(s)),Vorace + Astérie
+748,Bombydou,poison eau,Pokémon Cruel,0.7 mètre(s) (2.3667 pied(s)),14.5 kilo(s) (31.9725 livre(s)),Prédateur + Astérie
+749,Rubombelle,sol ,Pokémon Âne,1 mètre(s) (3.381 pied(s)),110 kilo(s) (242.55 livre(s)),Petit + Boue + Baudet
+750,Rocabot,sol ,Pokémon Cheval Trait,2.5 mètre(s) (8.4525 pied(s)),920 kilo(s) (2028.6 livre(s)),Boue + Bourrin + Boulonnais
+751,Vorasterie,eau insecte,Pokémon Aquabulle,0.3 mètre(s) (1.0143 pied(s)),4 kilo(s) (8.82 livre(s)),Araignée + Aqua
+752,Predasterie,eau insecte,Pokémon Aquabulle,1.8 mètre(s) (6.0858 pied(s)),82 kilo(s) (180.81 livre(s)),Tarentule + Bulle
+753,Tiboudet,plante ,Pokémon Fauch'Herbe,0.3 mètre(s) (1.0143 pied(s)),1.5 kilo(s) (3.3075 livre(s)),Mini + Mantis
+754,Bourrinos,plante ,Pokémon Fauch'Fleur,0.9 mètre(s) (3.0429 pied(s)),18.5 kilo(s) (40.7925 livre(s)),Floral + Mantis
+755,Araqua,plante fee,Pokémon Luminescent,0.2 mètre(s) (0.6762 pied(s)),1.5 kilo(s) (3.3075 livre(s)),Spore + Dodo
+756,Tarenbulle,plante fee,Pokémon Luminescent,1 mètre(s) (3.381 pied(s)),11.5 kilo(s) (25.3575 livre(s)),Lampe + Champignon
+757,Mimantis,poison feu,Pokémon Toxilézard,0.6 mètre(s) (2.0286 pied(s)),4.8 kilo(s) (10.584 livre(s)),Triton + Toxique
+758,Floramantis,poison feu,Pokémon Toxilézard,1.2 mètre(s) (4.0572 pied(s)),22.2 kilo(s) (48.951 livre(s)),Mal + Salamandre
+759,Spododo,normal combat,Pokémon Gigoteur,0.5 mètre(s) (1.6905 pied(s)),6.8 kilo(s) (14.994 livre(s)),Nounours + Ourson
+760,Lampignon,normal combat,Pokémon Biscoteaux,2.1 mètre(s) (7.1001 pied(s)),135 kilo(s) (297.675 livre(s)),Chelou + Ours
+761,Tritox,plante ,Pokémon Fruit,0.3 mètre(s) (1.0143 pied(s)),3.2 kilo(s) (7.056 livre(s)),Croquer + Coquinus
+762,Malamandre,plante ,Pokémon Fruit,0.7 mètre(s) (2.3667 pied(s)),8.2 kilo(s) (18.081 livre(s)),Candy + Dandine
+763,Nounourson,plante ,Pokémon Fruit,1.2 mètre(s) (4.0572 pied(s)),21.4 kilo(s) (47.187 livre(s)),Sucre + Reine
+764,Chelours,fee ,Pokémon Tressefleur,0.1 mètre(s) (0.3381 pied(s)),0.3 kilo(s) (0.6615 livre(s)),Guérir + Guirlande
+765,Croquine,normal psy,Pokémon Grand Sage,1.5 mètre(s) (5.0715 pied(s)),76 kilo(s) (167.58 livre(s)),Gourou + Orang-Outang
+766,Candine,combat ,Pokémon Coopération,2 mètre(s) (6.762 pied(s)),82.8 kilo(s) (182.574 livre(s)),Quarterback + Primate
+767,Sucreine,insecte eau,Pokémon Cavaleur,0.5 mètre(s) (1.6905 pied(s)),12 kilo(s) (26.46 livre(s)),"""Sauve qui peut"" + Pou"
+768,Guerilande,insecte eau,Pokémon Blindé,2 mètre(s) (6.762 pied(s)),108 kilo(s) (238.14 livre(s)),Samouraï + Armure
+769,Gouroutan,spectre sol,Pokémon Pâtéd’Sable,0.5 mètre(s) (1.6905 pied(s)),70 kilo(s) (154.35 livre(s)),Bac à sable + Bouh
+770,Quartermac,spectre sol,Pokémon Châtod'Sable,1.3 mètre(s) (4.3953 pied(s)),250 kilo(s) (551.25 livre(s)),Trépasser + Sable
+771,Sovkipou,eau ,Pokémon Holothurie,0.3 mètre(s) (1.0143 pied(s)),1.2 kilo(s) (2.646 livre(s)),Concombre de mer + Baffe
+772,Sarmurai,normal ,Pokémon Multigénome,1.9 mètre(s) (6.4239 pied(s)),120.5 kilo(s) (265.7025 livre(s)),Type + 0
+773,Bacabouh,normal ,Pokémon Multigénome,2.3 mètre(s) (7.7763 pied(s)),100.5 kilo(s) (221.6025 livre(s)),Silver + Allié
+775,Trepassable,normal ,Pokémon Rêveur,0.4 mètre(s) (1.3524 pied(s)),19.9 kilo(s) (43.8795 livre(s)),Dodo + Koala
+776,Concombaffe,feu dragon,Pokémon Tortue Boum,2 mètre(s) (6.762 pied(s)),212 kilo(s) (467.46 livre(s)),Boum + Matamata
+777,Type0,electrik acier,Pokémon Roulenboule,0.3 mètre(s) (1.0143 pied(s)),3.3 kilo(s) (7.2765 livre(s)),togedemaru
+778,Silvallie,spectre fee,Pokémon Fantômasque,0.2 mètre(s) (0.6762 pied(s)),0.7 kilo(s) (1.5435 livre(s)),Mimique + Réplique
+779,Dodoala,eau psy,Pokémon Grincedent,0.9 mètre(s) (3.0429 pied(s)),19 kilo(s) (41.895 livre(s)),"Dérivé de ""dents qui crissent"""
+780,Boumata,normal dragon,Pokémon Nonchalant,3 mètre(s) (10.143 pied(s)),185 kilo(s) (407.925 livre(s)),Dragon + Aïeul
+781,Togedemaru,spectre plante,Pokémon Varech,3.9 mètre(s) (13.1859 pied(s)),210 kilo(s) (463.05 livre(s)),Sinistre + Gouvernail
+782,Mimiqui,dragon combat,Pokémon Écailles,0.6 mètre(s) (2.0286 pied(s)),29.7 kilo(s) (65.4885 livre(s)),Bébé + Écaille
+783,Denticrisse,dragon combat,Pokémon Écailles,1.2 mètre(s) (4.0572 pied(s)),7 kilo(s) (15.435 livre(s)),Écaille + Caïd
+784,Draieul,dragon combat,Pokémon Écailles,1.6 mètre(s) (5.4096 pied(s)),78.2 kilo(s) (172.431 livre(s)),Écaille + Kaiser
+785,Sinistrail,electrik fee,Pokémon Tutélaire,1.8 mètre(s) (6.0858 pied(s)),20.5 kilo(s) (45.2025 livre(s)),Totem + Tiki + Cocorico
+786,Bebecaille,psy fee,Pokémon Tutélaire,1.2 mètre(s) (4.0572 pied(s)),18.6 kilo(s) (41.013 livre(s)),Totem + Tiki + Papillon
+787,Ecaid,plante fee,Pokémon Tutélaire,1.9 mètre(s) (6.4239 pied(s)),45.5 kilo(s) (100.3275 livre(s)),Totem + Tiki + Taureau
+788,Ekaiser,eau fee,Pokémon Tutélaire,1.3 mètre(s) (4.3953 pied(s)),21.2 kilo(s) (46.746 livre(s)),Totem + Tiki + Piscis
+789,Tokorico,psy ,Pokémon Nébuleuse,0.2 mètre(s) (0.6762 pied(s)),0.1 kilo(s) (0.2205 livre(s)),Cosmos + Smog
+790,Tokopiyon,psy ,Pokémon Proto-Étoile,0.1 mètre(s) (0.3381 pied(s)),999.9 kilo(s) (2204.7795 livre(s)),Cosmos + Novum ?
+791,Tokotoro,psy acier,Pokémon Halo Solaire,3.4 mètre(s) (11.4954 pied(s)),230 kilo(s) (507.15 livre(s)),« Sol » + « Galea » + « Leo »
+792,Tokopisco,psy spectre,Pokémon Halo Lunaire,4 mètre(s) (13.524 pied(s)),120 kilo(s) (264.6 livre(s)),« Luna » + « Ala »
+793,Cosmog,roche poison,Pokémon Parasite,1.2 mètre(s) (4.0572 pied(s)),55.5 kilo(s) (122.3775 livre(s)),Zéro + Astéroïde ?
+794,Cosmovum,insecte combat,Pokémon Enflé,2.4 mètre(s) (8.1144 pied(s)),333.6 kilo(s) (735.588 livre(s)),Moustique + Biscoto
+795,Solgaleo,insecte combat,Pokémon Gracile,1.8 mètre(s) (6.0858 pied(s)),25 kilo(s) (55.125 livre(s)),Cancrelat + Love
+796,Lunala,electrik ,Pokémon Luminaire,3.8 mètre(s) (12.8478 pied(s)),100 kilo(s) (220.5 livre(s)),"Câble + ""-fère"""
+797,Zeroid,acier vol,Pokémon Décollage,9.2 mètre(s) (31.1052 pied(s)),999.9 kilo(s) (2204.7795 livre(s)),Bambou + Demoiselle
+798,Mouscoto,plante acier,Pokémon Battô,0.3 mètre(s) (1.0143 pied(s)),0.1 kilo(s) (0.2205 livre(s)),Katana + Origami
+799,Cancrelove,tenebres dragon,Pokémon Bizarrovore,5.5 mètre(s) (18.5955 pied(s)),888 kilo(s) (1958.04 livre(s)),Engloutir + Tyran
+800,Cablifere,psy ,Pokémon Prisme,2.4 mètre(s) (8.1144 pied(s)),230 kilo(s) (507.15 livre(s)),"""Nécro-"" + Ozma"
+801,Bamboiselle,acier fee,Pokémon Artificiel,1 mètre(s) (3.381 pied(s)),80.5 kilo(s) (177.5025 livre(s)),Machine + « Gear » + « -a »
+802,Katagami,combat spectre,Pokémon Ombrefuge,0.7 mètre(s) (2.3667 pied(s)),22.2 kilo(s) (48.951 livre(s)),Mars + Shadow
+803,Engloutyran,poison ,Pokémon Vénépic,0.6 mètre(s) (2.0286 pied(s)),1.8 kilo(s) (3.969 livre(s)),Venin/Venimeux + Mini
+804,Necrozma,poison dragon,Pokémon Vénépic,3.6 mètre(s) (12.1716 pied(s)),150 kilo(s) (330.75 livre(s)),Mandibule + Aiguillon
+805,Magearna,roche acier,Pokémon Muraille,5.5 mètre(s) (18.5955 pied(s)),820 kilo(s) (1808.1 livre(s)),"Diminutif de ""Amasser"", répété deux fois"
+806,Marshadow,feu spectre,Pokémon Artificier,1.8 mètre(s) (6.0858 pied(s)),13 kilo(s) (28.665 livre(s)),Pierrot + Pyrotechnique
+807,Vemini,electrik ,Pokémon Vif Éclair,1.5 mètre(s) (5.0715 pied(s)),44.5 kilo(s) (98.1225 livre(s)),"Zorro + ""era ora"""
